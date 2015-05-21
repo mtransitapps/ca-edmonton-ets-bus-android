@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name">MonTransit ETS Bus (Edmonton)</string>
+    <string name="app_desc">Edmonton ETS Bus data for MonTransit.</string>
+</resources>
