@@ -1,6 +1,7 @@
 Title: Edmonton ETS Bus - MonTransit
 ----------
 Short description:
+!EARLY RELEASE:1-4 only!
 Edmonton ETS buses for MonTransit BETA.
 Schedule. News.
 ----------
