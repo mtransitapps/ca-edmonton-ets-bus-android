@@ -4,6 +4,7 @@ Short description:
 !EARLY RELEASE:1-24 only!
 Edmonton ETS buses for MonTransit BETA.
 Schedule. News.
+//  Real-Time.
 ----------
 What's new in this version?:
 !EARLY RELEASE: bus routes 1-24 only!
@@ -17,6 +18,8 @@ Full description:
 This app adds Edmonton ETS buses information to MonTransit BETA.
 
 This app provides the schedule as well as news from @takeETSalert on Twitter.
+//  and YouTube
+// (offline and real-time)
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -38,6 +41,8 @@ This app is not related with ETS (Edmonton Transit System) and the City of Edmon
 
 Permissions:
 - Other: required to read news from Twitter
+//  and YouTube
+// to read real-time schedule from transitlive.com and
 ----------
 Application type: Applications
 ----------
