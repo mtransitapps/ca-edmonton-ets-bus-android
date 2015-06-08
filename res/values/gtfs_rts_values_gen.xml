@@ -6,7 +6,7 @@
     <string name="gtfs_rts_timezone">America/Edmonton</string>
     <string name="gtfs_rts_area_min_lat">53.399289</string>
     <string name="gtfs_rts_area_max_lat">53.63421</string>
-    <string name="gtfs_rts_area_min_lng">-113.687739</string>
+    <string name="gtfs_rts_area_min_lng">-113.694342</string>
     <string name="gtfs_rts_area_max_lng">-113.354428</string>
     <string name="gtfs_rts_color">2D3092</string>
 </resources>
