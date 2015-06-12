@@ -1,11 +1,11 @@
 101,0,'Capilano',1
-102,0,'West Edm. Mall',1
+102,0,'West Edm Mall',1
 201,1,'E',2
 202,1,'W',2
 301,0,'Cromdale',3
 302,0,'Jasper Pl',3
 401,0,'Capilano',4
-402,0,'West Edm. Mall / Lewis Farms',4
+402,0,'West Edm Mall / Lewis Farms',4
 501,0,'Coliseum',5
 502,0,'Westmount',5
 601,0,'Mill Woods',6
@@ -25,7 +25,7 @@
 1303,0,'Castle Downs',13
 1304,0,'Northgate',13
 1401,0,'Downtown / Jasper Pl',14
-1402,0,'West Edm. Mall',14
+1402,0,'West Edm Mall',14
 1503,0,'Eaux Claires',15
 1504,0,'Mill Woods',15
 1603,0,'Castle Downs',16
@@ -33,23 +33,23 @@
 1704,0,'Century Pk',17
 1703,0,'Southgate',17
 2301,0,'Mill Woods',23
-2302,0,'West Edm. Mall',23
+2302,0,'West Edm Mall',23
 2401,0,'Century Pk',24
 2402,0,'Leger',24
 3004,0,'Mill Woods / Century Pk',30
-3003,0,'S Campus / Fort Edm.',30
+3003,0,'S Campus / Ft Edm',30
 3104,0,'Leger',31
 3103,0,'Southgate',31
 3202,0,'Brander Gdns',32
-3201,0,'S Campus / Fort Edm.',32
-3301,0,'Meadows TC',33
-3302,0,'West Edm. Mall',33
+3201,0,'S Campus / Ft Edm',32
+3301,0,'Meadows',33
+3302,0,'West Edm Mall',33
 3402,0,'Leger',34
 3401,0,'Southgate',34
 3501,0,'Century Pk',35
 3502,0,'Leger',35
 3604,0,'Century Pk',36
-3603,0,'S Campus / Fort Edm.',36
+3603,0,'S Campus / Ft Edm',36
 3701,0,'Century Pk',37
 3702,0,'Leger',37
 3802,0,'Leger',38
@@ -63,7 +63,7 @@
 4204,0,'Century Pk',42
 4203,0,'Southgate',42
 4304,0,'Century Pk',43
-4303,0,'S Campus / Fort Edm.',43
+4303,0,'S Campus / Ft Edm',43
 4403,0,'Southgate',44
 4404,0,'Twin Brooks',44
 4504,0,'Century Pk',45
@@ -76,20 +76,20 @@
 4803,0,'Century Pk',48
 4904,0,'Blackmud Crk',49
 4903,0,'Century Pk',49
-5003,0,'S Campus / Fort Edm.',50
+5003,0,'S Campus / Ft Edm',50
 5004,0,'Southgate',50
 5104,0,'Parkallen',51
 5103,0,'University',51
 5203,0,'Downtown',52
 5204,0,'Southgate',52
-5303,0,'S Campus / Fort Edm.',53
+5303,0,'S Campus / Ft Edm',53
 5304,0,'Southgate',53
-5503,0,'S Campus / Fort Edm.',55
+5503,0,'S Campus / Ft Edm',55
 5504,0,'Southgate',55
 5701,0,'Downtown',57
 5702,0,'University',57
 5901,0,'Mill Woods',59
-5902,0,'S Edm. Common',59
+5902,0,'S Edm Common',59
 6003,0,'Downtown',60
 6004,0,'Mill Woods',60
 6103,0,'Downtown',61
@@ -104,7 +104,7 @@
 6504,0,'Knottwood',65
 6603,0,'Downtown',66
 6604,0,'Mill Woods',66
-6701,0,'Meadows TC',67
+6701,0,'Meadows',67
 6702,0,'Mill Woods',67
 6803,0,'Downtown',68
 6804,0,'Mill Woods',68
@@ -131,7 +131,7 @@
 8203,0,'Downtown',82
 8204,0,'Mill Woods',82
 8302,0,'Downtown',83
-8301,0,'Meadows TC',83
+8301,0,'Meadows',83
 8403,0,'Capilano',84
 8404,0,'Millgate',84
 8501,0,'Capilano',85
@@ -142,10 +142,10 @@
 8704,0,'Millgate',87
 8801,0,'Capilano',88
 8802,0,'Downtown',88
-8903,0,'Meadows TC',89
+8903,0,'Meadows',89
 8904,0,'Tamarack',89
 9002,0,'Downtown',90
-9001,0,'Meadows TC',90
+9001,0,'Meadows',90
 9202,0,'Millgate',92
 9201,0,'Plypow',92
 9401,0,'Capilano',94
@@ -159,37 +159,37 @@
 10002,0,'Downtown',100
 10001,0,'Lewis Farms',100
 10104,0,'Wedgewood Hts',101
-10103,0,'West Edm. Mall',101
+10103,0,'West Edm Mall',101
 10202,0,'Lymburn',102
-10201,0,'West Edm. Mall',102
+10201,0,'West Edm Mall',102
 10304,0,'Cameron Hts',103
-10303,0,'West Edm. Mall',103
+10303,0,'West Edm Mall',103
 10402,0,'Lymburn',104
-10401,0,'S Campus / Fort Edm.',104
+10401,0,'S Campus / Ft Edm',104
 10502,0,'Lessard',105
-10501,0,'S Campus / Fort Edm.',105
+10501,0,'S Campus / Ft Edm',105
 10602,0,'Lessard',106
 10601,0,'University',106
-10703,0,'West Edm. Mall',107
+10703,0,'West Edm Mall',107
 10704,0,'Westridge',107
 10804,0,'Breckenridge Grns',108
 10803,0,'Lewis Farms',108
 10901,0,'Downtown',109
-10902,0,'West Edm. Mall',109
-11002,0,'West Edm. Mall',110
+10902,0,'West Edm Mall',109
+11002,0,'West Edm Mall',110
 11001,0,'Westridge',110
 11101,0,'Downtown / Jasper Pl',111
-11102,0,'West Edm. Mall',111
+11102,0,'West Edm Mall',111
 11201,0,'Capilano',112
-11202,0,'West Edm. Mall',112
+11202,0,'West Edm Mall',112
 11303,0,'Jasper Pl',113
-11304,0,'West Edm. Mall',113
+11304,0,'West Edm Mall',113
 11401,0,'Jasper Pl',114
 11402,0,'Westview Vlg',114
 11503,0,'Northgate',115
-11504,0,'West Edm. Mall',115
+11504,0,'West Edm Mall',115
 11703,0,'Hamptons',117
-11704,0,'West Edm. Mall / Lewis Farms',117
+11704,0,'West Edm Mall / Lewis Farms',117
 11803,0,'Jasper Pl',118
 11804,0,'Rio Terrace',118
 11903,0,'Lewis Farms',119
@@ -198,36 +198,36 @@
 12001,0,'Stadium',120
 12101,0,'Northgate',121
 12102,0,'Westmount',121
-12202,0,'West Edm. Mall',122
+12202,0,'West Edm Mall',122
 12201,0,'Westmount',122
 12302,0,'Jasper Pl',123
 12301,0,'Westmount',123
-12402,0,'Mistatim Ind.',124
+12402,0,'Mistatim Ind',124
 12401,0,'Westmount',124
 12501,0,'Downtown',125
 12502,0,'Jasper Pl',125
-12604,0,'West Edm. Mall',126
+12604,0,'West Edm Mall',126
 12603,0,'Westmount',126
 12701,0,'Belvedere',127
 12702,0,'Westmount',127
 12803,0,'Castle Downs',128
 12804,0,'University',128
-12904,0,'West Edm. Mall',129
+12904,0,'West Edm Mall',129
 12903,0,'Westmount',129
 13003,0,'Northgate',130
 13004,0,'University',130
 13302,0,'Lewis Farms',133
-13301,0,'S Campus / Fort Edm.',133
+13301,0,'S Campus / Ft Edm',133
 13404,0,'Downtown',134
 13403,0,'Northgate',134
 13604,0,'Hamptons',136
-13603,0,'West Edm. Mall',136
-13703,0,'W Clareview',137
-13704,0,'West Edm. Mall',137
-13801,0,'S Campus / Fort Edm.',138
+13603,0,'West Edm Mall',136
+13703,0,'Clareview',137
+13704,0,'West Edm Mall',137
+13801,0,'S Campus / Ft Edm',138
 13802,0,'Wedgewood Hts',138
 13902,0,'Hamptons',139
-13901,0,'S Campus / Fort Edm.',139
+13901,0,'S Campus / Ft Edm',139
 14004,0,'Downtown / Northgate',140
 14003,0,'Lago Lindo',140
 14101,0,'Abbottsfield',141
@@ -238,10 +238,10 @@
 14301,0,'Montrose',143
 14504,0,'82 St / 132 Ave / Eaux Claires',145
 14503,0,'Lago Lindo',145
+14901,0,'Clareview',149
 14902,0,'Eaux Claires',149
-14901,0,'W Clareview',149
 15003,0,'Eaux Claires',150
-15004,0,'West Edm. Mall',150
+15004,0,'West Edm Mall',150
 15103,0,'Castle Downs',151
 15104,0,'King Edward Pk',151
 15201,0,'Belvedere',152
@@ -270,3 +270,39 @@
 16804,0,'Northgate',168
 16903,1,'N',169
 16904,1,'S',169
+18001,0,'Abbottsfield',180
+18002,0,'Downtown',180
+18102,0,'Belvedere',181
+18101,0,'Clareview',181
+18201,0,'Fraser',182
+18202,0,'Northgate',182
+18304,0,'Abbottsfield',183
+18303,0,'Clareview',183
+18404,0,'Clareview',184
+18403,0,'Evergreen',184
+18504,0,'Abbottsfield',185
+18503,0,'Clareview',185
+18601,0,'Fraser',186
+18602,0,'Northgate',186
+18701,0,'Kernohan',187
+18702,0,'Londonderry',187
+18802,0,'Eaux Claires',188
+18801,0,'Londonderry',188
+19001,0,'Clareview',190
+19002,0,'Eaux Claires',190
+19104,0,'Eaux Claires',191
+19103,0,'Klarvatten',191
+19203,0,'Brintnell',192
+19204,0,'Clareview',192
+19303,0,'Brintnell',193
+19304,0,'Clareview',193
+19402,0,'Eaux Claires',194
+19401,0,'Schonsee',194
+19504,0,'Clareview',195
+19503,0,'McConachie',195
+19701,0,'Downtown',197
+19702,0,'Spruce Grv',197
+19802,0,'Clareview',198
+19801,0,'Ft Saskatchewan',198
+19904,0,'Eaux Claires',199
+19903,0,'Edm Garrison',199
