@@ -68,8 +68,6 @@
 4404,0,'Twin Brooks',44
 4504,0,'Century Pk',45
 4503,0,'Southgate',45
-4603,0,'Harry Ainlay Lp',46
-4604,0,'Yellowbird',46
 4704,0,'Allard',47
 4703,0,'Century Pk',47
 4804,0,'Blackburn',48
@@ -146,6 +144,8 @@
 8904,0,'Tamarack',89
 9002,0,'Downtown',90
 9001,0,'Meadows',90
+9104,0,'Capilano',91
+9103,0,'Northlands',91
 9202,0,'Millgate',92
 9201,0,'Plypow',92
 9401,0,'Capilano',94
@@ -262,10 +262,6 @@
 16304,0,'Eaux Claires',163
 16403,0,'Canossa',164
 16404,0,'Northgate',164
-16503,1,'N',165
-16504,1,'S',165
-16703,0,'100 St / 160 Ave',167
-16704,0,'95 St / 132 Ave',167
 16803,0,'Eaux Claires',168
 16804,0,'Northgate',168
 16903,1,'N',169
@@ -282,12 +278,6 @@
 18403,0,'Evergreen',184
 18504,0,'Abbottsfield',185
 18503,0,'Clareview',185
-18601,0,'Fraser',186
-18602,0,'Northgate',186
-18701,0,'Kernohan',187
-18702,0,'Londonderry',187
-18802,0,'Eaux Claires',188
-18801,0,'Londonderry',188
 19001,0,'Clareview',190
 19002,0,'Eaux Claires',190
 19104,0,'Eaux Claires',191
