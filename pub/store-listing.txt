@@ -2,12 +2,12 @@ Title: Edmonton ETS Bus - MonTransit
 ----------
 Short description:
 !EARLY RELEASE:1-309 only!
-Edmonton ETS buses for MonTransit BETA.
-Schedule. News.
+Edmonton ETS buses for MonTransit BETA
+Schedule. News
 ----------
 What's new in this version?:
 !EARLY RELEASE: bus routes 1-309 only!
-Schedule from June 2, 2015 to June 27, 2015.
+Schedule from June 28, 2015 to August 29, 2015.
 Tweets from @takeETSalert.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
