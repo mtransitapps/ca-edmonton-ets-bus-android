@@ -1,30 +1,23 @@
 Title: Edmonton ETS Bus - MonTransit
 ----------
 Short description:
-!EARLY RELEASE:1-499 only!
-Edmonton ETS buses for MonTransit BETA
+Edmonton ETS buses for MonTransit.
 Schedule. News
 ----------
 What's new in this version?:
-!EARLY RELEASE: bus routes 1-499 only!
 Schedule from July 11, 2015 to September 5, 2015.
 Tweets from @takeETSalert.
-
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-!EARLY RELEASE: bus routes 1-499 only!
-This app adds Edmonton ETS buses information to MonTransit BETA.
+This app adds Edmonton ETS buses information to MonTransit.
 
 This app provides the schedule as well as news from @takeETSalert on Twitter.
 
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 ETS buses serve Edmonton in Alberta, Canada.
 
-Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
