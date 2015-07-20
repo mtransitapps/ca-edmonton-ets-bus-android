@@ -1,19 +1,19 @@
 Title: Edmonton ETS Bus - MonTransit
 ----------
 Short description:
-!EARLY RELEASE:1-316 only!
+!EARLY RELEASE:1-319 only!
 Edmonton ETS buses for MonTransit BETA
 Schedule. News
 ----------
 What's new in this version?:
-!EARLY RELEASE: bus routes 1-316 only!
+!EARLY RELEASE: bus routes 1-319 only!
 Schedule from July 11, 2015 to September 5, 2015.
 Tweets from @takeETSalert.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-!EARLY RELEASE: bus routes 1-316 only!
+!EARLY RELEASE: bus routes 1-319 only!
 This app adds Edmonton ETS buses information to MonTransit BETA.
 
 This app provides the schedule as well as news from @takeETSalert on Twitter.
