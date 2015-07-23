@@ -2,7 +2,7 @@ Title: Edmonton ETS Bus - MonTransit
 ----------
 Short description:
 Edmonton ETS buses for MonTransit.
-Schedule. News
+Schedule. News.
 ----------
 What's new in this version?:
 Schedule from July 11, 2015 to September 5, 2015.
