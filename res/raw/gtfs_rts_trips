@@ -1,11 +1,11 @@
 101,0,'Capilano',1
-102,0,'West Edm Mall',1
-201,1,'E',2
-202,1,'W',2
+102,0,'WEM',1
+201,0,'Clareview',2
+202,0,'Lessard / WEM',2
 301,0,'Cromdale',3
 302,0,'Jasper Pl',3
 401,0,'Capilano',4
-402,0,'West Edm Mall / Lewis Farms',4
+402,0,'WEM / Lewis Farms',4
 501,0,'Coliseum',5
 502,0,'Westmount',5
 601,0,'Mill Woods',6
@@ -25,7 +25,7 @@
 1303,0,'Castle Downs',13
 1304,0,'Northgate',13
 1401,0,'Downtown / Jasper Pl',14
-1402,0,'West Edm Mall',14
+1402,0,'WEM',14
 1503,0,'Eaux Claires',15
 1504,0,'Mill Woods',15
 1603,0,'Castle Downs',16
@@ -33,7 +33,7 @@
 1704,0,'Century Pk',17
 1703,0,'Southgate',17
 2301,0,'Mill Woods',23
-2302,0,'West Edm Mall',23
+2302,0,'WEM',23
 2401,0,'Century Pk',24
 2402,0,'Leger',24
 3004,0,'Mill Woods / Century Pk',30
@@ -43,7 +43,7 @@
 3202,0,'Brander Gdns',32
 3201,0,'S Campus / Ft Edm',32
 3301,0,'Meadows',33
-3302,0,'West Edm Mall',33
+3302,0,'WEM',33
 3402,0,'Leger',34
 3401,0,'Southgate',34
 3501,0,'Century Pk',35
@@ -160,38 +160,38 @@
 9904,0,'Capilano',99
 10002,0,'Downtown',100
 10001,0,'Lewis Farms',100
+10103,0,'WEM',101
 10104,0,'Wedgewood Hts',101
-10103,0,'West Edm Mall',101
 10202,0,'Lymburn',102
-10201,0,'West Edm Mall',102
+10201,0,'WEM',102
 10304,0,'Cameron Hts',103
-10303,0,'West Edm Mall',103
+10303,0,'WEM',103
 10402,0,'Lymburn',104
 10401,0,'S Campus / Ft Edm',104
 10502,0,'Lessard',105
 10501,0,'S Campus / Ft Edm',105
 10602,0,'Lessard',106
 10601,0,'University',106
-10703,0,'West Edm Mall',107
+10703,0,'WEM',107
 10704,0,'Westridge',107
 10804,0,'Breckenridge Grns',108
 10803,0,'Lewis Farms',108
 10901,0,'Downtown',109
-10902,0,'West Edm Mall',109
-11002,0,'West Edm Mall',110
+10902,0,'WEM',109
+11002,0,'WEM',110
 11001,0,'Westridge',110
 11101,0,'Downtown / Jasper Pl',111
-11102,0,'West Edm Mall',111
+11102,0,'WEM',111
 11201,0,'Capilano',112
-11202,0,'West Edm Mall',112
+11202,0,'WEM',112
 11303,0,'Jasper Pl',113
-11304,0,'West Edm Mall',113
+11304,0,'WEM',113
 11401,0,'Jasper Pl',114
 11402,0,'Westview Vlg',114
 11503,0,'Northgate',115
-11504,0,'West Edm Mall',115
+11504,0,'WEM',115
 11703,0,'Hamptons',117
-11704,0,'West Edm Mall / Lewis Farms',117
+11704,0,'WEM / Lewis Farms',117
 11803,0,'Jasper Pl',118
 11804,0,'Rio Terrace',118
 11903,0,'Lewis Farms',119
@@ -200,7 +200,7 @@
 12001,0,'Stadium',120
 12101,0,'Northgate',121
 12102,0,'Westmount',121
-12202,0,'West Edm Mall',122
+12202,0,'WEM',122
 12201,0,'Westmount',122
 12302,0,'Jasper Pl',123
 12301,0,'Westmount',123
@@ -208,13 +208,13 @@
 12401,0,'Westmount',124
 12501,0,'Downtown',125
 12502,0,'Jasper Pl',125
-12604,0,'West Edm Mall',126
+12604,0,'WEM',126
 12603,0,'Westmount',126
 12701,0,'Belvedere',127
 12702,0,'Westmount',127
 12803,0,'Castle Downs',128
 12804,0,'University',128
-12904,0,'West Edm Mall',129
+12904,0,'WEM',129
 12903,0,'Westmount',129
 13003,0,'Northgate',130
 13004,0,'University',130
@@ -223,9 +223,9 @@
 13404,0,'Downtown',134
 13403,0,'Northgate',134
 13604,0,'Hamptons',136
-13603,0,'West Edm Mall',136
+13603,0,'WEM',136
 13703,0,'Clareview',137
-13704,0,'West Edm Mall',137
+13704,0,'WEM',137
 13801,0,'S Campus / Ft Edm',138
 13802,0,'Wedgewood Hts',138
 13902,0,'Hamptons',139
@@ -243,7 +243,7 @@
 14901,0,'Clareview',149
 14902,0,'Eaux Claires',149
 15003,0,'Eaux Claires',150
-15004,0,'West Edm Mall',150
+15004,0,'WEM',150
 15103,0,'Castle Downs',151
 15104,0,'King Edward Pk',151
 15201,0,'Belvedere',152
@@ -319,7 +319,7 @@
 31003,0,'Jasper Pl',310
 31004,0,'Rio Terrace',310
 31103,0,'Jasper Pl',311
-31104,0,'West Edm Mall',311
+31104,0,'WEM',311
 31201,0,'Londonderry',312
 31202,0,'Northgate',312
 31304,0,'Parkallen / Windsor Pk',313
@@ -342,7 +342,7 @@
 32401,0,'Century Pk',324
 32501,0,'Leger',325
 32502,0,'Windermere',325
-32701,0,'104 / 82',327
+32701,0,'104 St / 82 Ave',327
 32702,0,'Belgravia',327
 33004,0,'Leger',330
 33003,0,'S Campus / Ft Edm',330
@@ -378,7 +378,7 @@
 38001,0,'Quarry Rdg',380
 38104,0,'Clareview',381
 38103,0,'Hollick Kenyon',381
-57702,0,'84 / 111',577
+57702,0,'84 St / 111 Ave',577
 57701,0,'Northlands',577
 58902,0,'Coliseum',589
 58901,0,'Edm Waste Mgt Ctr',589
@@ -396,4 +396,4 @@
 75704,0,'University',757
 83702,0,'Kingsway RAH',837
 85302,0,'Northgate',853
-92602,0,'West Edm Mall',926
+92602,0,'WEM',926
