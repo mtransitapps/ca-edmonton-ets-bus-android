@@ -69,6 +69,20 @@
                 android:name="@string/schedule_provider_target"
                 android:value="@string/gtfs_rts_authority" />
         </provider>
+        <!-- EDMONTON PROVIDER -->
+        <provider
+            android:name="org.mtransit.android.commons.provider.CaEdmontonProvider"
+            android:authorities="@string/ca_edmonton_authority"
+            android:exported="true"
+            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
+            tools:ignore="MissingRegistered" >
+            <meta-data
+                android:name="@string/status_provider"
+                android:value="@string/status_provider" />
+            <meta-data
+                android:name="@string/status_provider_target"
+                android:value="@string/ca_edmonton_status_for_poi_authority" />
+        </provider>
         <!-- TWITTER NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
