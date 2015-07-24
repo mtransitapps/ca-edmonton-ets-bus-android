@@ -2,16 +2,17 @@ Title: Edmonton ETS Bus - MonTransit
 ----------
 Short description:
 Edmonton ETS buses for MonTransit.
-Schedule. News.
+Schedule. Real-Time. News.
 ----------
 What's new in this version?:
 Schedule from July 11, 2015 to September 5, 2015.
+Real-time estimated next departures from etslive.edmonton.ca.
 Tweets from @takeETSalert.
 ----------
 Full description:
-This app adds Edmonton ETS buses information to MonTransit.
+This application adds Edmonton ETS buses information to MonTransit.
 
-This app provides the schedule as well as news from @takeETSalert on Twitter.
+This app contains the buses schedule (offline and, for some routes, real-time) as well as news from @takeETSalert on Twitter.
 
 ETS buses serve Edmonton in Alberta, Canada.
 
@@ -30,7 +31,7 @@ https://github.com/mtransitapps/ca-edmonton-ets-bus-android
 This app is not related with ETS (Edmonton Transit System) and the City of Edmonton.
 
 Permissions:
-- Other: required to read news from Twitter
+- Other: required to read real-time estimated next departures from etslive.edmonton.ca and to read news from Twitter
 ----------
 Application type: Applications
 ----------
