@@ -146,8 +146,6 @@
 8904,0,'Tamarack',89
 9002,0,'Downtown',90
 9001,0,'Meadows',90
-9104,0,'Capilano',91
-9103,0,'Northlands',91
 9202,0,'Millgate',92
 9201,0,'Plypow',92
 9401,0,'Capilano',94
@@ -378,8 +376,6 @@
 38001,0,'Quarry Rdg',380
 38104,0,'Clareview',381
 38103,0,'Hollick Kenyon',381
-57702,0,'84 St / 111 Ave',577
-57701,0,'Northlands',577
 58902,0,'Coliseum',589
 58901,0,'Edm Waste Mgt Ctr',589
 59502,0,'Ft Edm',595
@@ -395,5 +391,4 @@
 74704,0,'Int Airport',747
 75704,0,'University',757
 83702,0,'Kingsway RAH',837
-85302,0,'Northgate',853
 92602,0,'WEM',926
