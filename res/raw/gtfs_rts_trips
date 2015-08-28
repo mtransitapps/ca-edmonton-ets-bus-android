@@ -24,7 +24,7 @@
 1203,0,'Northgate',12
 1303,0,'Castle Downs',13
 1304,0,'Northgate',13
-1401,0,'Downtown / Jasper Pl',14
+1401,0,'Downtown',14
 1402,0,'WEM',14
 1503,0,'Eaux Claires',15
 1504,0,'Mill Woods',15
@@ -228,13 +228,13 @@
 13802,0,'Wedgewood Hts',138
 13902,0,'Hamptons',139
 13901,0,'S Campus / Ft Edm',139
-14004,0,'Downtown / Northgate',140
+14004,0,'Downtown',140
 14003,0,'Lago Lindo',140
 14101,0,'Abbottsfield',141
 14102,0,'Coliseum',141
 14201,0,'Abbottsfield',142
 14202,0,'Coliseum',142
-14302,0,'Kingsway RAH',143
+14302,0,'Kingsway',143
 14301,0,'Montrose',143
 14504,0,'82 St / 132 Ave / Eaux Claires',145
 14503,0,'Lago Lindo',145
@@ -290,7 +290,7 @@
 19401,0,'Schonsee',194
 19504,0,'Clareview',195
 19503,0,'McConachie',195
-19701,0,'Downtown',197
+19701,0,'Edm',197
 19702,0,'Spruce Grv',197
 19802,0,'Clareview',198
 19801,0,'Ft Saskatchewan',198
@@ -312,7 +312,7 @@
 30701,0,'Gold Bar',307
 30802,0,'Downtown',308
 30801,0,'Riverdale',308
-30903,0,'Kingsway RAH',309
+30903,0,'Kingsway',309
 30904,0,'Riverdale',309
 31003,0,'Jasper Pl',310
 31004,0,'Rio Terrace',310
@@ -390,5 +390,5 @@
 74703,0,'Century Pk',747
 74704,0,'Int Airport',747
 75704,0,'University',757
-83702,0,'Kingsway RAH',837
+83702,0,'Kingsway',837
 92602,0,'WEM',926
