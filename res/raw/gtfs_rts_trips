@@ -18,8 +18,8 @@
 904,0,'Southgate',9
 1000,0,'Clareview',10
 1001,0,'Coliseum',10
+1102,0,'88 St / 132 Ave',11
 1101,0,'Clareview',11
-1102,0,'Northgate',11
 1204,0,'Downtown',12
 1203,0,'Northgate',12
 1303,0,'Castle Downs',13
@@ -36,6 +36,10 @@
 2302,0,'WEM',23
 2401,0,'Century Pk',24
 2402,0,'Leger',24
+2501,0,'Century Pk',25
+2502,0,'Leger',25
+2603,0,'Leger',26
+2604,0,'Windemere',26
 3004,0,'Mill Woods / Century Pk',30
 3003,0,'S Campus / Ft Edm',30
 3104,0,'Leger',31
@@ -68,6 +72,8 @@
 4404,0,'Twin Brooks',44
 4504,0,'Century Pk',45
 4503,0,'Southgate',45
+4603,0,'Harry Ainlay Lp',46
+4604,0,'Yellowbird',46
 4704,0,'Allard',47
 4703,0,'Century Pk',47
 4804,0,'Blackburn',48
@@ -120,6 +126,8 @@
 7302,0,'Southgate',73
 7401,0,'Mill Woods',74
 7402,0,'Southgate',74
+7702,0,'Century Pk',77
+7701,0,'Mill Woods',77
 7802,0,'Century Pk',78
 7801,0,'Mill Woods',78
 7902,0,'Century Pk',79
@@ -154,6 +162,10 @@
 9502,0,'Mill Woods',95
 9603,0,'Bonnie Doon',96
 9604,0,'Millgate',96
+9704,0,'Mill Woods',97
+9703,0,'NAIT',97
+9803,0,'NAIT',98
+9804,0,'WEM',98
 9903,0,'Belvedere',99
 9904,0,'Capilano',99
 10002,0,'Downtown',100
@@ -202,7 +214,7 @@
 12201,0,'Westmount',122
 12302,0,'Jasper Pl',123
 12301,0,'Westmount',123
-12402,0,'Mistatim Ind',124
+12402,0,'Jasper Pl',124
 12401,0,'Westmount',124
 12501,0,'Downtown',125
 12502,0,'Jasper Pl',125
@@ -217,7 +229,7 @@
 13003,0,'Northgate',130
 13004,0,'University',130
 13302,0,'Lewis Farms',133
-13301,0,'S Campus / Ft Edm',133
+13301,0,'University',133
 13404,0,'Downtown',134
 13403,0,'Northgate',134
 13604,0,'Hamptons',136
@@ -250,8 +262,8 @@
 15302,0,'Northgate',153
 15401,0,'Belvedere',154
 15402,0,'Northgate',154
-15501,0,'Eaux Claires',155
-15502,0,'Rapperswill',155
+15701,0,'Eaux Claires',157
+15702,0,'Remand Ctr',157
 16004,0,'Gov Ctr',160
 16003,0,'Oxford',160
 16103,0,'Castle Downs',161
@@ -262,6 +274,10 @@
 16304,0,'Eaux Claires',163
 16403,0,'Canossa',164
 16404,0,'Northgate',164
+16504,0,'82 St / 132 Ave',165
+16602,0,'Griesbach',166
+16601,0,'Northgate',166
+16704,0,'95 St / 132 Ave',167
 16803,0,'Eaux Claires',168
 16804,0,'Northgate',168
 16903,1,'N',169
@@ -278,6 +294,12 @@
 18403,0,'Evergreen',184
 18504,0,'Abbottsfield',185
 18503,0,'Clareview',185
+18601,0,'Fraser',186
+18602,0,'Northgate',186
+18701,0,'Kernohan',187
+18702,0,'Londonderry',187
+18802,0,'Eaux Claires',188
+18801,0,'Londonderry',188
 19001,0,'Clareview',190
 19002,0,'Eaux Claires',190
 19104,0,'Eaux Claires',191
@@ -290,8 +312,6 @@
 19401,0,'Schonsee',194
 19504,0,'Clareview',195
 19503,0,'McConachie',195
-19701,0,'Edm',197
-19702,0,'Spruce Grv',197
 19802,0,'Clareview',198
 19801,0,'Ft Saskatchewan',198
 19904,0,'Eaux Claires',199
@@ -338,8 +358,6 @@
 32302,0,'Ritchie',323
 32402,0,'Ambleside',324
 32401,0,'Century Pk',324
-32501,0,'Leger',325
-32502,0,'Windermere',325
 32701,0,'104 St / 82 Ave',327
 32702,0,'Belgravia',327
 33004,0,'Leger',330
@@ -362,8 +380,6 @@
 34003,0,'Millgate',340
 34704,0,'Allard',347
 34703,0,'Century Pk',347
-36003,0,'Century Pk',360
-36004,0,'Orchards',360
 36104,0,'Mill Woods',361
 36103,0,'Millgate',361
 36203,0,'Mill Woods',362
@@ -376,6 +392,12 @@
 38001,0,'Quarry Rdg',380
 38104,0,'Clareview',381
 38103,0,'Hollick Kenyon',381
+39903,0,'Coliseum',399
+39904,0,'Concordia',399
+51203,0,'Clareview',512
+51204,0,'Downtown',512
+56001,0,'Downtown',560
+56002,0,'Spruce Grv',560
 58902,0,'Coliseum',589
 58901,0,'Edm Waste Mgt Ctr',589
 59502,0,'Ft Edm',595
@@ -383,12 +405,224 @@
 59601,0,'S Campus / Ft Edm',596
 59602,0,'Vly Zoo / Ft Edm',596
 59702,0,'All Weather Windows',597
+60103,0,'Ross Shep',601
+60203,0,'Ross Shep',602
+60604,0,'Arch Mac',606
+60800,0,'School Special',608
+60900,0,'School Special',609
+61000,0,'School Special',610
+61200,0,'School Special',612
+61700,0,'School Special',617
+61800,0,'School Special',618
+62000,0,'School Special',620
+62100,0,'School Special',621
+63500,0,'School Special',635
+68900,0,'School Special',689
 69703,0,'S Campus / Ft Edm',697
+69800,0,'School Special',698
+69900,0,'School Special',699
+70100,0,'School Special',701
+70200,0,'School Special',702
+70300,0,'School Special',703
+70500,0,'School Special',705
+70600,0,'School Special',706
+70700,0,'School Special',707
+70800,0,'School Special',708
+70900,0,'School Special',709
+71000,0,'School Special',710
+71100,0,'School Special',711
+71200,0,'School Special',712
+71700,0,'School Special',717
+72300,0,'School Special',723
 72504,0,'University',725
+72600,0,'School Special',726
+72800,0,'School Special',728
+72900,0,'School Special',729
+73000,0,'School Special',730
+73100,0,'School Special',731
+73300,0,'School Special',733
+73400,0,'School Special',734
+73500,0,'School Special',735
 73804,0,'Leger',738
+73800,0,'School Special',738
 73903,0,'University',739
+74100,0,'School Special',741
+74400,0,'School Special',744
 74703,0,'Century Pk',747
 74704,0,'Int Airport',747
+74800,0,'School Special',748
+75000,0,'School Special',750
+75300,0,'School Special',753
+75500,0,'School Special',755
+75600,0,'School Special',756
 75704,0,'University',757
+76000,0,'School Special',760
+76100,0,'School Special',761
+76200,0,'School Special',762
+76300,0,'School Special',763
+76400,0,'School Special',764
+76500,0,'School Special',765
+76700,0,'School Special',767
+76800,0,'School Special',768
+76900,0,'School Special',769
+77100,0,'School Special',771
+77300,0,'School Special',773
+77400,0,'School Special',774
+77600,0,'School Special',776
+77700,0,'School Special',777
+77800,0,'School Special',778
+77900,0,'School Special',779
+78000,0,'School Special',780
+78100,0,'School Special',781
+78200,0,'School Special',782
+78300,0,'School Special',783
+78400,0,'School Special',784
+78500,0,'School Special',785
+78600,0,'School Special',786
+78700,0,'School Special',787
+78900,0,'School Special',789
+79000,0,'School Special',790
+79100,0,'School Special',791
+79300,0,'School Special',793
+79500,0,'School Special',795
+79600,0,'School Special',796
+79900,0,'School Special',799
+80000,0,'School Special',800
+80204,0,'Jasper Pl',802
+80203,0,'Westmount',802
+80300,0,'School Special',803
+80400,0,'School Special',804
+80500,0,'School Special',805
+80600,0,'School Special',806
+80700,0,'School Special',807
+80800,0,'School Special',808
+80900,0,'School Special',809
+81000,0,'School Special',810
+81100,0,'School Special',811
+81200,0,'School Special',812
+81400,0,'School Special',814
+81500,0,'School Special',815
+81700,0,'School Special',817
+81800,0,'School Special',818
+81900,0,'School Special',819
+82000,0,'School Special',820
+82100,0,'School Special',821
+82204,0,'Downtown',822
+82203,0,'Northgate',822
+82400,0,'School Special',824
+82500,0,'School Special',825
+82600,0,'School Special',826
+82800,0,'School Special',828
+82900,0,'School Special',829
+83000,0,'School Special',830
+83200,0,'School Special',832
+83500,0,'School Special',835
+83600,0,'School Special',836
 83702,0,'Kingsway',837
+83700,0,'School Special',837
+83900,0,'School Special',839
+84000,0,'School Special',840
+84102,0,'Castle Downs',841
+84101,0,'Northgate',841
+84200,0,'School Special',842
+84300,0,'School Special',843
+84400,0,'School Special',844
+84501,0,'Clareview',845
+84502,0,'O''Leary / Q.Elizabeth',845
+84600,0,'School Special',846
+84800,0,'School Special',848
+84900,0,'School Special',849
+85100,0,'School Special',851
+85200,0,'School Special',852
+85302,0,'Northgate',853
+85300,0,'School Special',853
+85500,0,'School Special',855
+85600,0,'School Special',856
+85800,0,'School Special',858
+85900,0,'School Special',859
+86000,0,'School Special',860
+86100,0,'School Special',861
+86204,0,'Burnewood',862
+86400,0,'School Special',864
+86500,0,'School Special',865
+86600,0,'School Special',866
+86700,0,'School Special',867
+86904,0,'Mill Woods',869
+87000,0,'School Special',870
+87100,0,'School Special',871
+87200,0,'School Special',872
+87300,0,'School Special',873
+87400,0,'School Special',874
+87500,0,'School Special',875
+87600,0,'School Special',876
+87700,0,'School Special',877
+87800,0,'School Special',878
+87900,0,'School Special',879
+88000,0,'School Special',880
+88100,0,'School Special',881
+88200,0,'School Special',882
+88300,0,'School Special',883
+88400,0,'School Special',884
+88500,0,'School Special',885
+88600,0,'School Special',886
+88700,0,'School Special',887
+88800,0,'School Special',888
+88900,0,'School Special',889
+89000,0,'School Special',890
+89200,0,'School Special',892
+89300,0,'School Special',893
+89400,0,'School Special',894
+89500,0,'School Special',895
+89600,0,'School Special',896
+89700,0,'School Special',897
+89800,0,'School Special',898
+89900,0,'School Special',899
+90100,0,'School Special',901
+90200,0,'School Special',902
+90300,0,'School Special',903
+90700,0,'School Special',907
+90800,0,'School Special',908
+90900,0,'School Special',909
+91300,0,'School Special',913
+91400,0,'School Special',914
+91600,0,'School Special',916
+91700,0,'School Special',917
+91800,0,'School Special',918
+91900,0,'School Special',919
+92000,0,'School Special',920
+92100,0,'School Special',921
+92200,0,'School Special',922
+92300,0,'School Special',923
+92400,0,'School Special',924
+92500,0,'School Special',925
+92600,0,'School Special',926
 92602,0,'WEM',926
+93100,0,'School Special',931
+93400,0,'School Special',934
+93500,0,'School Special',935
+93900,0,'School Special',939
+94000,0,'School Special',940
+94100,0,'School Special',941
+94300,0,'School Special',943
+94500,0,'School Special',945
+94800,0,'School Special',948
+94900,0,'School Special',949
+95000,0,'School Special',950
+95200,0,'School Special',952
+95300,0,'School Special',953
+95400,0,'School Special',954
+95500,0,'School Special',955
+95600,0,'School Special',956
+95700,0,'School Special',957
+96500,0,'School Special',965
+96604,0,'Mill Woods',966
+96700,0,'School Special',967
+96800,0,'School Special',968
+96900,0,'School Special',969
+97000,0,'School Special',970
+97100,0,'School Special',971
+97200,0,'School Special',972
+97300,0,'School Special',973
+97400,0,'School Special',974
+97500,0,'School Special',975
+97700,0,'School Special',977
