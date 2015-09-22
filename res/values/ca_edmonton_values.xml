@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
-    <integer name="ca_edmonton_db_version">1</integer>
+    <integer name="ca_edmonton_db_version">2</integer>
     <string name="ca_edmonton_authority">org.mtransit.android.ca_edmonton_ets_bus.live</string>
     <string name="ca_edmonton_status_for_poi_authority">@string/gtfs_rts_authority</string>
 </resources>
