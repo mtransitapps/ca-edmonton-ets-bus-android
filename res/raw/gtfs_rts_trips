@@ -573,52 +573,52 @@
 89700,0,'School Special',897
 89800,0,'School Special',898
 89900,0,'School Special',899
-90100,0,'School Special',901
-90200,0,'School Special',902
-90300,0,'School Special',903
-90700,0,'School Special',907
-90800,0,'School Special',908
-90900,0,'School Special',909
-91300,0,'School Special',913
-91400,0,'School Special',914
-91600,0,'School Special',916
-91700,0,'School Special',917
-91800,0,'School Special',918
-91900,0,'School Special',919
-92000,0,'School Special',920
-92100,0,'School Special',921
-92200,0,'School Special',922
-92300,0,'School Special',923
-92400,0,'School Special',924
-92500,0,'School Special',925
-92600,0,'School Special',926
+90101,0,'Londonderry',901
+90202,0,'Ormsby Pl',902
+90301,0,'Clareview',903
+90704,0,'Haddow',907
+90801,0,'Fraser',908
+90903,0,'Eaux Claires',909
+91303,0,'Eaux Claires',913
+91403,0,'Oxford',914
+91603,0,'Baturyn',916
+91702,0,'Jackson Hts',917
+91802,0,'Jackson Hts',918
+91902,0,'Abbottsfield',919
+92003,0,'Minchau',920
+92104,0,'SilverBerry',921
+92204,0,'Leger',922
+92304,0,'Twin Brooks',923
+92401,0,'Mill Woods TC',924
+92502,0,'Windsor Pk',925
 92602,0,'WEM',926
-93100,0,'School Special',931
-93400,0,'School Special',934
-93500,0,'School Special',935
-93900,0,'School Special',939
-94000,0,'School Special',940
-94100,0,'School Special',941
-94300,0,'School Special',943
-94500,0,'School Special',945
-94800,0,'School Special',948
-94900,0,'School Special',949
-95000,0,'School Special',950
-95200,0,'School Special',952
-95300,0,'School Special',953
-95400,0,'School Special',954
-95500,0,'School Special',955
-95600,0,'School Special',956
-95700,0,'School Special',957
-96500,0,'School Special',965
+93102,0,'Lago Lindo',931
+93402,0,'Castle Downs',934
+93503,0,'Hollick Kenyon',935
+93903,0,'Elsinore',939
+94001,0,'Abbottsfield',940
+94103,0,'Abbottsfield',941
+94303,0,'Belvedere',943
+94503,0,'Eaux Claires',945
+94802,0,'LaPerle',948
+94902,0,'LaPerle',949
+95002,0,'Lymburn / Ormsby Pl',950
+95201,0,'Crestwood',952
+95302,0,'Lymburn',953
+95404,0,'Wedgewood',954
+95502,0,'LaPerle',955
+95602,0,'The Grange',956
+95702,0,'The Hamptons',957
+96502,0,'Downtown',965
 96604,0,'Mill Woods TC',966
-96700,0,'School Special',967
-96800,0,'School Special',968
-96900,0,'School Special',969
-97000,0,'School Special',970
-97100,0,'School Special',971
-97200,0,'School Special',972
-97300,0,'School Special',973
-97400,0,'School Special',974
-97500,0,'School Special',975
-97700,0,'School Special',977
+96704,0,'Leger',967
+96804,0,'Leger',968
+96904,0,'Leger',969
+97003,0,'Whitemud Dr / 53  Ave',970
+97104,0,'34 St / 35A Ave',971
+97203,0,'MacEwan',972
+97204,0,'Rutherford',972
+97302,0,'Burnewood',973
+97402,0,'Burnewood',974
+97504,0,'Mill Woods TC',975
+97701,0,'Mdws',977
