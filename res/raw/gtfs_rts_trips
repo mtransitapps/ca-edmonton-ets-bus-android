@@ -404,85 +404,84 @@
 60103,0,'Ross Shep',601
 60203,0,'Ross Shep',602
 60604,0,'Arch Mac',606
-60800,0,'School Special',608
-60900,0,'School Special',609
-61000,0,'School Special',610
-61200,0,'School Special',612
-61700,0,'School Special',617
-61800,0,'School Special',618
-62000,0,'School Special',620
-62100,0,'School Special',621
-63500,0,'School Special',635
-68900,0,'School Special',689
+60804,0,'Arch Mac',608
+60904,0,'Arch Mac',609
+61004,0,'Arch Mac',610
+61204,0,'Arch Mac',612
+61704,0,'Cardinal Leger',617
+61804,0,'JJ Bowlen',618
+62004,0,'AOB',620
+62104,0,'AOB',621
+63501,0,'Downtown',635
+68904,0,'Strathcona',689
 69703,0,'South Campus',697
-69800,0,'School Special',698
-69900,0,'School Special',699
-70100,0,'School Special',701
-70200,0,'School Special',702
-70300,0,'School Special',703
-70500,0,'School Special',705
-70600,0,'School Special',706
-70700,0,'School Special',707
-70800,0,'School Special',708
-70900,0,'School Special',709
-71000,0,'School Special',710
-71100,0,'School Special',711
-71200,0,'School Special',712
-71700,0,'School Special',717
-72300,0,'School Special',723
+69801,0,'McPherson',698
+69901,0,'McPherson',699
+70101,0,'WEM',701
+70201,0,'Parkview',702
+70302,0,'St Francis Xavier',703
+70501,0,'Westlawn',705
+70604,0,'Jasper Pl',706
+70701,0,'Oscar Romero',707
+70803,0,'Jasper Pl TC',708
+70901,0,'Downtown',709
+71001,0,'Ross Shep',710
+71101,0,'Ross Shep',711
+71201,0,'Hillcrest',712
+71701,0,'Victoria',717
+72303,0,'Strathcona',723
 72504,0,'University',725
-72600,0,'School Special',726
-72800,0,'School Special',728
-72900,0,'School Special',729
-73000,0,'School Special',730
-73100,0,'School Special',731
-73300,0,'School Special',733
-73400,0,'School Special',734
-73500,0,'School Special',735
-73804,0,'Leger',738
-73800,0,'School Special',738
+72603,0,'Ross Shep',726
+72801,0,'Strathcona',728
+72901,0,'Strathcona',729
+73004,0,'Arch Mac',730
+73102,0,'Westmount',731
+73302,0,'WEM',733
+73402,0,'Mary Butterworth',734
+73501,0,'University',735
+73803,0,'South Campus',738
 73903,0,'University',739
-74100,0,'School Special',741
-74400,0,'School Special',744
+74103,0,'WP Wagner',741
+74402,0,'Queen Elizabeth',744
 74703,0,'Century Pk',747
 74704,0,'Edm Int Airport',747
-74800,0,'School Special',748
-75000,0,'School Special',750
-75300,0,'School Special',753
-75500,0,'School Special',755
-75600,0,'School Special',756
+74804,0,'Cardinal Leger',748
+75001,0,'Eastglen',750
+75302,0,'Northgate',753
+75502,0,'Arch O''Leary',755
+75601,0,'LaZerte',756
 75704,0,'University',757
-76000,0,'School Special',760
-76100,0,'School Special',761
-76200,0,'School Special',762
-76300,0,'School Special',763
-76400,0,'School Special',764
-76500,0,'School Special',765
-76700,0,'School Special',767
-76800,0,'School Special',768
-76900,0,'School Special',769
-77100,0,'School Special',771
-77300,0,'School Special',773
-77400,0,'School Special',774
-77600,0,'School Special',776
-77700,0,'School Special',777
-77800,0,'School Special',778
-77900,0,'School Special',779
-78000,0,'School Special',780
-78100,0,'School Special',781
-78200,0,'School Special',782
-78300,0,'School Special',783
-78400,0,'School Special',784
-78500,0,'School Special',785
-78600,0,'School Special',786
-78700,0,'School Special',787
-78900,0,'School Special',789
-79000,0,'School Special',790
-79100,0,'School Special',791
-79300,0,'School Special',793
-79500,0,'School Special',795
-79600,0,'School Special',796
-79900,0,'School Special',799
+76003,0,'McNally',760
+76102,0,'Strathcona',761
+76203,0,'McNally',762
+76302,0,'University',763
+76402,0,'Downtown',764
+76501,0,'Strathcona',765
+76702,0,'Strathcona',767
+76802,0,'WP Wagner',768
+76903,0,'WP Wagner',769
+77103,0,'WP Wagner',771
+77303,0,'WP Wagner',773
+77403,0,'Hardisty',774
+77603,0,'McNally',776
+77702,0,'Mill Woods TC',777
+77803,0,'McNally',778
+77903,0,'Hardisty',779
+78003,0,'Hardisty',780
+78103,0,'McNally',781
+78203,0,'Kenilworth',782
+78303,0,'Kenilworth',783
+78403,0,'McNally',784
+78503,0,'Hardisty',785
+78603,0,'Avalon',786
+78701,0,'Strathcona',787
+78903,0,'WP Wagner',789
+79003,0,'Southgate',790
+79103,0,'Southgate',791
+79302,0,'Harry Ainlay',793
+79503,0,'Southgate',795
+79601,0,'Eastglen',796
+79903,0,'Riverbend',799
 80000,0,'School Special',800
 80204,0,'Jasper Pl',802
 80203,0,'Westmount',802
