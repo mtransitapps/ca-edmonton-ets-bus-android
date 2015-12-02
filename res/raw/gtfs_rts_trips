@@ -482,96 +482,97 @@
 79503,0,'Southgate',795
 79601,0,'Eastglen',796
 79903,0,'Riverbend',799
-80000,0,'School Special',800
+80001,0,'Matt Berry',800
 80204,0,'Jasper Pl',802
 80203,0,'Westmount',802
-80300,0,'School Special',803
-80400,0,'School Special',804
-80500,0,'School Special',805
-80600,0,'School Special',806
-80700,0,'School Special',807
-80800,0,'School Special',808
-80900,0,'School Special',809
-81000,0,'School Special',810
-81100,0,'School Special',811
-81200,0,'School Special',812
-81400,0,'School Special',814
-81500,0,'School Special',815
-81700,0,'School Special',817
-81800,0,'School Special',818
-81900,0,'School Special',819
-82000,0,'School Special',820
-82100,0,'School Special',821
+80303,0,'Ormsby Pl',803
+80402,0,'LaPerle',804
+80502,0,'WEM',805
+80603,0,'Northgate',806
+80702,0,'WEM',807
+80803,0,'Jasper Pl TC',808
+80902,0,'WEM',809
+81002,0,'WEM',810
+81102,0,'WEM',811
+81202,0,'LaPerle',812
+81402,0,'WEM',814
+81502,0,'WEM',815
+81702,0,'WEM',817
+81802,0,'Ormsby Pl',818
+81801,0,'WEM',818
+81904,0,'WEM',819
+82002,0,'Southgate',820
+82102,0,'WEM',821
 82204,0,'Downtown',822
 82203,0,'Northgate',822
-82400,0,'School Special',824
-82500,0,'School Special',825
-82600,0,'School Special',826
-82800,0,'School Special',828
-82900,0,'School Special',829
-83000,0,'School Special',830
-83200,0,'School Special',832
-83500,0,'School Special',835
-83600,0,'School Special',836
-83702,0,'Kingsway',837
-83700,0,'School Special',837
-83900,0,'School Special',839
-84000,0,'School Special',840
+82402,0,'Lewis Farms',824
+82503,0,'Northgate',825
+82604,0,'Magrath',826
+82802,0,'Brookside',828
+82904,0,'Leger',829
+83002,0,'Downtown',830
+83203,0,'Castle Downs',832
+83503,0,'Northgate',835
+83603,0,'Northgate',836
+83701,0,'Coliseum',837
+83902,0,'WEM',839
+84003,0,'Castle Downs',840
 84102,0,'Castle Downs',841
 84101,0,'Northgate',841
-84200,0,'School Special',842
-84300,0,'School Special',843
-84400,0,'School Special',844
+84202,0,'Oxford',842
+84301,0,'Downtown',843
+84402,0,'Clareview',844
+84401,0,'Fraser',844
 84501,0,'Clareview',845
 84502,0,'Northgate',845
-84600,0,'School Special',846
-84800,0,'School Special',848
-84900,0,'School Special',849
-85100,0,'School Special',851
-85200,0,'School Special',852
+84603,0,'Baturyn',846
+84803,0,'Lago Lindo',848
+84901,0,'Clareview',849
+85103,0,'Klarvatten',851
+85203,0,'Castle Downs',852
+85301,0,'Belvedere',853
 85302,0,'Northgate',853
-85300,0,'School Special',853
-85500,0,'School Special',855
-85600,0,'School Special',856
-85800,0,'School Special',858
-85900,0,'School Special',859
-86000,0,'School Special',860
-86100,0,'School Special',861
+85503,0,'Castle Downs',855
+85603,0,'Downtown',856
+85801,0,'Stadium',858
+85903,0,'Northgate',859
+86004,0,'Mill Woods TC',860
+86104,0,'Mill Woods',861
 86204,0,'Burnewood',862
-86400,0,'School Special',864
-86500,0,'School Special',865
-86600,0,'School Special',866
-86700,0,'School Special',867
+86404,0,'Millgate',864
+86502,0,'Mill Woods TC',865
+86601,0,'Capilano',866
+86701,0,'Mill Woods TC',867
 86904,0,'Mill Woods TC',869
-87000,0,'School Special',870
-87100,0,'School Special',871
-87200,0,'School Special',872
-87300,0,'School Special',873
-87400,0,'School Special',874
-87500,0,'School Special',875
-87600,0,'School Special',876
-87700,0,'School Special',877
-87800,0,'School Special',878
-87900,0,'School Special',879
-88000,0,'School Special',880
-88100,0,'School Special',881
-88200,0,'School Special',882
-88300,0,'School Special',883
-88400,0,'School Special',884
-88500,0,'School Special',885
-88600,0,'School Special',886
-88700,0,'School Special',887
-88800,0,'School Special',888
-88900,0,'School Special',889
-89000,0,'School Special',890
-89200,0,'School Special',892
-89300,0,'School Special',893
-89400,0,'School Special',894
-89500,0,'School Special',895
-89600,0,'School Special',896
-89700,0,'School Special',897
-89800,0,'School Special',898
-89900,0,'School Special',899
+87001,0,'Southwood',870
+87101,0,'Belle Rive',871
+87204,0,'Mill Woods TC',872
+87304,0,'Woodvale',873
+87404,0,'Mill Woods',874
+87504,0,'Mill Woods TC',875
+87604,0,'Mill Woods',876
+87704,0,'Mill Woods TC',877
+87804,0,'Mill Woods TC',878
+87904,0,'Millgate',879
+88004,0,'Mill Woods TC',880
+88101,0,'Capilano',881
+88204,0,'Mill Woods TC',882
+88304,0,'Twin Brooks',883
+88404,0,'Lakewood',884
+88504,0,'Century Pk',885
+88604,0,'Southgate',886
+88704,0,'Twin Brooks',887
+88801,0,'Century Pk',888
+88904,0,'Century Pk',889
+89004,0,'Southgate',890
+89204,0,'Century Pk',892
+89301,0,'Mill Woods TC',893
+89401,0,'Millgate',894
+89504,0,'Southgate',895
+89604,0,'Leger',896
+89703,0,'Millgate',897
+89804,0,'Mill Woods TC',898
+89904,0,'WEM',899
 90101,0,'Londonderry',901
 90202,0,'Ormsby Pl',902
 90301,0,'Clareview',903
