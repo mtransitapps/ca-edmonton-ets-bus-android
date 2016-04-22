@@ -88,8 +88,6 @@
 5204,0,'Southgate',52
 5303,0,'South Campus',53
 5304,0,'Southgate',53
-5404,0,'South Campus',54
-5403,0,'University',54
 5503,0,'South Campus',55
 5504,0,'Southgate',55
 5701,0,'Downtown',57
@@ -162,10 +160,6 @@
 9502,0,'Mill Woods TC',95
 9603,0,'Bonnie Doon',96
 9604,0,'Millgate',96
-9704,0,'Mill Woods TC',97
-9703,0,'NAIT',97
-9803,0,'NAIT',98
-9804,0,'WEM',98
 9903,0,'Belvedere',99
 9904,0,'Capilano',99
 10002,0,'Downtown',100
@@ -392,8 +386,8 @@
 38001,0,'Quarry Rdg',380
 38104,0,'Clareview',381
 38103,0,'Hollick Kenyon',381
-39903,0,'Coliseum',399
-39904,0,'Concordia',399
+39801,1,'E',398
+39802,1,'W',398
 51203,0,'Clareview',512
 51204,0,'Downtown',512
 56001,0,'Downtown',560
@@ -404,7 +398,6 @@
 59402,0,'WEM',594
 59502,0,'Fort Edm',595
 59501,0,'South Campus',595
-59702,0,'All Weather Windows',597
 60103,0,'Ross Shep',601
 60203,0,'Ross Shep',602
 60604,0,'Arch Mac',606
@@ -416,7 +409,6 @@
 61804,0,'JJ Bowlen',618
 62004,0,'AOB',620
 62104,0,'AOB',621
-63501,0,'Downtown',635
 68904,0,'Strathcona',689
 69703,0,'South Campus',697
 69801,0,'McPherson',698
@@ -434,17 +426,13 @@
 71201,0,'Hillcrest',712
 71701,0,'Victoria',717
 72303,0,'Strathcona',723
-72504,0,'University',725
 72603,0,'Ross Shep',726
 72801,0,'Strathcona',728
 72901,0,'Strathcona',729
 73004,0,'Arch Mac',730
 73102,0,'Westmount',731
-73302,0,'WEM',733
 73402,0,'Mary Butterworth',734
-73501,0,'University',735
 73803,0,'South Campus',738
-73903,0,'University',739
 74103,0,'WP Wagner',741
 74402,0,'Queen Elizabeth',744
 74703,0,'Century Pk',747
@@ -454,11 +442,9 @@
 75302,0,'Northgate',753
 75502,0,'Arch O''Leary',755
 75601,0,'LaZerte',756
-75704,0,'University',757
 76003,0,'McNally',760
 76102,0,'Strathcona',761
 76203,0,'McNally',762
-76302,0,'University',763
 76402,0,'Downtown',764
 76501,0,'Strathcona',765
 76702,0,'Strathcona',767
@@ -501,7 +487,6 @@
 81202,0,'LaPerle',812
 81402,0,'WEM',814
 81502,0,'WEM',815
-81702,0,'WEM',817
 81802,0,'Ormsby Pl',818
 81801,0,'WEM',818
 81904,0,'WEM',819
