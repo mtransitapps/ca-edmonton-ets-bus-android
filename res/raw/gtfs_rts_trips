@@ -210,7 +210,7 @@
 12301,0,'Westmount',123
 12402,0,'Jasper Pl',124
 12401,0,'Westmount',124
-12501,0,'Downtown',125
+12501,0,'Belvedere',125
 12502,0,'Jasper Pl',125
 12604,0,'WEM',126
 12603,0,'Westmount',126
@@ -310,8 +310,6 @@
 19801,0,'Fort Saskatchewan',198
 19904,0,'Eaux Claires',199
 19903,0,'Edm Garrison',199
-21101,0,'Clareview',211
-21102,0,'Downtown',211
 30104,0,'Century Pk',301
 30103,0,'Southgate',301
 30204,0,'Clareview',302
@@ -394,8 +392,12 @@
 51204,0,'Downtown',512
 56001,0,'Downtown',560
 56002,0,'Spruce Grv',560
+57702,0,'84 St /  111 Ave',577
+57701,0,'Northlands',577
 58902,0,'Coliseum',589
 58901,0,'Edm Waste Mgt Ctr',589
+59104,0,'Capilano',591
+59103,0,'Northlands',591
 59401,0,'Valley Zoo',594
 59402,0,'WEM',594
 59502,0,'Fort Edm',595
@@ -411,6 +413,7 @@
 61804,0,'JJ Bowlen',618
 62004,0,'AOB',620
 62104,0,'AOB',621
+63501,0,'Downtown',635
 68904,0,'Strathcona',689
 69703,0,'South Campus',697
 69801,0,'McPherson',698
@@ -428,13 +431,17 @@
 71201,0,'Hillcrest',712
 71701,0,'Victoria',717
 72303,0,'Strathcona',723
+72504,0,'University',725
 72603,0,'Ross Shep',726
 72801,0,'Strathcona',728
 72901,0,'Strathcona',729
 73004,0,'Arch Mac',730
 73102,0,'Westmount',731
+73302,0,'WEM',733
 73402,0,'Mary Butterworth',734
+73501,0,'University',735
 73803,0,'South Campus',738
+73903,0,'University',739
 74103,0,'WP Wagner',741
 74402,0,'Queen Elizabeth',744
 74703,0,'Century Pk',747
@@ -444,9 +451,11 @@
 75302,0,'Northgate',753
 75502,0,'Arch O''Leary',755
 75601,0,'LaZerte',756
+75704,0,'University',757
 76003,0,'McNally',760
 76102,0,'Strathcona',761
 76203,0,'McNally',762
+76302,0,'University',763
 76402,0,'Downtown',764
 76501,0,'Strathcona',765
 76702,0,'Strathcona',767
