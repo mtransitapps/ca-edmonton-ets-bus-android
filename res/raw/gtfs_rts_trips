@@ -214,8 +214,6 @@
 12502,0,'Jasper Pl',125
 12604,0,'WEM',126
 12603,0,'Westmount',126
-12701,0,'Belvedere',127
-12702,0,'Westmount',127
 12803,0,'Castle Downs',128
 12804,0,'University',128
 12904,0,'WEM',129
@@ -621,7 +619,6 @@
 97203,0,'MacEwan',972
 97204,0,'Rutherford',972
 97302,0,'Burnewood',973
-97402,0,'Burnewood',974
 97504,0,'Mill Woods TC',975
 97604,0,'Century Pk',976
 97701,0,'Mdws',977
