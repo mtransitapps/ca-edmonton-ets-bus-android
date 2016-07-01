@@ -5,7 +5,7 @@ Edmonton ETS buses for MonTransit.
 Schedule. Real-Time. News.
 ----------
 What's new in this version?:
-Schedule from June 1, 2016 to September 3, 2016.
+Schedule from June 26, 2016 to September 3, 2016.
 Real-time estimated next departures from etslive.edmonton.ca.
 Tweets from @takeETSalert.
 ----------
