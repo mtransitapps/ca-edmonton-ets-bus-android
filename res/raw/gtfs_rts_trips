@@ -408,16 +408,12 @@
 61004,0,'Arch Mac',610
 61204,0,'Arch Mac',612
 61704,0,'Cardinal Leger',617
-61804,0,'JJ Bowlen',618
 62004,0,'AOB',620
 62104,0,'AOB',621
 63501,0,'Downtown',635
 68904,0,'Strathcona',689
 69703,0,'South Campus',697
-69801,0,'McPherson',698
-69901,0,'McPherson',699
 70101,0,'WEM',701
-70201,0,'Parkview',702
 70302,0,'St Francis Xavier',703
 70501,0,'Westlawn',705
 70604,0,'Jasper Pl',706
@@ -441,7 +437,6 @@
 73803,0,'South Campus',738
 73903,0,'University',739
 74103,0,'WP Wagner',741
-74402,0,'Queen Elizabeth',744
 74703,0,'Century Pk',747
 74704,0,'Edm Int Airport',747
 74804,0,'Cardinal Leger',748
@@ -481,7 +476,6 @@
 79503,0,'Southgate',795
 79601,0,'Eastglen',796
 79903,0,'Riverbend',799
-80001,0,'Matt Berry',800
 80204,0,'Jasper Pl',802
 80203,0,'Westmount',802
 80303,0,'Ormsby Pl',803
@@ -539,7 +533,6 @@
 86204,0,'Burnewood',862
 86404,0,'Millgate',864
 86502,0,'Mill Woods TC',865
-86601,0,'Capilano',866
 86701,0,'Mill Woods TC',867
 86904,0,'Mill Woods TC',869
 87001,0,'Southwood',870
@@ -593,7 +586,6 @@
 93102,0,'Lago Lindo',931
 93201,0,'Clareview',932
 93402,0,'Castle Downs',934
-93503,0,'Hollick Kenyon',935
 93903,0,'Elsinore',939
 94001,0,'Abbottsfield',940
 94103,0,'Abbottsfield',941
@@ -618,7 +610,6 @@
 97104,0,'34 St / 35A Ave',971
 97203,0,'MacEwan',972
 97204,0,'Rutherford',972
-97302,0,'Burnewood',973
 97504,0,'Mill Woods TC',975
 97604,0,'Century Pk',976
 97701,0,'Mdws',977
