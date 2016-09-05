@@ -88,6 +88,8 @@
 5204,0,'Southgate',52
 5303,0,'South Campus',53
 5304,0,'Southgate',53
+5404,0,'South Campus',54
+5403,0,'University',54
 5503,0,'South Campus',55
 5504,0,'Southgate',55
 5701,0,'Downtown',57
@@ -142,8 +144,6 @@
 8404,0,'Millgate',84
 8501,0,'Capilano',85
 8502,0,'Downtown',85
-8601,0,'Capilano',86
-8602,0,'Downtown',86
 8703,0,'Downtown',87
 8704,0,'Millgate',87
 8801,0,'Capilano',88
@@ -160,6 +160,10 @@
 9502,0,'Mill Woods TC',95
 9603,0,'Bonnie Doon',96
 9604,0,'Millgate',96
+9704,0,'Mill Woods TC',97
+9703,0,'NAIT',97
+9803,0,'NAIT',98
+9804,0,'WEM',98
 9903,0,'Belvedere',99
 9904,0,'Capilano',99
 10002,0,'Downtown',100
@@ -197,7 +201,6 @@
 11703,0,'The Hamptons',117
 11704,0,'WEM',117
 11803,0,'Jasper Pl',118
-11804,0,'Rio Ter',118
 11903,0,'Lewis Farms',119
 11904,0,'The Hamptons',119
 12002,0,'Jasper Pl',120
@@ -272,8 +275,6 @@
 16704,0,'95 St / 132 Ave',167
 16803,0,'Eaux Claires',168
 16804,0,'Northgate',168
-16903,1,'N',169
-16904,1,'S',169
 18001,0,'Abbottsfield',180
 18002,0,'Downtown',180
 18102,0,'Belvedere',181
@@ -304,8 +305,6 @@
 19401,0,'Schonsee',194
 19504,0,'Clareview',195
 19503,0,'McConachie',195
-19802,0,'Clareview',198
-19801,0,'Fort Saskatchewan',198
 19904,0,'Eaux Claires',199
 19903,0,'Edm Garrison',199
 30104,0,'Century Pk',301
@@ -340,8 +339,6 @@
 31604,0,'Lewis Farms',316
 31701,0,'Jasper Pl',317
 31702,0,'Winterburn',317
-31801,0,'Abbottsfield',318
-31802,0,'Coliseum',318
 32101,0,'Millgate',321
 32102,0,'Strathcona Ind',321
 32204,0,'Bonnie Doon',322
@@ -350,6 +347,8 @@
 32302,0,'Ritchie',323
 32402,0,'Ambleside',324
 32401,0,'Century Pk',324
+32501,0,'Leger',325
+32502,0,'Windermere',325
 32702,0,'Belgravia',327
 32701,0,'Strathcona',327
 33004,0,'Leger',330
@@ -380,16 +379,22 @@
 36304,0,'Southwood',363
 37004,0,'Mill Woods TC',370
 37003,0,'Millgate',370
-38002,0,'Clareview',380
-38001,0,'Quarry Rdg',380
 38104,0,'Clareview',381
 38103,0,'Hollick Kenyon',381
 39801,1,'E',398
 39802,1,'W',398
+39903,0,'Coliseum',399
+39904,0,'Concordia',399
 51203,0,'Clareview',512
 51204,0,'Downtown',512
+51703,0,'Clareview',517
+51704,0,'Coliseum',517
 56001,0,'Downtown',560
 56002,0,'Spruce Grv',560
+56102,0,'Acheson',561
+56101,0,'NAIT',561
+58004,0,'Clareview',580
+58003,0,'Fort Saskatchewan',580
 58902,0,'Coliseum',589
 58901,0,'Edm Waste Mgt Ctr',589
 59401,0,'Valley Zoo',594
@@ -503,7 +508,6 @@
 83002,0,'Downtown',830
 83203,0,'Castle Downs',832
 83503,0,'Northgate',835
-83603,0,'Northgate',836
 83701,0,'Coliseum',837
 83902,0,'WEM',839
 84003,0,'Castle Downs',840
