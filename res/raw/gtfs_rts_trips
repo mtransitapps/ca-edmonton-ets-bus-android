@@ -381,14 +381,10 @@
 37003,0,'Millgate',370
 38104,0,'Clareview',381
 38103,0,'Hollick Kenyon',381
-39801,1,'E',398
-39802,1,'W',398
 39903,0,'Coliseum',399
 39904,0,'Concordia',399
 51203,0,'Clareview',512
 51204,0,'Downtown',512
-51703,0,'Clareview',517
-51704,0,'Coliseum',517
 56001,0,'Downtown',560
 56002,0,'Spruce Grv',560
 56102,0,'Acheson',561
@@ -397,13 +393,10 @@
 58003,0,'Fort Saskatchewan',580
 58902,0,'Coliseum',589
 58901,0,'Edm Waste Mgt Ctr',589
-59401,0,'Valley Zoo',594
-59402,0,'WEM',594
-59502,0,'Fort Edm',595
-59501,0,'South Campus',595
 60103,0,'Ross Shep',601
 60203,0,'Ross Shep',602
 60604,0,'Arch Mac',606
+60704,0,'Arch Mac',607
 60804,0,'Arch Mac',608
 60904,0,'Arch Mac',609
 61004,0,'Arch Mac',610
@@ -415,6 +408,7 @@
 63501,0,'Downtown',635
 68904,0,'Strathcona',689
 69703,0,'South Campus',697
+69801,0,'McPherson',698
 70101,0,'WEM',701
 70302,0,'St Francis Xavier',703
 70501,0,'Westlawn',705
@@ -534,7 +528,6 @@
 86204,0,'Burnewood',862
 86404,0,'Millgate',864
 86502,0,'Mill Woods TC',865
-86701,0,'Mill Woods TC',867
 86904,0,'Mill Woods TC',869
 87001,0,'Southwood',870
 87101,0,'Belle Rive',871
@@ -575,7 +568,6 @@
 91403,0,'Oxford',914
 91603,0,'Baturyn',916
 91702,0,'Jackson Hts',917
-91802,0,'Jackson Hts',918
 91902,0,'Abbottsfield',919
 92003,0,'Minchau',920
 92104,0,'SilverBerry',921
