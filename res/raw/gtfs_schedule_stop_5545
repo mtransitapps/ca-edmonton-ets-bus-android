@@ -52,5 +52,5 @@
 '948-Weekday-1-SEP16-1110100',94802,151100,0,'School Special'
 '949-Weekday-1-SEP16-1110100',94902,151100,0,'School Special'
 '953-Weekday-1-SEP16-1111100',95302,153600,,''
-'954-Weekday-1-SEP16-1111100',95404,153100,,'',300,,'',1700,,''
-'955-Weekday-1-SEP16-1111100',95502,153100,0,'School Special',300,0,'West Edm Mall',200,0,'West Edm Mall'
+'954-Weekday-1-SEP16-1111100',95404,153100,,'',300,,'',1700,0,'West Edm Mall'
+'955-Weekday-1-SEP16-1111100',95502,153100,0,'School Special',300,0,'School Special',200,0,'School Special'
