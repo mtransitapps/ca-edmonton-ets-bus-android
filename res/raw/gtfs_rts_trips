@@ -14,7 +14,8 @@
 701,0,'University',7
 803,0,'Abbottsfield',8
 804,0,'Mill Woods TC',8
-900,0,'Century Pk - Eaux Claires',9
+904,0,'Century Pk',9
+903,0,'Eaux Claires',9
 1000,0,'Clareview',10
 1001,0,'Coliseum',10
 1101,0,'Clareview',11
@@ -83,7 +84,8 @@
 5004,0,'Southgate',50
 5104,0,'Parkallen',51
 5103,0,'University',51
-5200,0,'Downtown - Southgate',52
+5203,0,'Downtown',52
+5204,0,'Southgate',52
 5303,0,'South Campus',53
 5304,0,'Southgate',53
 5404,0,'South Campus',54
@@ -98,7 +100,8 @@
 6004,0,'Mill Woods TC',60
 6103,0,'Downtown',61
 6104,0,'Mill Woods TC',61
-6200,0,'Downtown - Southwood',62
+6203,0,'Downtown',62
+6204,0,'Southwood',62
 6300,0,'Downtown - Southwood',63
 6403,0,'Downtown',64
 6404,0,'Knottwood',64
