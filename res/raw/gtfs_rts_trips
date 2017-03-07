@@ -16,14 +16,14 @@
 804,0,'Mill Woods TC',8
 904,0,'Century Pk',9
 903,0,'Eaux Claires',9
-1000,0,'Clareview',10
-1001,0,'Coliseum',10
+1003,0,'Clareview',10
+1004,0,'Coliseum',10
 1101,0,'Clareview',11
 1102,0,'Northgate',11
 1204,0,'Downtown',12
 1203,0,'Northgate',12
-1303,0,'Castle Downs',13
-1304,0,'Northgate',13
+1302,0,'Castle Downs',13
+1301,0,'Northgate',13
 1401,0,'Downtown',14
 1402,0,'WEM',14
 1503,0,'Eaux Claires',15
@@ -102,7 +102,8 @@
 6104,0,'Mill Woods TC',61
 6203,0,'Downtown',62
 6204,0,'Southwood',62
-6300,0,'Downtown - Southwood',63
+6303,0,'Downtown',63
+6304,0,'Southwood',63
 6403,0,'Downtown',64
 6404,0,'Knottwood',64
 6503,0,'Downtown',65
@@ -212,7 +213,8 @@
 12301,0,'Westmount',123
 12402,0,'Jasper Pl',124
 12401,0,'Westmount',124
-12500,0,'Belvedere - Jasper Pl',125
+12501,0,'Belvedere',125
+12502,0,'Jasper Pl',125
 12604,0,'WEM',126
 12603,0,'Westmount',126
 12803,0,'Castle Downs',128
@@ -247,7 +249,8 @@
 14902,0,'Eaux Claires',149
 15003,0,'Eaux Claires',150
 15004,0,'WEM',150
-15100,0,'Castle Downs - King Edward Pk',151
+15103,0,'Castle Downs',151
+15104,0,'King Edward Pk',151
 15201,0,'Belvedere',152
 15202,0,'Northgate',152
 15301,0,'Belvedere',153
@@ -380,7 +383,8 @@
 39904,0,'Concordia',399
 51203,0,'Clareview',512
 51204,0,'Downtown',512
-56000,0,'Downtown - Spruce Grv',560
+56001,0,'Downtown',560
+56002,0,'Spruce Grv',560
 56102,0,'Acheson',561
 56101,0,'NAIT',561
 56201,0,'South Campus',562
