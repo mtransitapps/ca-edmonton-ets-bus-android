@@ -12,16 +12,14 @@
 602,0,'Southgate',6
 702,0,'Jasper Pl',7
 701,0,'University',7
-803,0,'Abbottsfield',8
-804,0,'Mill Woods TC',8
+800,0,'Mill Woods TC - Downtown - Abbottsfield',8
 904,0,'Century Pk',9
 903,0,'Eaux Claires',9
 1003,0,'Clareview',10
 1004,0,'Coliseum',10
 1101,0,'Clareview',11
 1102,0,'Northgate',11
-1204,0,'Downtown',12
-1203,0,'Northgate',12
+1200,0,'Northgate - Wellington - Kingsway/RAH',12
 1302,0,'Castle Downs',13
 1301,0,'Northgate',13
 1401,0,'Downtown',14
@@ -70,6 +68,8 @@
 4404,0,'Twin Brooks',44
 4504,0,'Century Pk',45
 4503,0,'Southgate',45
+4603,0,'Harry Ainlay',46
+4604,0,'Yellowbird',46
 4704,0,'Allard',47
 4703,0,'Century Pk',47
 4804,0,'Blackburne',48
@@ -84,8 +84,8 @@
 5204,0,'Southgate',52
 5303,0,'South Campus',53
 5304,0,'Southgate',53
-5503,0,'South Campus',55
-5504,0,'Southgate',55
+5400,0,'South Campus - Whyte Av - University',54
+5500,0,'Southgate - Malmo - South Campus',55
 5701,0,'Downtown',57
 5702,0,'University',57
 5901,0,'Mill Woods TC',59
@@ -150,6 +150,9 @@
 9402,0,'University',94
 9501,0,'Laurel',95
 9502,0,'Mill Woods TC',95
+9703,0,'NAIT',97
+9803,0,'NAIT',98
+9804,0,'WEM',98
 9903,0,'Belvedere',99
 9904,0,'Capilano',99
 10002,0,'Downtown',100
@@ -251,8 +254,9 @@
 16204,0,'MacEwan / Gov Ctr',162
 16303,0,'Chambery',163
 16304,0,'Eaux Claires',163
-16404,0,'Northgate',164
-16403,0,'Rapperswill',164
+16400,0,'Northgate - Canossa - Rapperswill',164
+16504,0,'85 St - 132 Ave',165
+16704,0,'95 St / 132 Ave',167
 16803,0,'Eaux Claires',168
 16804,0,'Northgate',168
 16903,0,'Canossa',169
@@ -261,14 +265,19 @@
 18002,0,'Downtown',180
 18102,0,'Belvedere',181
 18101,0,'Clareview',181
-18201,0,'Fraser',182
-18202,0,'Northgate',182
+18200,0,'Fraser - Northgate',182
 18304,0,'Abbottsfield',183
 18303,0,'Clareview',183
 18404,0,'Clareview',184
 18403,0,'Evergreen',184
 18504,0,'Abbottsfield',185
 18503,0,'Clareview',185
+18601,0,'Fraser',186
+18602,0,'Northgate',186
+18701,0,'Kernohan',187
+18702,0,'Londonderry',187
+18802,0,'Eaux Claires',188
+18801,0,'Londonderry',188
 19001,0,'Clareview',190
 19002,0,'Eaux Claires',190
 19104,0,'Eaux Claires',191
@@ -289,8 +298,7 @@
 30301,0,'Northgate',303
 30403,0,'Southgate',304
 30404,0,'Southpark',304
-30504,0,'Jasper Gts',305
-30503,0,'Westmount',305
+30500,0,'Westmount - Jasper Gts',305
 30602,0,'Bonnie Doon',306
 30601,0,'Mdws',306
 30702,0,'Bonnie Doon',307
@@ -305,12 +313,12 @@
 31104,0,'WEM',311
 31201,0,'Londonderry',312
 31202,0,'Northgate',312
-31304,0,'Parkallen',313
-31303,0,'University',313
 31504,0,'Lewis Farms',315
 31503,0,'Winterburn Ind',315
 31701,0,'Jasper Pl',317
 31702,0,'Winterburn',317
+31800,0,'Windsor Pk - University - Belgravia',318
+31900,0,'Southgate - Parkallen - Belgravia',319
 32101,0,'Millgate',321
 32102,0,'Strathcona Ind',321
 32204,0,'Bonnie Doon',322
@@ -321,8 +329,6 @@
 32401,0,'Century Pk',324
 32501,0,'Leger',325
 32502,0,'Windermere',325
-32702,0,'Belgravia',327
-32701,0,'Strathcona',327
 33103,0,'Century Pk',331
 33104,0,'Chappelle',331
 33301,0,'Lewis Farms',333
@@ -343,6 +349,8 @@
 37003,0,'Millgate',370
 38104,0,'Clareview',381
 38103,0,'Hollick Kenyon',381
+39903,0,'Coliseum',399
+39904,0,'Concordia',399
 51203,0,'Clareview',512
 51204,0,'Downtown',512
 56001,0,'Downtown',560
@@ -355,12 +363,210 @@
 58003,0,'Fort Saskatchewan',580
 58902,0,'Coliseum',589
 58901,0,'Edm Waste Mgt Ctr',589
-59401,0,'Valley Zoo',594
-59402,0,'WEM',594
+59400,0,'WEM - ZOO - WEM',594
 59502,0,'Fort Edm',595
 59501,0,'South Campus',595
 59904,0,'Eaux Claires',599
 59903,0,'Edm Garrison',599
+60103,0,'Ross Shep',601
+60203,0,'Ross Shep',602
+60300,0,'McConachie - Clareview',603
+60604,0,'Arch Mac',606
+60704,0,'Arch Mac',607
+60900,0,'Castle Downs - Ross Shep/Arch Mac',609
+61000,0,'Rapperswill - Ross Shep/Arch Mac',610
+61204,0,'Arch Mac',612
+61303,0,'Century Pk',613
+61704,0,'Cardinal Leger',617
+61804,0,'JJ Bowlen',618
+62004,0,'AOB',620
+62104,0,'AOB',621
+63501,0,'Downtown',635
+68904,0,'Strathcona',689
+69703,0,'South Campus',697
+69801,0,'McPherson',698
+70101,0,'WEM',701
+70302,0,'St Francis Xavier',703
+70501,0,'Westlawn',705
+70604,0,'Jasper Pl',706
+70701,0,'Oscar Romero',707
+70803,0,'Jasper Pl',708
+70901,0,'Downtown',709
+71001,0,'Ross Shep',710
+71101,0,'Ross Shep',711
+71200,0,'Ormsby - HE Beriault/Hillcrest',712
+71701,0,'Victoria',717
+72303,0,'Strathcona',723
+72504,0,'University',725
+72603,0,'Ross Shep',726
+72801,0,'Strathcona',728
+72901,0,'Strathcona',729
+73004,0,'Arch Mac',730
+73102,0,'Westmount',731
+73402,0,'Mary Butterworth',734
+73501,0,'University',735
+73803,0,'South Campus',738
+73903,0,'University',739
+74103,0,'WP Wagner',741
+74402,0,'Queen Elizabeth',744
 74703,0,'Century Pk',747
 74704,0,'Edm Int Airport',747
-83701,0,'Coliseum',837
+74804,0,'Cardinal Leger',748
+75001,0,'Eastglen',750
+75302,0,'Northgate',753
+75502,0,'Arch O''Leary',755
+75601,0,'LaZerte',756
+75704,0,'University',757
+76003,0,'McNally',760
+76102,0,'Strathcona',761
+76302,0,'University',763
+76501,0,'Strathcona',765
+76702,0,'Strathcona',767
+76802,0,'WP Wagner',768
+76903,0,'WP Wagner',769
+77303,0,'WP Wagner',773
+77403,0,'Hardisty',774
+77603,0,'McNally',776
+77702,0,'Mill Woods TC',777
+77803,0,'McNally',778
+77903,0,'Hardisty',779
+78003,0,'Hardisty',780
+78103,0,'McNally',781
+78203,0,'Kenilworth',782
+78303,0,'Kenilworth',783
+78403,0,'McNally',784
+78503,0,'Hardisty',785
+78603,0,'Avalon',786
+78701,0,'Strathcona',787
+78903,0,'WP Wagner',789
+79003,0,'Southgate',790
+79103,0,'Southgate',791
+79302,0,'Harry Ainlay',793
+79503,0,'Southgate',795
+79601,0,'Eastglen',796
+79903,0,'Riverbend',799
+80001,0,'Matt Berry',800
+80204,0,'Jasper Pl',802
+80203,0,'Westmount',802
+80303,0,'Ormsby Pl',803
+80402,0,'LaPerle',804
+80502,0,'WEM',805
+80702,0,'WEM',807
+80803,0,'Jasper Pl',808
+80902,0,'WEM',809
+81002,0,'WEM',810
+81102,0,'WEM',811
+81202,0,'LaPerle',812
+81402,0,'WEM',814
+81502,0,'WEM',815
+81802,0,'Ormsby Pl',818
+81801,0,'WEM',818
+81904,0,'WEM',819
+82002,0,'Southgate',820
+82102,0,'WEM',821
+82203,0,'Northgate',822
+82402,0,'Lewis Farms',824
+82503,0,'Northgate',825
+82604,0,'Magrath',826
+82802,0,'Brookside',828
+82904,0,'Leger',829
+83002,0,'Downtown',830
+83203,0,'Castle Downs',832
+83503,0,'Northgate',835
+83700,0,'Ross Shep - Kingsway/RAH - Coliseum',837
+83902,0,'WEM',839
+84003,0,'Castle Downs',840
+84202,0,'Oxford',842
+84301,0,'Downtown',843
+84402,0,'Clareview',844
+84401,0,'Fraser',844
+84501,0,'Clareview',845
+84502,0,'Northgate',845
+84600,0,'Arch Mac - Dunluce/Castle Downs',846
+84803,0,'Lago Lindo',848
+84901,0,'Clareview',849
+85103,0,'Klarvatten',851
+85203,0,'Castle Downs',852
+85301,0,'Belvedere',853
+85302,0,'Northgate',853
+85503,0,'Castle Downs',855
+85603,0,'Downtown',856
+85801,0,'Stadium',858
+85903,0,'Northgate',859
+86004,0,'Mill Woods TC',860
+86204,0,'Mill Woods',862
+86404,0,'Millgate',864
+86502,0,'Mill Woods TC',865
+86904,0,'Mill Woods TC',869
+87001,0,'Southwood',870
+87101,0,'Belle Rive',871
+87204,0,'Mill Woods TC',872
+87404,0,'Mill Woods',874
+87500,0,'Wagner - Millgate TC',875
+87704,0,'Mill Woods TC',877
+87804,0,'Mill Woods TC',878
+87904,0,'Millgate',879
+88004,0,'Mill Woods TC',880
+88101,0,'Capilano',881
+88204,0,'Mill Woods TC',882
+88304,0,'Twin Brooks',883
+88404,0,'Lakewood',884
+88504,0,'Century Pk',885
+88604,0,'Southgate',886
+88704,0,'Twin Brooks',887
+88801,0,'Century Pk',888
+88904,0,'Century Pk',889
+89004,0,'Southgate',890
+89204,0,'Century Pk',892
+89301,0,'Mill Woods TC',893
+89401,0,'Millgate',894
+89504,0,'Southgate',895
+89604,0,'Leger',896
+89703,0,'Millgate',897
+89804,0,'Mill Woods TC',898
+89904,0,'WEM',899
+90101,0,'Londonderry',901
+90301,0,'Clareview',903
+90704,0,'Haddow',907
+90801,0,'Fraser',908
+90903,0,'Eaux Claires',909
+91303,0,'Eaux Claires',913
+91403,0,'Oxford',914
+91603,0,'Baturyn',916
+91702,0,'Jackson Hts',917
+91902,0,'Abbottsfield',919
+92003,0,'Minchau',920
+92104,0,'SilverBerry',921
+92204,0,'Leger',922
+92304,0,'Twin Brooks',923
+92401,0,'Mill Woods TC',924
+92502,0,'Windsor Pk',925
+92602,0,'WEM',926
+93102,0,'Lago Lindo',931
+93201,0,'Clareview',932
+93402,0,'Castle Downs',934
+93503,0,'Hollick Kenyon',935
+93903,0,'Elsinore',939
+94001,0,'Abbottsfield',940
+94103,0,'Abbottsfield',941
+94303,0,'Belvedere',943
+94503,0,'Eaux Claires',945
+95002,0,'Lymburn / Ormsby Pl',950
+95201,0,'Crestwood',952
+95302,0,'Lymburn',953
+95404,0,'Wedgewood',954
+95502,0,'LaPerle',955
+95602,0,'The Grange',956
+95702,0,'The Hamptons',957
+95903,0,'WEM',959
+96502,0,'Downtown',965
+96604,0,'Mill Woods TC',966
+96704,0,'Leger',967
+96804,0,'Leger',968
+96904,0,'Leger',969
+97104,0,'34 St / 35A Ave',971
+97203,0,'MacEwan',972
+97204,0,'Rutherford',972
+97604,0,'Century Pk',976
+97701,0,'Mdws',977
+97900,0,'Cent Pk-MWTC',979
