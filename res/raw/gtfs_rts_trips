@@ -313,6 +313,8 @@
 31104,0,'WEM',311
 31201,0,'Londonderry',312
 31202,0,'Northgate',312
+31304,0,'Parkallen',313
+31303,0,'University',313
 31504,0,'Lewis Farms',315
 31503,0,'Winterburn Ind',315
 31701,0,'Jasper Pl',317
@@ -353,6 +355,7 @@
 39904,0,'Concordia',399
 51203,0,'Clareview',512
 51204,0,'Downtown',512
+54000,0,'Beaumont - Edmonton',540
 56001,0,'Downtown',560
 56002,0,'Spruce Grv',560
 56102,0,'Acheson',561
@@ -569,4 +572,4 @@
 97204,0,'Rutherford',972
 97604,0,'Century Pk',976
 97701,0,'Mdws',977
-97900,0,'Cent Pk-MWTC',979
+97900,0,'Century Pk-MWTC',979
