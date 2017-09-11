@@ -85,7 +85,7 @@
 5303,0,'South Campus',53
 5304,0,'Southgate',53
 5400,0,'South Campus - Whyte Av - University',54
-5500,0,'Southgate - Malmo - South Campus',55
+5500,0,'Southgate - Malmo - South Campus - Belgravia',55
 5701,0,'Downtown',57
 5702,0,'University',57
 5901,0,'Mill Woods TC',59
@@ -313,8 +313,6 @@
 31104,0,'WEM',311
 31201,0,'Londonderry',312
 31202,0,'Northgate',312
-31304,0,'Parkallen',313
-31303,0,'University',313
 31504,0,'Lewis Farms',315
 31503,0,'Winterburn Ind',315
 31701,0,'Jasper Pl',317
