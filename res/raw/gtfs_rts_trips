@@ -19,7 +19,7 @@
 1004,0,'Coliseum',10
 1101,0,'Clareview',11
 1102,0,'Northgate',11
-1200,0,'Northgate - Wellington - Kingsway/RAH',12
+1200,0,'Northgate - Wellington - Kingsway - RAH',12
 1302,0,'Castle Downs',13
 1301,0,'Northgate',13
 1401,0,'Downtown',14
@@ -364,9 +364,6 @@
 58003,0,'Fort Saskatchewan',580
 58902,0,'Coliseum',589
 58901,0,'Edm Waste Mgt Ctr',589
-59400,0,'WEM - ZOO - WEM',594
-59502,0,'Fort Edm',595
-59501,0,'South Campus',595
 59904,0,'Eaux Claires',599
 59903,0,'Edm Garrison',599
 60103,0,'Ross Shep',601
@@ -474,7 +471,7 @@
 83002,0,'Downtown',830
 83203,0,'Castle Downs',832
 83503,0,'Northgate',835
-83700,0,'Ross Shep - Kingsway/RAH - Coliseum',837
+83700,0,'Ross Shep - Kingsway - RAH - Coliseum',837
 83902,0,'WEM',839
 84003,0,'Castle Downs',840
 84202,0,'Oxford',842
