@@ -353,8 +353,6 @@
 39904,0,'Concordia',399
 51203,0,'Clareview',512
 51204,0,'Downtown',512
-51703,0,'Clareview',517
-51704,0,'Coliseum',517
 54000,0,'Beaumont - Edmonton',540
 56001,0,'Downtown',560
 56002,0,'Spruce Grv',560
@@ -553,7 +551,6 @@
 94503,0,'Eaux Claires',945
 95002,0,'Lymburn / Ormsby Pl',950
 95201,0,'Crestwood',952
-95302,0,'Lymburn',953
 95404,0,'Wedgewood',954
 95502,0,'LaPerle',955
 95602,0,'The Grange',956
