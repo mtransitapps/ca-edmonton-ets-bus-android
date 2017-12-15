@@ -12,14 +12,16 @@
 602,0,'Southgate',6
 702,0,'Jasper Pl',7
 701,0,'University',7
-800,0,'Mill Woods TC - Downtown - Abbottsfield',8
+803,0,'Abbottsfield',8
+804,0,'Mill Woods TC',8
 904,0,'Century Pk',9
 903,0,'Eaux Claires',9
 1003,0,'Clareview',10
 1004,0,'Coliseum',10
 1101,0,'Clareview',11
 1102,0,'Northgate',11
-1200,0,'Northgate - Wellington - Kingsway - RAH',12
+1204,0,'Downtown',12
+1203,0,'Northgate',12
 1302,0,'Castle Downs',13
 1301,0,'Northgate',13
 1401,0,'Downtown',14
@@ -84,8 +86,10 @@
 5204,0,'Southgate',52
 5303,0,'South Campus',53
 5304,0,'Southgate',53
-5400,0,'South Campus - Whyte Av - University',54
-5500,0,'Southgate - Malmo - South Campus - Belgravia',55
+5404,0,'South Campus',54
+5403,0,'University',54
+5503,0,'Belgravia',55
+5504,0,'Southgate',55
 5701,0,'Downtown',57
 5702,0,'University',57
 5901,0,'Mill Woods TC',59
@@ -254,7 +258,8 @@
 16204,0,'MacEwan / Gov Ctr',162
 16303,0,'Chambery',163
 16304,0,'Eaux Claires',163
-16400,0,'Northgate - Canossa - Rapperswill',164
+16404,0,'Northgate',164
+16403,0,'Rapperswill',164
 16504,0,'85 St - 132 Ave',165
 16704,0,'95 St / 132 Ave',167
 16803,0,'Eaux Claires',168
@@ -265,7 +270,8 @@
 18002,0,'Downtown',180
 18102,0,'Belvedere',181
 18101,0,'Clareview',181
-18200,0,'Fraser - Northgate',182
+18201,0,'Fraser',182
+18202,0,'Northgate',182
 18304,0,'Abbottsfield',183
 18303,0,'Clareview',183
 18404,0,'Clareview',184
@@ -298,7 +304,8 @@
 30301,0,'Northgate',303
 30403,0,'Southgate',304
 30404,0,'Southpark',304
-30500,0,'Westmount - Jasper Gts',305
+30504,0,'Jasper Gts',305
+30503,0,'Westmount',305
 30602,0,'Bonnie Doon',306
 30601,0,'Mdws',306
 30702,0,'Bonnie Doon',307
@@ -317,8 +324,10 @@
 31503,0,'Winterburn Ind',315
 31701,0,'Jasper Pl',317
 31702,0,'Winterburn',317
-31800,0,'Windsor Pk - University - Belgravia',318
-31900,0,'Southgate - Parkallen - Belgravia',319
+31804,0,'Belgravia',318
+31803,0,'University',318
+31903,0,'Belgravia',319
+31904,0,'Southgate',319
 32101,0,'Millgate',321
 32102,0,'Strathcona Ind',321
 32204,0,'Bonnie Doon',322
@@ -353,7 +362,8 @@
 39904,0,'Concordia',399
 51203,0,'Clareview',512
 51204,0,'Downtown',512
-54000,0,'Beaumont - Edmonton',540
+54004,0,'Beaumont',540
+54003,0,'Edm',540
 56001,0,'Downtown',560
 56002,0,'Spruce Grv',560
 56102,0,'Acheson',561
@@ -368,11 +378,11 @@
 59903,0,'Edm Garrison',599
 60103,0,'Ross Shep',601
 60203,0,'Ross Shep',602
-60300,0,'McConachie - Clareview',603
+60304,0,'Clareview',603
 60604,0,'Arch Mac',606
 60704,0,'Arch Mac',607
-60900,0,'Castle Downs - Ross Shep - Arch Mac',609
-61000,0,'Rapperswill - Ross Shep - Arch Mac',610
+60904,0,'Arch Mac',609
+61004,0,'Arch Mac',610
 61204,0,'Arch Mac',612
 61303,0,'Century Pk',613
 61704,0,'Cardinal Leger',617
@@ -392,7 +402,7 @@
 70901,0,'Downtown',709
 71001,0,'Ross Shep',710
 71101,0,'Ross Shep',711
-71200,0,'Ormsby - HE Beriault - Hillcrest',712
+71201,0,'Hillcrest',712
 71701,0,'Victoria',717
 72303,0,'Strathcona',723
 72504,0,'University',725
@@ -471,7 +481,7 @@
 83002,0,'Downtown',830
 83203,0,'Castle Downs',832
 83503,0,'Northgate',835
-83700,0,'Ross Shep - Kingsway - RAH - Coliseum',837
+83701,0,'Coliseum',837
 83902,0,'WEM',839
 84003,0,'Castle Downs',840
 84202,0,'Oxford',842
@@ -480,7 +490,7 @@
 84401,0,'Fraser',844
 84501,0,'Clareview',845
 84502,0,'Northgate',845
-84600,0,'Arch Mac - Dunluce - Castle Downs',846
+84603,0,'Castle Downs',846
 84803,0,'Lago Lindo',848
 84901,0,'Clareview',849
 85103,0,'Klarvatten',851
@@ -500,7 +510,7 @@
 87101,0,'Belle Rive',871
 87204,0,'Mill Woods TC',872
 87404,0,'Mill Woods',874
-87500,0,'Wagner - Millgate TC',875
+87504,0,'Millgate',875
 87704,0,'Mill Woods TC',877
 87804,0,'Mill Woods TC',878
 87904,0,'Millgate',879
@@ -567,4 +577,4 @@
 97204,0,'Rutherford',972
 97604,0,'Century Pk',976
 97701,0,'Mdws',977
-97900,0,'Cent Pk-MWTC',979
+97901,0,'Mill Woods TC',979
