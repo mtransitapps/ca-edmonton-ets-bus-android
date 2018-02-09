@@ -4,8 +4,7 @@
 202,0,'Lessard',2
 301,0,'Cromdale',3
 302,0,'Jasper Pl',3
-401,0,'Capilano',4
-402,0,'Lewis Farms',4
+400,0,'Lewis Farms - University - Capilano',4
 501,0,'Coliseum',5
 502,0,'Westmount',5
 601,0,'Mill Woods TC',6
@@ -14,8 +13,7 @@
 701,0,'University',7
 803,0,'Abbottsfield',8
 804,0,'Mill Woods TC',8
-904,0,'Century Pk',9
-903,0,'Eaux Claires',9
+900,0,'Southgate - Downtown - Eaux Claires',9
 1003,0,'Clareview',10
 1004,0,'Coliseum',10
 1101,0,'Clareview',11
@@ -171,8 +169,7 @@
 10401,0,'South Campus',104
 10502,0,'Lessard',105
 10501,0,'South Campus',105
-10602,0,'Lessard',106
-10601,0,'University',106
+10600,0,'University - Lessard',106
 10703,0,'WEM',107
 10704,0,'Westridge',107
 10804,0,'Breckenridge Grns',108
