@@ -360,6 +360,8 @@
 38103,0,'Hollick Kenyon',381
 39903,0,'Coliseum',399
 39904,0,'Concordia',399
+51003,0,'Clareview',510
+51004,0,'Downtown',510
 51203,0,'Clareview',512
 51204,0,'Downtown',512
 54004,0,'Beaumont',540
@@ -376,8 +378,6 @@
 58901,0,'Edm Waste Mgt Ctr',589
 59401,0,'Valley Zoo',594
 59402,0,'WEM',594
-59502,0,'Fort Edm',595
-59501,0,'South Campus',595
 59904,0,'Eaux Claires',599
 59903,0,'Edm Garrison',599
 60103,0,'Ross Shep',601
