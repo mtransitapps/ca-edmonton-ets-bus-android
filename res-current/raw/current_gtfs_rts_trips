@@ -102,8 +102,8 @@
 6204,0,'Southwood',62
 6303,0,'Downtown',63
 6304,0,'Southwood',63
-6403,0,'Downtown',64
 6404,0,'Knottwood',64
+6403,0,'Mill Woods TC',64
 6503,0,'Downtown',65
 6504,0,'Knottwood',65
 6603,0,'Downtown',66
@@ -374,8 +374,6 @@
 56101,0,'NAIT',561
 56201,0,'South Campus',562
 56202,0,'Spruce Grv',562
-57702,0,'84 St / 111 Ave',577
-57701,0,'Northlands',577
 58004,0,'Clareview',580
 58003,0,'Fort Saskatchewan',580
 58902,0,'Coliseum',589
