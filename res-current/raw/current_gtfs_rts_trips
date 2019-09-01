@@ -29,7 +29,7 @@
 1500,0,'Eaux Claires',15
 1501,0,'Mill Woods TC',15
 1600,0,'Castle Downs',16
-1601,0,'Government Ctr',16
+1601,0,'Gov Ctr',16
 1701,0,'Century Pk',17
 1700,0,'Southgate',17
 2300,0,'Mill Woods TC',23
@@ -65,10 +65,12 @@
 4100,0,'Southgate',41
 4301,0,'Century Pk',43
 4300,0,'South Campus',43
-4400,0,'Century Pk',44
+4400,0,'Southgate',44
 4401,0,'Twin Brooks',44
 4501,0,'Century Pk',45
 4500,0,'Southgate',45
+4600,0,'Harry Ainlay',46
+4601,0,'Yellowbird',46
 4701,0,'Allard',47
 4700,0,'Century Pk',47
 4801,0,'Blackburne',48
@@ -83,6 +85,8 @@
 5201,0,'Southgate',52
 5300,0,'South Campus',53
 5301,0,'Southgate',53
+5401,0,'South Campus',54
+5400,0,'University',54
 5500,0,'South Campus',55
 5501,0,'Southgate',55
 5900,0,'South Edm Common',59
@@ -93,7 +97,7 @@
 6200,0,'Southwood',62
 6300,0,'Southwood',63
 6400,0,'Knottwood',64
-6500,0,'Knottwood',65
+6501,0,'Knottwood',65
 6601,0,'Mill Woods TC',66
 6600,0,'Millgate',66
 6700,0,'Mill Woods TC',67
@@ -103,7 +107,7 @@
 6900,0,'Millgate',69
 7000,0,'Downtown',70
 7001,0,'Mill Woods TC',70
-7100,0,'Government Ctr',71
+7100,0,'Gov Ctr',71
 7101,0,'Mill Woods TC',71
 7201,0,'Mill Woods TC',72
 7200,0,'Millgate',72
@@ -139,12 +143,15 @@
 9401,0,'University',94
 9500,0,'Mdws',95
 9501,0,'Mill Woods TC',95
+9700,0,'NAIT',97
+9800,0,'NAIT',98
+9801,0,'West Edm Mall',98
 9900,0,'Belvedere',99
 9901,0,'Capilano',99
 10000,0,'Downtown',100
 10001,0,'Lewis Farms',100
-10104,0,'Wedgewood',101
-10103,0,'West Edm Mall',101
+10101,0,'Wedgewood',101
+10100,0,'West Edm Mall',101
 10201,0,'Lymburn',102
 10200,0,'West Edm Mall',102
 10301,0,'Cameron Hts',103
@@ -188,16 +195,16 @@
 12300,0,'Westmount',123
 12401,0,'Jasper Pl',124
 12400,0,'Westmount',124
-12500,0,'Belevedere',125
+12500,0,'Belvedere',125
 12501,0,'Jasper Pl',125
 12601,0,'West Edm Mall',126
 12600,0,'Westmount',126
 12800,0,'Castle Downs',128
-12801,0,'Government Ctr',128
+12801,0,'Gov Ctr',128
 12901,0,'West Edm Mall',129
 12900,0,'Westmount',129
-13001,0,'Government Ctr',130
-13000,0,'NAIT',130
+13001,0,'Gov Ctr',130
+13000,0,'Northgate',130
 13301,0,'Lewis Farms',133
 13300,0,'University',133
 13401,0,'Downtown',134
@@ -232,7 +239,7 @@
 15301,0,'Northgate',153
 15400,0,'Belvedere',154
 15401,0,'Northgate',154
-16001,0,'Government Ctr',160
+16001,0,'Gov Ctr',160
 16000,0,'Oxford',160
 16100,0,'Castle Downs',161
 16101,0,'Northgate',161
@@ -242,6 +249,10 @@
 16301,0,'Eaux Claires',163
 16401,0,'Northgate',164
 16400,0,'Rapperswill',164
+16501,0,'85 St & 132 Ave',165
+16500,0,'S Baturyn',165
+16701,0,'95 St & 132 Ave',167
+16700,0,'S 100 St/160 Ave',167
 16801,0,'Eaux Claires',168
 16800,0,'Northgate',168
 16900,0,'Canossa',169
@@ -258,6 +269,12 @@
 18400,0,'Evergreen',184
 18501,0,'Abbottsfield',185
 18500,0,'Clareview',185
+18600,0,'Fraser',186
+18601,0,'Northgate',186
+18700,0,'Clareview',187
+18701,0,'Londonderry',187
+18800,0,'Clareview',188
+18801,0,'Eaux Claires',188
 19000,0,'Clareview',190
 19001,0,'Eaux Claires',190
 19101,0,'Eaux Claires',191
@@ -330,16 +347,18 @@
 37000,0,'Millgate',370
 38100,0,'Hollick Kenyon',381
 38101,0,'West Clareview',381
+39900,0,'Coliseum',399
+39901,0,'Concordia',399
 51200,0,'Clareview',512
 51201,0,'Downtown',512
 54001,0,'Beaumont',540
 54000,0,'Edm',540
-56001,0,'Edm',560
-56002,0,'Spruce Grv',560
+56000,0,'Edm',560
+56001,0,'Spruce Grv',560
 56101,0,'Acheson',561
 56100,0,'Edm',561
 56201,0,'Spruce Grv',562
-56200,0,'WEM & South Campus',562
+56200,0,'West Edm Mall',562
 58001,0,'Clareview',580
 58000,0,'Fort Saskatchewan',580
 58901,0,'Coliseum',589
@@ -350,5 +369,34 @@
 59600,0,'University',596
 59901,0,'Eaux Claires',599
 59900,0,'Edm Garrison',599
+60100,0,'School Special',601
+60201,0,'School Special',602
+60300,0,'School Special',603
+60400,0,'School Special',604
+60500,0,'School Special',605
+60600,0,'School Special',606
+60701,0,'School Special',607
+60800,0,'School Special',608
+60900,0,'School Special',609
+61001,0,'School Special',610
+61100,0,'School Special',611
+61200,0,'School Special',612
+61300,0,'School Special',613
+61401,0,'School Special',614
+61500,0,'School Special',615
+61600,0,'School Special',616
 74700,0,'Century Pk',747
 74701,0,'Edm Int Airport',747
+80001,0,'School Special',800
+80101,0,'School Special',801
+80201,0,'School Special',802
+80300,0,'School Special',803
+80401,0,'School Special',804
+80500,0,'School Special',805
+80600,0,'School Special',806
+80701,0,'School Special',807
+80801,0,'School Special',808
+80901,0,'School Special',809
+81001,0,'School Special',810
+81100,0,'School Special',811
+81201,0,'School Special',812
