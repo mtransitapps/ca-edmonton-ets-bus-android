@@ -97,8 +97,7 @@
 6200,0,'Southwood',62
 6300,0,'Southwood',63
 6400,0,'Knottwood',64
-6500,0,'Knottwood',65
-6501,0,'S Mill Woods',65
+6501,0,'Knottwood',65
 6601,0,'Mill Woods TC',66
 6600,0,'Millgate',66
 6700,0,'Mill Woods TC',67
@@ -364,10 +363,8 @@
 58000,0,'Fort Saskatchewan',580
 58901,0,'Coliseum',589
 58900,0,'Waste Management Ctr',589
+59401,0,'Lewis Farms',594
 59400,0,'Vly Zoo',594
-59401,0,'West Edm Mall',594
-59601,0,'Hawrelak Pk',596
-59600,0,'University',596
 59901,0,'Eaux Claires',599
 59900,0,'Edm Garrison',599
 60100,0,'School Special',601
