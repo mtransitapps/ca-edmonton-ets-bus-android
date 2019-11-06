@@ -365,34 +365,33 @@
 58900,0,'Waste Management Ctr',589
 59901,0,'Eaux Claires',599
 59900,0,'Edm Garrison',599
-60100,0,'School Special',601
-60201,0,'School Special',602
-60300,0,'School Special',603
-60400,0,'School Special',604
-60500,0,'School Special',605
-60600,0,'School Special',606
-60701,0,'School Special',607
-60800,0,'School Special',608
-60900,0,'School Special',609
-61001,0,'School Special',610
-61100,0,'School Special',611
-61200,0,'School Special',612
-61300,0,'School Special',613
-61401,0,'School Special',614
-61500,0,'School Special',615
-61600,0,'School Special',616
+60100,0,'R Sheppard/A MacDonald',601
+60201,0,'Strathcona',602
+60300,0,'Fthr Michael Troy',603
+60400,0,'McNally',604
+60500,0,'Hardisty',605
+60600,0,'McNally',606
+60701,0,'Kate Chegwin/MWDS TC',607
+60800,0,'McNally',608
+60900,0,'A O''Brien/Hardisty',609
+61001,0,'R Sheppard/A MacDonald',610
+61100,0,'McNally',611
+61200,0,'AOB/Hardisty',612
+61300,0,'Strathcona',613
+61401,0,'Harry Ainlay',614
+61600,0,'Avalon',616
 74700,0,'Century Pk',747
 74701,0,'Edm Int Airport',747
-80001,0,'School Special',800
-80101,0,'School Special',801
-80201,0,'School Special',802
-80300,0,'School Special',803
-80401,0,'School Special',804
-80500,0,'School Special',805
-80600,0,'School Special',806
-80701,0,'School Special',807
-80801,0,'School Special',808
-80901,0,'School Special',809
-81001,0,'School Special',810
-81100,0,'School Special',811
-81201,0,'School Special',812
+80001,0,'Mill Woods',800
+80101,0,'Burnewood',801
+80201,0,'Mill Woods',802
+80300,0,'Belle Rive',803
+80401,0,'Southgate',804
+80500,0,'Eaux Claires',805
+80600,0,'Eaux Claires',806
+80701,0,'Jackson Hts',807
+80801,0,'Mill Woods',808
+80901,0,'Windsor Pk',809
+81001,0,'Southwood',810
+81100,0,'Mdws',811
+81201,0,'Southwood',812
