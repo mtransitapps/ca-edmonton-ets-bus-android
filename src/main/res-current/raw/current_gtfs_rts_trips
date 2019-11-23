@@ -69,8 +69,8 @@
 4401,0,'Twin Brooks',44
 4501,0,'Century Pk',45
 4500,0,'Southgate',45
-4600,0,'Harry Ainlay',46
-4601,0,'Yellowbird',46
+4600,0,'Harry Ainlay / Yellowbird / Century Pk',46
+4601,0,'Yellowbird / Century Pk',46
 4701,0,'Allard',47
 4700,0,'Century Pk',47
 4801,0,'Blackburne',48
@@ -95,8 +95,11 @@
 6101,0,'Mill Woods TC',61
 6100,0,'Millgate',61
 6200,0,'Southwood',62
+6201,0,'Southwood ',62
 6300,0,'Southwood',63
+6301,0,'Southwood ',63
 6400,0,'Knottwood',64
+6401,0,'Mill Woods TC',64
 6501,0,'Knottwood',65
 6601,0,'Mill Woods TC',66
 6600,0,'Millgate',66
