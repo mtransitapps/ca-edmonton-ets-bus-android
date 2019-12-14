@@ -70,7 +70,6 @@
 4501,0,'Century Pk',45
 4500,0,'Southgate',45
 4600,0,'Harry Ainlay / Yellowbird / Century Pk',46
-4601,0,'Yellowbird / Century Pk',46
 4701,0,'Allard',47
 4700,0,'Century Pk',47
 4801,0,'Blackburne',48
@@ -94,9 +93,7 @@
 6000,0,'Millgate',60
 6101,0,'Mill Woods TC',61
 6100,0,'Millgate',61
-6200,0,'Southwood',62
 6201,0,'Southwood ',62
-6300,0,'Southwood',63
 6301,0,'Southwood ',63
 6400,0,'Knottwood',64
 6401,0,'Mill Woods TC',64
@@ -272,8 +269,8 @@
 18400,0,'Evergreen',184
 18501,0,'Abbottsfield',185
 18500,0,'Clareview',185
-18600,0,'Fraser',186
 18601,0,'Northgate',186
+18600,0,'S Fraser',186
 18700,0,'Clareview',187
 18701,0,'Londonderry',187
 18800,0,'Clareview',188
@@ -309,7 +306,7 @@
 30900,0,'Kingsway',309
 30901,0,'Riverdale',309
 31000,0,'Jasper Pl',310
-31001,0,'Meadowlark',310
+31001,0,'Rio Ter',310
 31100,0,'Jasper Pl',311
 31101,0,'West Edm Mall',311
 31200,0,'Londonderry',312
@@ -382,6 +379,7 @@
 61200,0,'AOB/Hardisty',612
 61300,0,'Strathcona',613
 61401,0,'Harry Ainlay',614
+61500,0,'AOB/Hardisty',615
 61600,0,'Avalon',616
 74700,0,'Century Pk',747
 74701,0,'Edm Int Airport',747
