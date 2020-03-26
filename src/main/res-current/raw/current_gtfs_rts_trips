@@ -29,7 +29,7 @@
 1500,0,'Eaux Claires',15
 1501,0,'Mill Woods TC',15
 1600,0,'Castle Downs',16
-1601,0,'Northgate',16
+1601,0,'Gov Ctr',16
 1701,0,'Century Pk',17
 1700,0,'Southgate',17
 2300,0,'Mill Woods TC',23
@@ -92,11 +92,18 @@
 7800,0,'Mill Woods TC',78
 7901,0,'Century Pk',79
 7900,0,'Mill Woods TC',79
+8000,0,'Capilano',80
+8001,0,'Southgate',80
 8100,0,'Downtown',81
 8101,0,'Mill Woods TC',81
+8301,0,'Bonnie Doon',83
+8300,0,'Mdws',83
+8400,0,'Capilano',84
+8401,0,'Millgate',84
 8500,0,'Capilano',85
 8501,0,'Downtown',85
 8901,0,'Tamarack',89
+9201,0,'Pylypow Ind',92
 9400,0,'Capilano',94
 9401,0,'University',94
 9500,0,'Laurel',95
@@ -125,6 +132,8 @@
 11700,0,'West Edm Mall',117
 12001,0,'Jasper Pl',120
 12000,0,'Stadium',120
+12201,0,'West Edm Mall',122
+12200,0,'Westmount',122
 12500,0,'Belvedere',125
 12501,0,'Jasper Pl',125
 12601,0,'West Edm Mall',126
@@ -135,6 +144,8 @@
 13000,0,'NAIT',130
 13601,0,'The Hamptons',136
 13600,0,'West Edm Mall',136
+13700,0,'Clareview',137
+13701,0,'West Edm Mall',137
 14001,0,'Downtown',140
 14000,0,'Northgate',140
 14100,0,'Abbottsfield',141
@@ -217,6 +228,8 @@
 32400,0,'Century Pk',324
 32500,0,'Leger',325
 32501,0,'Windermere',325
+33100,0,'Century Pk',331
+33101,0,'Chappelle',331
 33900,0,'Century Pk',339
 33901,0,'Heritage Vly',339
 34001,0,'Mill Woods TC',340
