@@ -41,7 +41,7 @@
 3300,0,'Mdws',33
 3301,0,'West Edm Mall',33
 3401,0,'Leger',34
-3400,0,'Southgate',34
+3400,0,'S Southgate',34
 3500,0,'Century Pk',35
 3501,0,'Leger',35
 3601,0,'Century Pk',36
@@ -242,19 +242,13 @@
 36300,0,'Knottwood',363
 37001,0,'Mill Woods TC',370
 37000,0,'Millgate',370
-51200,0,'Clareview',512
-51201,0,'Downtown',512
 54001,0,'Beaumont',540
 54000,0,'Edm',540
 56000,0,'Edm',560
 56001,0,'Spruce Grv',560
 56101,0,'Acheson',561
 56100,0,'Edm',561
-56201,0,'Spruce Grv',562
-56200,0,'West Edm Mall',562
 58001,0,'Clareview',580
 58000,0,'Fort Saskatchewan',580
 58901,0,'Coliseum',589
 58900,0,'Waste Management Ctr',589
-74700,0,'Century Pk',747
-74701,0,'Edm Int Airport',747
