@@ -8,12 +8,12 @@
 401,0,'Lewis Farms',4
 500,0,'Coliseum',5
 501,0,'Westmount',5
-600,0,'Mill Woods TC',6
+600,0,'Mill Woods',6
 601,0,'Southgate',6
 700,0,'Jasper Pl',7
 701,0,'University',7
 800,0,'Abbottsfield',8
-801,0,'Mill Woods TC',8
+801,0,'Mill Woods',8
 901,0,'Century Pk',9
 900,0,'Eaux Claires',9
 1000,0,'Clareview',10
@@ -27,12 +27,12 @@
 1400,0,'Jasper Pl',14
 1401,0,'West Edm Mall',14
 1500,0,'Eaux Claires',15
-1501,0,'Mill Woods TC',15
+1501,0,'Mill Woods',15
 1600,0,'Castle Downs',16
 1601,0,'Gov Ctr',16
 1701,0,'Century Pk',17
 1700,0,'Southgate',17
-2300,0,'Mill Woods TC',23
+2300,0,'Mill Woods',23
 2301,0,'West Edm Mall',23
 2400,0,'Century Pk',24
 2401,0,'Leger',24
@@ -41,7 +41,7 @@
 3300,0,'Mdws',33
 3301,0,'West Edm Mall',33
 3401,0,'Leger',34
-3400,0,'S Southgate',34
+3400,0,'Southgate',34
 3500,0,'Century Pk',35
 3501,0,'Leger',35
 3601,0,'Century Pk',36
@@ -66,36 +66,36 @@
 5200,0,'Downtown',52
 5201,0,'Southgate',52
 5900,0,'South Edm Common',59
-6001,0,'Mill Woods TC',60
+6001,0,'Mill Woods',60
 6000,0,'Millgate',60
-6101,0,'Mill Woods TC',61
+6101,0,'Mill Woods',61
 6100,0,'Millgate',61
 6201,0,'Southwood',62
 6301,0,'Southwood',63
 6400,0,'Knottwood',64
 6401,0,'Mill Woods TC',64
 6501,0,'Knottwood',65
-6601,0,'Mill Woods TC',66
+6601,0,'Mill Woods',66
 6600,0,'Millgate',66
 6700,0,'Silverberry',67
-6801,0,'Mill Woods TC',68
+6801,0,'Mill Woods',68
 6800,0,'Millgate',68
-6901,0,'Mill Woods TC',69
+6901,0,'Mill Woods',69
 6900,0,'Millgate',69
-7001,0,'Mill Woods TC',70
+7001,0,'Mill Woods',70
 7000,0,'Strathcona',70
-7201,0,'Mill Woods TC',72
+7201,0,'Mill Woods',72
 7200,0,'Millgate',72
-7400,0,'Mill Woods TC',74
+7400,0,'Mill Woods',74
 7401,0,'Southgate',74
 7801,0,'Century Pk',78
-7800,0,'Mill Woods TC',78
+7800,0,'Mill Woods',78
 7901,0,'Century Pk',79
-7900,0,'Mill Woods TC',79
+7900,0,'Mill Woods',79
 8000,0,'Capilano',80
 8001,0,'Southgate',80
 8100,0,'Downtown',81
-8101,0,'Mill Woods TC',81
+8101,0,'Mill Woods',81
 8301,0,'Bonnie Doon',83
 8300,0,'Mdws',83
 8400,0,'Capilano',84
@@ -107,7 +107,7 @@
 9400,0,'Capilano',94
 9401,0,'University',94
 9500,0,'Laurel',95
-9501,0,'Mill Woods TC',95
+9501,0,'Mill Woods',95
 10000,0,'Downtown',100
 10001,0,'West Edm Mall',100
 10101,0,'Wedgewood',101
@@ -232,18 +232,16 @@
 33101,0,'Chappelle',331
 33900,0,'Century Pk',339
 33901,0,'Heritage Vly',339
-34001,0,'Mill Woods TC',340
+34001,0,'Mill Woods',340
 34000,0,'Millgate',340
 34701,0,'Allard',347
 34700,0,'Century Pk',347
-36101,0,'Mill Woods TC',361
+36101,0,'Mill Woods',361
 36100,0,'Millgate',361
 36201,0,'Knottwood',362
 36300,0,'Knottwood',363
-37001,0,'Mill Woods TC',370
+37001,0,'Mill Woods',370
 37000,0,'Millgate',370
-51000,0,'Clareview',510
-51001,0,'Gov Ctr',510
 56000,0,'Edm',560
 56001,0,'Spruce Grv',560
 56101,0,'Acheson',561
@@ -252,3 +250,5 @@
 58000,0,'Fort Saskatchewan',580
 58901,0,'Coliseum',589
 58900,0,'Waste Management Ctr',589
+74700,0,'Century Pk',747
+74701,0,'Edm Int Airport',747
