@@ -92,8 +92,8 @@
 6000,0,'Millgate',60
 6101,0,'Mill Woods',61
 6100,0,'Millgate',61
-6201,0,'Southwood ',62
-6301,0,'Southwood ',63
+6201,0,'Southwood',62
+6301,0,'Southwood',63
 6400,0,'Knottwood',64
 6401,0,'Mill Woods',64
 6501,0,'Knottwood',65
@@ -343,6 +343,8 @@
 37000,0,'Millgate',370
 38100,0,'Hollick Kenyon',381
 38101,0,'West Clareview',381
+50500,0,'Coliseum',505
+50501,0,'Stadium',505
 51101,0,'Century Pk',511
 51100,0,'South Campus',511
 51200,0,'Clareview',512
