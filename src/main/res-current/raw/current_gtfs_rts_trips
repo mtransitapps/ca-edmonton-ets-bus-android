@@ -343,10 +343,6 @@
 37000,0,'Millgate',370
 38100,0,'Hollick Kenyon',381
 38101,0,'West Clareview',381
-50500,0,'Coliseum',505
-50501,0,'Stadium',505
-51101,0,'Century Pk',511
-51100,0,'South Campus',511
 51200,0,'Clareview',512
 51201,0,'Downtown',512
 56000,0,'Edm',560
@@ -373,6 +369,8 @@
 61401,0,'Harry Ainlay',614
 61500,0,'AOB/Hardisty',615
 61600,0,'Avalon',616
+70000,0,'Century Pk Express',700
+70001,0,'Heritage Vly Express',700
 74700,0,'Century Pk',747
 74701,0,'Edm Int Airport',747
 80001,0,'Mill Woods',800
