@@ -196,11 +196,11 @@
 12601,0,'West Edm Mall',126
 12600,0,'Westmount',126
 12800,0,'Castle Downs',128
-12801,0,'Gov Ctr',128
+12801,0,'University',128
 12901,0,'West Edm Mall',129
 12900,0,'Westmount',129
-13001,0,'Gov Ctr',130
 13000,0,'Northgate',130
+13001,0,'University',130
 13301,0,'Lewis Farms',133
 13300,0,'University',133
 13401,0,'Downtown',134
@@ -384,6 +384,4 @@
 80801,0,'Silverberry',808
 80901,0,'Windsor Pk',809
 81100,0,'Mdws',811
-81201,0,'Southwood',812
-81301,0,'Jamieson Pl',813
 81401,0,'Mill Woods',814
