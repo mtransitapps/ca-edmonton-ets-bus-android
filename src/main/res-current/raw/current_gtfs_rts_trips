@@ -20,7 +20,7 @@
 1001,0,'Coliseum',10
 1100,0,'Clareview',11
 1101,0,'Northgate',11
-1201,0,'Kingsway',12
+1201,0,'Downtown',12
 1200,0,'Northgate',12
 1300,0,'Castle Downs',13
 1301,0,'Northgate',13
@@ -58,9 +58,9 @@
 3701,0,'Leger',37
 3801,0,'Leger',38
 3800,0,'Southgate',38
-3900,0,'Century Pk',39
-4001,0,'Century Pk',40
+3900,0,'Rutherford',39
 4000,0,'Southgate',40
+4001,0,'Yellowbird',40
 4101,0,'Century Pk',41
 4100,0,'Southgate',41
 4301,0,'Century Pk',43
@@ -69,7 +69,7 @@
 4401,0,'Twin Brooks',44
 4501,0,'Century Pk',45
 4500,0,'Southgate',45
-4600,0,'Harry Ainlay / Yellowbird / Century Pk',46
+4600,0,'Harry Ainlay',46
 4601,0,'S Twin Brooks',46
 4701,0,'Allard',47
 4700,0,'Century Pk',47
@@ -85,25 +85,24 @@
 5201,0,'Southgate',52
 5300,0,'South Campus',53
 5301,0,'Southgate',53
-5500,0,'South Campus',55
+5500,0,'Belgravia',55
 5501,0,'Southgate',55
 5900,0,'South Edm Common',59
+6000,0,'Downtown',60
 6001,0,'Mill Woods',60
-6000,0,'Millgate',60
+6100,0,'Downtown',61
 6101,0,'Mill Woods',61
-6100,0,'Millgate',61
 6201,0,'Southwood',62
 6301,0,'Southwood',63
-6400,0,'Knottwood',64
-6401,0,'Mill Woods',64
+6401,0,'Knottwood',64
 6501,0,'Knottwood',65
+6600,0,'Downtown',66
 6601,0,'Mill Woods',66
-6600,0,'Millgate',66
-6700,0,'Mill Woods',67
+6700,0,'Silverberry',67
+6800,0,'Downtown',68
 6801,0,'Mill Woods',68
-6800,0,'Millgate',68
+6900,0,'Downtown',69
 6901,0,'Mill Woods',69
-6900,0,'Millgate',69
 7000,0,'Downtown',70
 7001,0,'Mill Woods',70
 7100,0,'Gov Ctr',71
@@ -134,7 +133,7 @@
 8701,0,'Millgate',87
 8800,0,'Capilano',88
 8801,0,'Downtown',88
-8901,0,'Mdws / Tamarack',89
+8901,0,'Tamarack',89
 9000,0,'Downtown',90
 9001,0,'Mdws',90
 9201,0,'Pylypow Ind',92
@@ -156,8 +155,8 @@
 10400,0,'South Campus',104
 10501,0,'Lessard',105
 10500,0,'South Campus',105
-10601,0,'Lessard',106
-10600,0,'University',106
+10601,0,'172 St & Callingwood Rd',106
+10600,0,'University TC ',106
 10700,0,'West Edm Mall',107
 10701,0,'Westridge',107
 10800,0,'Lewis Farms',108
@@ -214,7 +213,7 @@
 13900,0,'South Campus',139
 13901,0,'The Hamptons',139
 14001,0,'Downtown',140
-14000,0,'Northgate',140
+14000,0,'Lago Lindo',140
 14100,0,'Abbottsfield',141
 14101,0,'Coliseum',141
 14200,0,'Abbottsfield',142
@@ -238,9 +237,9 @@
 16001,0,'Gov Ctr',160
 16000,0,'Oxford',160
 16100,0,'Castle Downs',161
-16101,0,'Northgate',161
+16101,0,'Gov Ctr',161
 16201,0,'Castle Downs',162
-16200,0,'Eaux Claires',162
+16200,0,'Downtown',162
 16300,0,'Chambery',163
 16301,0,'Eaux Claires',163
 16401,0,'Northgate',164
@@ -293,7 +292,7 @@
 30401,0,'Southpark',304
 30501,0,'Jasper Gt',305
 30500,0,'Westmount',305
-30600,0,'Maple Rdg',306
+30600,0,'Bonnie Doon',306
 30601,0,'Mdws',306
 30701,0,'Bonnie Doon',307
 30700,0,'Gold Bar',307
@@ -343,16 +342,18 @@
 37000,0,'Millgate',370
 38100,0,'Hollick Kenyon',381
 38101,0,'West Clareview',381
+51101,0,'Century Pk',511
+51100,0,'South Campus',511
 51200,0,'Clareview',512
 51201,0,'Downtown',512
-56000,0,'Edm',560
+56000,0,'Downtown Edm',560
 56001,0,'Spruce Grv',560
 56101,0,'Acheson',561
 56100,0,'Edm',561
 58001,0,'Clareview',580
 58000,0,'Fort Saskatchewan',580
-58901,0,'Coliseum',589
-58900,0,'Waste Management Ctr',589
+58901,0,'Coliseum TC 1211',589
+58900,0,'Edm Waste Treatment Ctr MRF',589
 60100,0,'R Sheppard/A MacDonald',601
 60201,0,'Strathcona',602
 60300,0,'Fthr Michael Troy',603
@@ -377,7 +378,7 @@
 80101,0,'Burnewood',801
 80201,0,'Mill Woods',802
 80300,0,'Belle Rive',803
-80401,0,'Southgate',804
+80400,0,'Southgate',804
 80500,0,'Eaux Claires',805
 80600,0,'Eaux Claires',806
 80701,0,'Jackson Hts',807
