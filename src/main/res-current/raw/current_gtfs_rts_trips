@@ -150,7 +150,7 @@
 10201,0,'Lymburn',102
 10200,0,'West Edm Mall',102
 10301,0,'Cameron Hts',103
-10300,0,'Castle Downs BNR',103
+10300,0,'Castle Downs',103
 10401,0,'Lymburn',104
 10400,0,'South Campus',104
 10501,0,'Lessard',105
@@ -342,8 +342,6 @@
 37000,0,'Millgate',370
 38100,0,'Hollick Kenyon',381
 38101,0,'West Clareview',381
-51101,0,'Century Pk',511
-51100,0,'South Campus',511
 51200,0,'Clareview',512
 51201,0,'Downtown',512
 56000,0,'Downtown Edm',560
