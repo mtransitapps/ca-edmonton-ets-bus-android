@@ -69,7 +69,7 @@
 4401,0,'Twin Brooks',44
 4501,0,'Century Pk',45
 4500,0,'Southgate',45
-4600,0,'Harry Ainlay',46
+4600,0,'Harry Ainlay / Yellowbird',46
 4601,0,'S Twin Brooks',46
 4701,0,'Allard',47
 4700,0,'Century Pk',47
@@ -98,7 +98,7 @@
 6501,0,'Knottwood',65
 6600,0,'Downtown',66
 6601,0,'Mill Woods',66
-6700,0,'Silverberry',67
+6700,0,'Mill Woods / Silverberry',67
 6800,0,'Downtown',68
 6801,0,'Mill Woods',68
 6900,0,'Downtown',69
@@ -237,9 +237,9 @@
 16001,0,'Gov Ctr',160
 16000,0,'Oxford',160
 16100,0,'Castle Downs',161
-16101,0,'Gov Ctr',161
+16101,0,'Downtown / Gov Ctr',161
 16201,0,'Castle Downs',162
-16200,0,'Downtown',162
+16200,0,'Downtown / Gov Ctr',162
 16300,0,'Chambery',163
 16301,0,'Eaux Claires',163
 16401,0,'Northgate',164
