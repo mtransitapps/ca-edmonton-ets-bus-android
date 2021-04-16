@@ -46,7 +46,7 @@
 10800,0,'Clareview',108
 10900,0,'Castle Downs',109
 10901,0,'Northgate',109
-11100,0,'Downtown',111
+11100,0,'Riverdale',111
 11101,0,'Westmount',111
 11201,0,'Castle Downs',112
 11200,0,'Eaux Claires',112
@@ -293,6 +293,8 @@
 92401,0,'Rio Ter',924
 92500,0,'Jasper Pl',925
 92501,0,'W Edm Mall',925
+99400,0,'Vly Zoo',994
+99401,0,'W Edm Mall',994
 2411001,0,'X Downtown',24110
 2411000,0,'X Eaux Claires',24110
 2412000,0,'X Eaux Claires',24120
