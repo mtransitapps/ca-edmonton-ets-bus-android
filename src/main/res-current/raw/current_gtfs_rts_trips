@@ -30,6 +30,8 @@
 5501,0,'W Edm Mall',55
 5600,0,'Mill Woods',56
 5601,0,'W Edm Mall',56
+7100,0,'Clareview',71
+7101,0,'Gov''t Ctr',71
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -60,8 +62,8 @@
 11701,0,'Eaux Claires',117
 11800,0,'Clareview',118
 11801,0,'Eaux Claires',118
-11901,0,'Eaux Claires TC B:C',119
-11900,0,'W Clareview TC B:G',119
+11900,0,'Clareview',119
+11901,0,'Eaux Claires',119
 12101,0,'Clareview',121
 12100,0,'Evergreen',121
 12201,0,'Lago Lindo',122
