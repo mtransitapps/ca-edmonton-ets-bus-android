@@ -23,7 +23,7 @@
 5200,0,'Northgate',52
 5201,0,'W Edm Mall',52
 5300,0,'Clareview',53
-5301,0,'Mill Wood',53
+5301,0,'Mill Woods',53
 5400,0,'Clareview',54
 5401,0,'W Edm Mall',54
 5500,0,'Mdws',55
@@ -120,6 +120,7 @@
 56001,0,'Spruce Grv',560
 56101,0,'Acheson',561
 56100,0,'Edm',561
+57901,0,'S',579
 58001,0,'Clareview',580
 58000,0,'Fort Sask',580
 58901,0,'Coliseum',589
