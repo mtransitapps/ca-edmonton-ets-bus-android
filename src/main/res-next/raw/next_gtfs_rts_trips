@@ -1,0 +1,333 @@
+100,0,'Capilano',1
+101,0,'Downtown',1
+200,0,'-OWL Clareview',2
+201,0,'-OWL W Edm Mall',2
+300,0,'Stadium',3
+301,0,'Westmount',3
+400,0,'Capilano',4
+401,0,'Lewis Farms',4
+500,0,'Coliseum',5
+501,0,'Westmount',5
+600,0,'Millgate',6
+601,0,'Southgate',6
+700,0,'Downtown',7
+701,0,'W Edm Mall',7
+800,0,'Abbottsfield',8
+801,0,'University',8
+901,0,'-OWL Century Pk',9
+900,0,'Eaux Claires',9
+5100,0,'Castle Downs',51
+5101,0,'University',51
+5200,0,'Northgate',52
+5201,0,'W Edm Mall',52
+5300,0,'Clareview',53
+5301,0,'Mill Woods',53
+5400,0,'Clareview',54
+5401,0,'W Edm Mall',54
+5500,0,'Mdws',55
+5501,0,'W Edm Mall',55
+5600,0,'Mill Woods',56
+5601,0,'W Edm Mall',56
+10100,0,'Abbottsfield',101
+10101,0,'Stadium',101
+10200,0,'Abbottsfield',102
+10201,0,'Kingsway',102
+10300,0,'Eaux Claires',103
+10301,0,'Kingsway',103
+10400,0,'Clareview',104
+10401,0,'Coliseum',104
+10600,0,'Belvedere',106
+10601,0,'Dunvegan',106
+10701,0,'Belvedere',107
+10700,0,'Clareview',107
+10801,0,'Belvedere',108
+10800,0,'Clareview',108
+10900,0,'Castle Downs',109
+10901,0,'Northgate',109
+11100,0,'Riverdale',111
+11101,0,'Westmount',111
+11201,0,'Castle Downs',112
+11200,0,'Eaux Claires',112
+11300,0,'Clareview',113
+11301,0,'Northgate',113
+11400,0,'Clareview',114
+11401,0,'Northgate',114
+11601,0,'Abbottsfield',116
+11600,0,'Clareview',116
+11700,0,'Clareview',117
+11701,0,'Eaux Claires',117
+11800,0,'Clareview',118
+11801,0,'Eaux Claires',118
+11900,0,'Clareview',119
+11901,0,'Eaux Claires',119
+12101,0,'Clareview',121
+12100,0,'Evergreen',121
+12201,0,'Lago Lindo',122
+12301,0,'Coliseum',123
+12300,0,'Northgate',123
+12400,0,'Eaux Claires',124
+12401,0,'Westmount',124
+12600,0,'Castle Downs',126
+12601,0,'Northgate',126
+12700,0,'Castle Downs',127
+12701,0,'Northgate',127
+12800,0,'Londonderry',128
+12801,0,'Northgate',128
+13101,0,'Downtown',131
+13100,0,'Riverdale',131
+50100,0,'Capilano',501
+50101,0,'Millgate',501
+50200,0,'Millgate',502
+50201,0,'S Campus',502
+50301,0,'Millbourne',503
+50300,0,'Millgate',503
+50400,0,'Mdws',504
+50401,0,'Millgate',504
+50501,0,'Pylypow',505
+50600,0,'Maple',506
+50601,0,'Mdws',506
+50701,0,'Southgate TC B:K',507
+50700,0,'Tamarack Grn & 35 Ave',507
+50800,0,'Mdws',508
+50801,0,'Millbourne',508
+50900,0,'A Ridgewood',509
+50901,0,'B Southwood',509
+51200,0,'S Edm Common',512
+51301,0,'Knottwood',513
+51401,0,'Millhurst',514
+51500,0,'Mdws',515
+51501,0,'Mill Woods',515
+51600,0,'Mdws',516
+51601,0,'Mill Woods',516
+51701,0,'Southwood',517
+51801,0,'Century Pk',518
+51800,0,'Mill Woods',518
+51901,0,'Century Pk',519
+51900,0,'Mill Woods',519
+52101,0,'Century Pk',521
+52100,0,'Mill Woods',521
+52201,0,'Bonnie Doon',522
+52200,0,'Capilano',522
+52300,0,'Downtown',523
+52301,0,'Mill Woods',523
+52401,0,'Bonnie Doon',524
+52400,0,'Holyrood',524
+52500,0,'Bonnie Doon',525
+52501,0,'Ritchie',525
+56000,0,'Edm',560
+56001,0,'Spruce Grv',560
+56101,0,'Acheson',561
+56100,0,'Edm',561
+58001,0,'Clareview',580
+58000,0,'Fort Sask',580
+58901,0,'Coliseum',589
+58900,0,'Edm Waste Mgmt',589
+61001,0,'Card Leger',610
+61000,0,'Lago Lindo',610
+61101,0,'Arch O''Leary',611
+61100,0,'Northgate',611
+61200,0,'Hollick Kenyon',612
+61201,0,'Queen E',612
+61300,0,'Arch O''Leary',613
+61301,0,'Dunluce',613
+61401,0,'Arch O''Leary',614
+61400,0,'Baturn',614
+61600,0,'Lago Lindo',616
+61601,0,'M Butterworth',616
+61700,0,'Eaux Claires',617
+61701,0,'M Butterworth',617
+62000,0,'Clareview',620
+62001,0,'JJ Bowlen',620
+62101,0,'JJ Bowlen',621
+62100,0,'Schonsee',621
+62200,0,'Coliseum',622
+62201,0,'Concordia Univ',622
+62301,0,'Belvedere / Coliseum',623
+62300,0,'ME LaZerte',623
+62401,0,'Arch O''Leary',624
+62400,0,'Rapperswill',624
+62501,0,'Arch O''Leary',625
+62500,0,'Palisades',625
+62601,0,'Arch O''Leary',626
+62600,0,'McConachie',626
+63000,0,'Ottewell',630
+63001,0,'Silver Berry',630
+63101,0,'Maple',631
+63100,0,'Ottewell',631
+63200,0,'Austin O''Brien',632
+63201,0,'Mill Woods',632
+63301,0,'Austin O''Brien',633
+63300,0,'Belvedere',633
+63400,0,'McNally',634
+63401,0,'Tamarack',634
+63500,0,'McNally',635
+63501,0,'Silver Berry',635
+63600,0,'McNally',636
+63601,0,'Mill Woods',636
+63700,0,'Braemar',637
+63701,0,'University',637
+64101,0,'Mill Woods',641
+64100,0,'Wagner',641
+64201,0,'Lakewood',642
+64200,0,'Mill Woods',642
+64300,0,'Holy Family',643
+64301,0,'Mill Woods',643
+64400,0,'Mdws',644
+64401,0,'Wagner',644
+65100,0,'Avalon',651
+65101,0,'Southgate',651
+65201,0,'Southgate',652
+65200,0,'Stathcona HS',652
+65301,0,'Mill Woods',653
+65300,0,'Strathcona HS',653
+65401,0,'Strathcona HS',654
+65400,0,'Windsor Pk',654
+65501,0,'S Campus',655
+65500,0,'Strathcona HS',655
+65600,0,'Millgate',656
+65601,0,'Strathcona HS',656
+66000,0,'Harry Ainlay',660
+66101,0,'Harry Ainlay',661
+66100,0,'Mill Woods',661
+66201,0,'Century Pk',662
+66200,0,'Harry Ainlay',662
+67101,0,'Lewis Farms',671
+67100,0,'Westlawn',671
+67200,0,'Jasper Pl',672
+67201,0,'Jasper Pl HS',672
+67300,0,'Hillcrest',673
+67301,0,'W Edm Mall',673
+67400,0,'HE Beriault',674
+67401,0,'W Edm Mall',674
+67501,0,'Cameron Hts',675
+67500,0,'S Bruce Smith',675
+67600,0,'Alex Janvier',676
+67601,0,'Belmead',676
+68100,0,'Ross Sheppard',681
+68101,0,'W Edm Mall',681
+68201,0,'Leger',682
+68200,0,'Ross Sheppard',682
+68301,0,'Arch MacDonald',683
+68300,0,'Castle Downs',683
+68401,0,'Arch MacDonald',684
+68400,0,'Lago Lindo',684
+69100,0,'Kingsway',691
+69200,0,'Victoria',692
+69201,0,'W Edm Mall',692
+69300,0,'Northgate',693
+69301,0,'Victoria',693
+70100,0,'Kingsway',701
+70101,0,'Southgate',701
+70200,0,'S Campus',702
+70201,0,'Southgate',702
+70301,0,'Leger',703
+70300,0,'S Campus',703
+70401,0,'S Pk',704
+70400,0,'Southgate',704
+70501,0,'Century Pk',705
+70500,0,'Southgate',705
+70601,0,'Leger',706
+70600,0,'Southgate',706
+70701,0,'Century Pk',707
+70700,0,'Southgate',707
+70801,0,'Century Pk',708
+70800,0,'Southgate',708
+70901,0,'Century Pk',709
+70900,0,'Southgate',709
+71200,0,'Yellowbird',712
+71300,0,'A Century Pk',713
+71301,0,'Twin Brooks',713
+71500,0,'Century Pk',715
+71501,0,'Leger',715
+71600,0,'Century Pk',716
+71601,0,'Leger',716
+71700,0,'Century Pk',717
+71701,0,'Leger',717
+71800,0,'Century Pk',718
+71801,0,'Leger',718
+71900,0,'Century Pk',719
+71901,0,'Chappelle',719
+72100,0,'Century Pk',721
+72101,0,'Desrochers',721
+72201,0,'Allard',722
+72200,0,'Century Pk',722
+72301,0,'Parkallen',723
+72300,0,'University',723
+72401,0,'Leger',724
+72400,0,'Riverbend',724
+72500,0,'Lendrum',725
+72601,0,'Belgravia',726
+72600,0,'University',726
+74700,0,'Century Pk',747
+74701,0,'Edm Intl Airport',747
+90100,0,'Downtown',901
+90101,0,'Jasper Pl',901
+90200,0,'NAIT',902
+90201,0,'University',902
+90301,0,'Jasper Pl',903
+90300,0,'Kingsway',903
+90401,0,'W Edm Mall',904
+90400,0,'Westmount',904
+90500,0,'Northgate',905
+90501,0,'Westmount',905
+90601,0,'W Edm Mall',906
+90600,0,'Westmount',906
+90701,0,'W Edm Mall',907
+90700,0,'Westmount',907
+90801,0,'Jasper Pl',908
+90800,0,'Westmount',908
+90901,0,'Jasper Pl',909
+90900,0,'Westmount',909
+91200,0,'Jasper Pl',912
+91201,0,'Lewis Farms',912
+91300,0,'Jamieson Pl',913
+91400,0,'Jasper Pl',914
+91401,0,'W Edm Mall',914
+91500,0,'Jasper Pl',915
+91501,0,'W Edm Mall',915
+91601,0,'Lewis Farms',916
+91600,0,'W Edm Mall',916
+91701,0,'Lewis Farms',917
+91700,0,'W Edm Mall',917
+91800,0,'A Lessard',918
+91801,0,'B Lessard',918
+91900,0,'Lewis Farms',919
+91901,0,'Secord',919
+92101,0,'Lewis Farms',921
+92100,0,'Westview',921
+92200,0,'Lewis Farms',922
+92201,0,'Rosenthal',922
+92301,0,'Oleskiw',923
+92300,0,'W Edm Mall',923
+92400,0,'Jasper Pl',924
+92401,0,'Rio Ter',924
+92500,0,'Jasper Pl',925
+92501,0,'W Edm Mall',925
+99400,0,'Vly Zoo',994
+99401,0,'W Edm Mall',994
+2411001,0,'X Downtown',24110
+2411000,0,'X Eaux Claires',24110
+2412000,0,'X Eaux Claires',24120
+2412001,0,'X Gov''t Ctr',24120
+2413000,0,'X Baturyn',24130
+2413001,0,'X Gov''t Ctr',24130
+2414001,0,'X Kingsway',24140
+2414000,0,'X Palisades',24140
+2415000,0,'X Dunluce',24150
+2415001,0,'X Gov''t Ctr',24150
+2450001,0,'X Downtown',24500
+2450000,0,'X Mdws',24500
+2451000,0,'X Downtown',24510
+2451001,0,'X Mill Woods',24510
+2470000,0,'X Century Pk',24700
+2470001,0,'X Heritage Vly',24700
+2490000,0,'X Downtown',24900
+2490001,0,'X Lewis Farms',24900
+2491001,0,'X Callingwood',24910
+2491000,0,'X S Campus',24910
+2492001,0,'X Lewis Farms',24920
+2492000,0,'X University',24920
+2493001,0,'X Hamptons',24930
+2493000,0,'X S Campus',24930
+2494000,0,'X Downtown',24940
+2494001,0,'X Jasper Pl',24940
