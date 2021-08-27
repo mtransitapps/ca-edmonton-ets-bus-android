@@ -86,8 +86,8 @@
 50501,0,'Pylypow',505
 50600,0,'Maple',506
 50601,0,'Mdws',506
-50701,0,'Southgate TC B:K',507
-50700,0,'Tamarack Grn & 35 Ave',507
+50700,0,'Mdws',507
+50701,0,'Tamarack',507
 50800,0,'Mdws',508
 50801,0,'Millbourne',508
 50900,0,'A Ridgewood',509
@@ -122,100 +122,6 @@
 58000,0,'Fort Sask',580
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
-61001,0,'Card Leger',610
-61000,0,'Lago Lindo',610
-61101,0,'Arch O''Leary',611
-61100,0,'Northgate',611
-61200,0,'Hollick Kenyon',612
-61201,0,'Queen E',612
-61300,0,'Arch O''Leary',613
-61301,0,'Dunluce',613
-61401,0,'Arch O''Leary',614
-61400,0,'Baturn',614
-61600,0,'Lago Lindo',616
-61601,0,'M Butterworth',616
-61700,0,'Eaux Claires',617
-61701,0,'M Butterworth',617
-62000,0,'Clareview',620
-62001,0,'JJ Bowlen',620
-62101,0,'JJ Bowlen',621
-62100,0,'Schonsee',621
-62200,0,'Coliseum',622
-62201,0,'Concordia Univ',622
-62301,0,'Belvedere / Coliseum',623
-62300,0,'ME LaZerte',623
-62401,0,'Arch O''Leary',624
-62400,0,'Rapperswill',624
-62501,0,'Arch O''Leary',625
-62500,0,'Palisades',625
-62601,0,'Arch O''Leary',626
-62600,0,'McConachie',626
-63000,0,'Ottewell',630
-63001,0,'Silver Berry',630
-63101,0,'Maple',631
-63100,0,'Ottewell',631
-63200,0,'Austin O''Brien',632
-63201,0,'Mill Woods',632
-63301,0,'Austin O''Brien',633
-63300,0,'Belvedere',633
-63400,0,'McNally',634
-63401,0,'Tamarack',634
-63500,0,'McNally',635
-63501,0,'Silver Berry',635
-63600,0,'McNally',636
-63601,0,'Mill Woods',636
-63700,0,'Braemar',637
-63701,0,'University',637
-64101,0,'Mill Woods',641
-64100,0,'Wagner',641
-64201,0,'Lakewood',642
-64200,0,'Mill Woods',642
-64300,0,'Holy Family',643
-64301,0,'Mill Woods',643
-64400,0,'Mdws',644
-64401,0,'Wagner',644
-65100,0,'Avalon',651
-65101,0,'Southgate',651
-65201,0,'Southgate',652
-65200,0,'Stathcona HS',652
-65301,0,'Mill Woods',653
-65300,0,'Strathcona HS',653
-65401,0,'Strathcona HS',654
-65400,0,'Windsor Pk',654
-65501,0,'S Campus',655
-65500,0,'Strathcona HS',655
-65600,0,'Millgate',656
-65601,0,'Strathcona HS',656
-66000,0,'Harry Ainlay',660
-66101,0,'Harry Ainlay',661
-66100,0,'Mill Woods',661
-66201,0,'Century Pk',662
-66200,0,'Harry Ainlay',662
-67101,0,'Lewis Farms',671
-67100,0,'Westlawn',671
-67200,0,'Jasper Pl',672
-67201,0,'Jasper Pl HS',672
-67300,0,'Hillcrest',673
-67301,0,'W Edm Mall',673
-67400,0,'HE Beriault',674
-67401,0,'W Edm Mall',674
-67501,0,'Cameron Hts',675
-67500,0,'S Bruce Smith',675
-67600,0,'Alex Janvier',676
-67601,0,'Belmead',676
-68100,0,'Ross Sheppard',681
-68101,0,'W Edm Mall',681
-68201,0,'Leger',682
-68200,0,'Ross Sheppard',682
-68301,0,'Arch MacDonald',683
-68300,0,'Castle Downs',683
-68401,0,'Arch MacDonald',684
-68400,0,'Lago Lindo',684
-69100,0,'Kingsway',691
-69200,0,'Victoria',692
-69201,0,'W Edm Mall',692
-69300,0,'Northgate',693
-69301,0,'Victoria',693
 70100,0,'Kingsway',701
 70101,0,'Southgate',701
 70200,0,'S Campus',702
@@ -249,12 +155,12 @@
 71901,0,'Chappelle',719
 72100,0,'Century Pk',721
 72101,0,'Desrochers',721
-72201,0,'Callaghan',722
+72201,0,'Allard',722
 72200,0,'Century Pk',722
 72301,0,'Parkallen',723
 72300,0,'University',723
 72401,0,'Leger',724
-72400,0,'Riverbend',724
+72400,0,'S Campus',724
 72500,0,'Lendrum',725
 72601,0,'Belgravia',726
 72600,0,'University',726
