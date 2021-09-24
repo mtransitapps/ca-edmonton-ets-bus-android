@@ -31,9 +31,9 @@
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
-10201,0,'Kingsway',102
+10201,0,'Kingsway RAH',102
 10300,0,'Eaux Claires',103
-10301,0,'Kingsway',103
+10301,0,'Kingsway RAH',103
 10400,0,'Clareview',104
 10401,0,'Coliseum',104
 10600,0,'Belvedere',106
@@ -84,8 +84,8 @@
 50400,0,'Mdws',504
 50401,0,'Millgate',504
 50501,0,'Pylypow',505
-50600,0,'Maple',506
-50601,0,'Mdws',506
+50600,0,'Mdws',506
+50601,0,'Millgate',506
 50701,0,'Southgate TC B:K',507
 50700,0,'Tamarack Grn & 35 Ave',507
 50800,0,'Mdws',508
@@ -122,8 +122,8 @@
 58000,0,'Fort Sask',580
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
-61001,0,'Card Leger',610
-61000,0,'Lago Lindo',610
+61001,0,'AM',610
+61000,0,'PM',610
 61101,0,'Arch O''Leary',611
 61100,0,'Northgate',611
 61200,0,'Hollick Kenyon',612
@@ -191,8 +191,8 @@
 66100,0,'Mill Woods',661
 66201,0,'Century Pk',662
 66200,0,'Harry Ainlay',662
+67100,0,'Alex Janvier',671
 67101,0,'Lewis Farms',671
-67100,0,'Westlawn',671
 67200,0,'Jasper Pl',672
 67201,0,'Jasper Pl HS',672
 67300,0,'Hillcrest',673
@@ -216,7 +216,7 @@
 69201,0,'W Edm Mall',692
 69300,0,'Northgate',693
 69301,0,'Victoria',693
-70100,0,'Kingsway',701
+70100,0,'Kingsway RAH',701
 70101,0,'Southgate',701
 70200,0,'S Campus',702
 70201,0,'Southgate',702
@@ -249,7 +249,7 @@
 71901,0,'Chappelle',719
 72100,0,'Century Pk',721
 72101,0,'Desrochers',721
-72201,0,'Callaghan',722
+72201,0,'Allard',722
 72200,0,'Century Pk',722
 72301,0,'Parkallen',723
 72300,0,'University',723
@@ -265,7 +265,7 @@
 90200,0,'NAIT',902
 90201,0,'University',902
 90301,0,'Jasper Pl',903
-90300,0,'Kingsway',903
+90300,0,'Kingsway RAH',903
 90401,0,'W Edm Mall',904
 90400,0,'Westmount',904
 90500,0,'Northgate',905
@@ -311,7 +311,7 @@
 24012001,0,'Gov''t Ctr',240120
 24013000,0,'Baturyn',240130
 24013001,0,'Gov''t Ctr',240130
-24014001,0,'Kingsway',240140
+24014001,0,'Kingsway RAH',240140
 24014000,0,'Palisades',240140
 24015000,0,'Dunluce',240150
 24015001,0,'Gov''t Ctr',240150
