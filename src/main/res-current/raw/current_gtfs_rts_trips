@@ -28,6 +28,8 @@
 5501,0,'W Edm Mall',55
 5600,0,'Mill Woods',56
 5601,0,'W Edm Mall',56
+7100,0,'Clareview',71
+7101,0,'Gov''t Ctr',71
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -118,6 +120,8 @@
 56001,0,'Spruce Grv',560
 56101,0,'Acheson',561
 56100,0,'Edm',561
+57001,0,'Devon',570
+57000,0,'Edm Intl Airport',570
 58001,0,'Clareview',580
 58000,0,'Fort Sask',580
 58901,0,'Coliseum',589
