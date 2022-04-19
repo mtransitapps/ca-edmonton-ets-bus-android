@@ -8,8 +8,6 @@
 401,0,'Lewis Farms',4
 500,0,'Coliseum',5
 501,0,'Westmount',5
-600,0,'Millgate',6
-601,0,'Southgate',6
 700,0,'Downtown',7
 701,0,'W Edm Mall',7
 800,0,'Abbottsfield',8
@@ -75,19 +73,6 @@
 12801,0,'Northgate',128
 13101,0,'Downtown',131
 13100,0,'Riverdale',131
-50100,0,'Capilano',501
-50101,0,'Millgate',501
-50200,0,'Millgate',502
-50201,0,'S Campus',502
-50301,0,'Millbourne',503
-50300,0,'Millgate',503
-50400,0,'Mdws',504
-50401,0,'Millgate',504
-50501,0,'Pylypow',505
-50600,0,'Maple',506
-50601,0,'Mdws',506
-50701,0,'Southgate',507
-50700,0,'Tamarack',507
 50800,0,'Mdws',508
 50801,0,'Millbourne',508
 50900,0,'A Ridgewood',509
@@ -303,10 +288,12 @@
 92401,0,'Rio Ter',924
 92500,0,'Jasper Pl',925
 92501,0,'W Edm Mall',925
-24011001,0,'Downtown',240110
-24011000,0,'Eaux Claires',240110
-24012000,0,'Eaux Claires',240120
-24012001,0,'Gov''t Ctr',240120
+99400,0,'Vly Zoo',994
+99401,0,'W Edm Mall',994
+24011001,0,'Downtown Express',240110
+24011000,0,'Eaux Claires Express',240110
+24012000,0,'Eaux Claires Express',240120
+24012001,0,'Gov''t Ctr Express',240120
 24013000,0,'Baturyn',240130
 24013001,0,'Gov''t Ctr',240130
 24014001,0,'Kingsway RAH',240140
@@ -315,17 +302,32 @@
 24015001,0,'Gov''t Ctr',240150
 24050001,0,'Downtown',240500
 24050000,0,'Mdws',240500
-24051000,0,'Downtown',240510
-24051001,0,'Mill Woods',240510
-24070000,0,'Century Pk',240700
-24070001,0,'Heritage Vly',240700
+24051000,0,'Downtown Express',240510
+24051001,0,'Mill Woods Express',240510
+24070000,0,'Century Pk Express',240700
+24070001,0,'Heritage Vly Express',240700
 24090000,0,'Downtown',240900
 24090001,0,'Lewis Farms',240900
-24091001,0,'Callingwood',240910
-24091000,0,'S Campus',240910
-24092001,0,'Lewis Farms',240920
-24092000,0,'University',240920
-24093001,0,'Hamptons',240930
-24093000,0,'S Campus',240930
-24094000,0,'Downtown',240940
-24094001,0,'Jasper Pl',240940
+24091001,0,'Callingwood Express',240910
+24091000,0,'S Campus Express',240910
+24092001,0,'Lewis Farms Express',240920
+24092000,0,'University Express',240920
+24093001,0,'Hamptons Express',240930
+24093000,0,'S Campus Express',240930
+24094000,0,'Downtown Express',240940
+24094001,0,'Jasper Pl Express',240940
+25000600,0,'Millgate',250006
+25000601,0,'Southgate',250006
+25050100,0,'Capilano',250501
+25050101,0,'Millgate',250501
+25050200,0,'Millgate',250502
+25050201,0,'S Campus',250502
+25050301,0,'Millbourne',250503
+25050300,0,'Millgate',250503
+25050400,0,'Mdws',250504
+25050401,0,'Millgate',250504
+25050501,0,'Pylypow',250505
+25050600,0,'Maple',250506
+25050601,0,'Millgate',250506
+25050701,0,'Southgate',250507
+25050700,0,'Tamarack',250507
