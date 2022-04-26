@@ -1974,7 +1974,7 @@
 4231,'4231','Riverbend Rd & 43 Ave',53.479735,-113.580843
 4233,'4233','114 St & 9 Ave',53.438278,-113.527324
 4236,'4236','109 St & 25 Ave',53.456156,-113.509676
-4237,'4237','South Terwillegar Dr E & Rabbit Hl Rd',53.436236,-113.572087
+4237,'4237','South Terwillegar Dr E & Rabbit Hl Rd',53.436195,-113.572046
 4238,'4238','119 St & Fairway Dr',53.4721,-113.538946
 4239,'4239','106 St & Whitemud Dr',53.479692,-113.50444
 4241,'4241','105 St & 26 Ave',53.456961,-113.500067
@@ -2052,7 +2052,7 @@
 4374,'4374','108 St & 41 Ave',53.478032,-113.51115
 4380,'4380','Riverbend Rd & 40 Ave',53.477856,-113.582669
 4381,'4381','Riverbend Rd & Henderson St',53.470569,-113.595408
-4382,'4382','Rabbit Hl Rd & MacTaggart Dr',53.439704,-113.565497
+4382,'4382','Rabbit Hl Rd & MacTaggart Dr',53.439699,-113.565499
 4383,'4383','317 Burton Rd South',53.477902,-113.564253
 4384,'4384','106 St & 34 Ave',53.467252,-113.504016
 4385,'4385','105 St & 13 Ave',53.443516,-113.497378
@@ -2114,7 +2114,7 @@
 4497,'4497','119 St & 25 Ave',53.456626,-113.534855
 4501,'4501','MacLuhan Rd & MacTaggart Dr',53.43841,-113.562385
 4502,'4502','MacTaggart Cr & MacTaggart Dr',53.439284,-113.556687
-4503,'4503','Rabbit Hl Rd & MacTaggart Dr',53.438792,-113.566356
+4503,'4503','Rabbit Hl Rd & MacTaggart Dr',53.438764,-113.566264
 4504,'4504','Magrath Blvd & McClung Cr',53.444533,-113.556354
 4505,'4505','Calgary Trl & 23 Ave',53.453468,-113.493623
 4506,'4506','Magrath Rd & Massey Way',53.451878,-113.559826
@@ -2193,16 +2193,16 @@
 4637,'4637','2019 Leger Rd',53.457151,-113.583655
 4639,'4639','Lindsay Cr & Leger Blvd',53.4601,-113.570704
 4640,'4640','MacTaggart Dr & MacTaggart Pl',53.439862,-113.556225
-4643,'4643','Rabbit Hl Rd & Terwillegar Blvd',53.444304,-113.565786
+4643,'4643','Rabbit Hl Rd & Terwillegar Blvd',53.444297,-113.565669
 4644,'4644','Schmid Cr & South Terwillegar Blvd',53.441622,-113.588484
 4645,'4645','Terwillegar Common W & South Terwillegar Blvd',53.442857,-113.581145
 4646,'4646','Rabbit Hl Rd & Leger Blvd',53.459837,-113.56693
 4647,'4647','South Terwillegar Dr & Shaske Gt',53.435825,-113.57647
 4648,'4648','MacTaggart Dr & May Rd',53.442828,-113.556214
 4649,'4649','MacTaggart Dr & May Rd',53.442093,-113.556328
-4651,'4651','Rabbit Hl Rd & Maynard Way SW',53.441568,-113.565426
+4651,'4651','Rabbit Hl Rd & Maynard Way SW',53.441572,-113.565424
 4652,'4652','Lambert Court & Leger Way',53.455583,-113.572973
-4654,'4654','Rabbit Hl Rd & South Terwillegar Dr S',53.434843,-113.57551
+4654,'4654','Rabbit Hl Rd & South Terwillegar Dr S',53.434798,-113.575494
 4655,'4655','Rabbit Hl Rd & Hodgson Blvd',53.458991,-113.566025
 4656,'4656','Lincoln Cr & Leger Way',53.456012,-113.569115
 4658,'4658','156 St & Simpson Pl',53.438061,-113.589956
@@ -2213,7 +2213,7 @@
 4675,'4675','Tomlinson Common & 18 Ave',53.449938,-113.58615
 4681,'4681','Haddow Dr & Hunters Grn',53.456366,-113.596557
 4682,'4682','Leger Gt & Leger Way',53.455045,-113.573677
-4683,'4683','South Terwillegar Dr W & Rabbit Hl Rd',53.435132,-113.574364
+4683,'4683','South Terwillegar Dr W & Rabbit Hl Rd',53.435104,-113.574318
 4684,'4684','Rabbit Hl Rd & Cormack Cr',53.462582,-113.569025
 4688,'4688','Leger Blvd & Leigh Cr',53.460217,-113.570563
 4689,'4689','Leger Way & Leger Rd',53.45862,-113.57666
@@ -2256,8 +2256,8 @@
 4854,'4854','Towne Ctr Blvd & Terwillegar Blvd',53.445057,-113.577672
 4862,'4862','Haddow Dr & Haswell Gt S',53.452288,-113.596971
 4864,'4864','111 St & 12 Ave',53.443481,-113.517401
-4866,'4866','Rabbit Hl Rd & Sandin Way',53.440952,-113.565787
-4875,'4875','Singer Gt & Rabbit Hl Rd',53.437163,-113.568813
+4866,'4866','Rabbit Hl Rd & Sandin Way',53.440925,-113.565678
+4875,'4875','Singer Gt & Rabbit Hl Rd',53.437118,-113.568786
 4878,'4878','Hodgson Way & 23 Ave',53.454222,-113.562421
 4880,'4880','Rabbit Hl Rd & 23 Ave',53.454202,-113.566283
 4882,'4882','Towne Ctr Blvd & Terwillegar Blvd',53.444746,-113.578801
@@ -2272,7 +2272,7 @@
 4938,'4938','Leger Rd & 23 Ave',53.455821,-113.582752
 4939,'4939','Terwillegar Dr & Haddow Dr',53.451739,-113.591766
 4941,'4941','Magrath Rd & 23 Ave',53.452818,-113.559836
-4942,'4942','Mullen Way & Rabbit Hl Rd',53.436339,-113.57085
+4942,'4942','Mullen Way & Rabbit Hl Rd',53.436306,-113.570822
 4943,'4943','111 St & 34 Ave',53.465005,-113.516622
 4944,'4944','Hagen Link & Haddow Dr',53.451601,-113.593938
 4945,'4945','Towne Ctr Blvd & Taylor Grn',53.448408,-113.577669
@@ -4930,6 +4930,7 @@
 22910,'22910','58 St & 90 Ave',53.524468,-113.426999
 22994,'22994','Gateway Blvd & Tommy Banks Way',53.522309,-113.495501
 23358,'23358','92 St & 95 Ave',53.531598,-113.467816
+23359,'23359','52 St & Fulton Rd',53.547516,-113.420048
 33000,'33000','Maple Way & 39 Ave',53.476639,-113.347986
 33002,'33002','Maple Way & Maple Rd',53.474919,-113.349694
 33004,'33004','Maple Way & 42 Ave',53.480019,-113.348177
