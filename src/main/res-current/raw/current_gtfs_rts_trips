@@ -8,6 +8,8 @@
 401,0,'Lewis Farms',4
 500,0,'Coliseum',5
 501,0,'Westmount',5
+600,0,'Millgate',6
+601,0,'Southgate',6
 700,0,'Downtown',7
 701,0,'W Edm Mall',7
 800,0,'Abbottsfield',8
@@ -73,6 +75,19 @@
 12801,0,'Northgate',128
 13101,0,'Downtown',131
 13100,0,'Riverdale',131
+50100,0,'Capilano',501
+50101,0,'Millgate',501
+50200,0,'Millgate',502
+50201,0,'S Campus',502
+50301,0,'Millbourne',503
+50300,0,'Millgate',503
+50400,0,'Mdws',504
+50401,0,'Millgate',504
+50501,0,'Pylypow',505
+50600,0,'Maple',506
+50601,0,'Millgate',506
+50701,0,'Southgate',507
+50700,0,'Tamarack',507
 50800,0,'Mdws',508
 50801,0,'Millbourne',508
 50900,0,'A Ridgewood',509
@@ -314,18 +329,3 @@
 24093000,0,'S Campus Express',240930
 24094000,0,'Downtown Express',240940
 24094001,0,'Jasper Pl Express',240940
-25000600,0,'Millgate',250006
-25000601,0,'Southgate',250006
-25050100,0,'Capilano',250501
-25050101,0,'Millgate',250501
-25050200,0,'Millgate',250502
-25050201,0,'S Campus',250502
-25050301,0,'Millbourne',250503
-25050300,0,'Millgate',250503
-25050400,0,'Mdws',250504
-25050401,0,'Millgate',250504
-25050501,0,'Pylypow',250505
-25050600,0,'Maple',250506
-25050601,0,'Millgate',250506
-25050701,0,'Southgate',250507
-25050700,0,'Tamarack',250507
