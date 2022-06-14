@@ -110,8 +110,8 @@
 52200,0,'Capilano',522
 52300,0,'Downtown',523
 52301,0,'Mill Woods',523
-52401,0,'Bonnie Doon Safeway',524
-52400,0,'Donnell Rd & 95 Ave',524
+52401,0,'Bonnie Doon',524
+52400,0,'Holyrood',524
 52500,0,'Bonnie Doon',525
 52501,0,'Ritchie',525
 56000,0,'Edm',560
@@ -216,13 +216,13 @@
 24012000,0,'Eaux Claires Express',240120
 24012001,0,'Gov''t Ctr Express',240120
 24013000,0,'Baturyn',240130
-24013001,0,'Gov''t Ctr',240130
-24014001,0,'Kingsway RAH',240140
-24014000,0,'Palisades',240140
-24015000,0,'Dunluce',240150
-24015001,0,'Gov''t Ctr',240150
-24050001,0,'Downtown',240500
-24050000,0,'Mdws',240500
+24013001,0,'Gov''t Ctr Express',240130
+24014001,0,'Kingsway RAH Express',240140
+24014000,0,'Palisades Express',240140
+24015000,0,'Dunluce Express',240150
+24015001,0,'Gov''t Ctr Express',240150
+24050001,0,'Downtown Express',240500
+24050000,0,'Mdws Express',240500
 24051000,0,'Downtown Express',240510
 24051001,0,'Mill Woods Express',240510
 24070000,0,'Century Pk Express',240700
