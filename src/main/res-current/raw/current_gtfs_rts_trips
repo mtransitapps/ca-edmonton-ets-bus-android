@@ -1,5 +1,5 @@
 100,0,'Capilano',1
-101,0,'W',1
+101,0,'Downtown',1
 200,0,'-OWL Clareview',2
 201,0,'W Edm Mall',2
 300,0,'Stadium',3
@@ -155,7 +155,7 @@
 63101,0,'Maple',631
 63100,0,'Ottewell',631
 63200,0,'Austin O''Brien',632
-63201,0,'S',632
+63201,0,'Mill Woods',632
 63301,0,'Austin O''Brien',633
 63300,0,'Belvedere',633
 63400,0,'McNally',634
@@ -310,8 +310,8 @@
 99400,0,'Vly Zoo',994
 99401,0,'W Edm Mall',994
 99801,0,'Stadium Shuttle',998
-99900,0,'Stony Plain Rd Shuttle E',999
-99901,0,'Stony Plain Rd Shuttle W',999
+99901,0,'Jasper Pl',999
+99900,0,'Unity Sq',999
 24011001,0,'Downtown Express',240110
 24011000,0,'Eaux Claires Express',240110
 24012000,0,'Eaux Claires Express',240120
