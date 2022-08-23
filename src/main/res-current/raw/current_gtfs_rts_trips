@@ -1,4 +1,4 @@
-100,0,'Capilano',1
+100,0,'A Capilano',1
 101,0,'Downtown',1
 200,0,'-OWL Clareview',2
 201,0,'W Edm Mall',2
@@ -122,8 +122,8 @@
 58000,0,'Fort Sask',580
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
-61000,0,'Eaux Claires / Lago Lindo',610
-61001,0,'Queen E',610
+61001,0,'95 St & 132 Ave',610
+61000,0,'Eaux Claires TC B:Q',610
 61101,0,'Arch O''Leary',611
 61100,0,'Northgate',611
 61200,0,'Hollick Kenyon',612
@@ -239,7 +239,7 @@
 70901,0,'Century Pk',709
 70900,0,'Southgate',709
 71200,0,'Yellowbird',712
-71300,0,'A Century Pk',713
+71300,0,'B Century Pk',713
 71301,0,'Twin Brooks',713
 71500,0,'Century Pk',715
 71501,0,'Leger',715
