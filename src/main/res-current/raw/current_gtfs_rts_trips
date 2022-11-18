@@ -1,7 +1,7 @@
 100,0,'Capilano',1
 101,0,'Downtown',1
-200,0,'-OWL Clareview',2
-201,0,'-OWL W Edm Mall',2
+200,0,'Clareview',2
+201,0,'W Edm Mall',2
 300,0,'Stadium',3
 301,0,'Westmount',3
 400,0,'Capilano',4
@@ -14,7 +14,7 @@
 701,0,'W Edm Mall',7
 800,0,'Abbottsfield',8
 801,0,'University',8
-901,0,'-OWL Century Pk',9
+901,0,'Century Pk',9
 900,0,'Eaux Claires',9
 5100,0,'Castle Downs',51
 5101,0,'University',51
@@ -94,8 +94,8 @@
 50801,0,'Millbourne',508
 50900,0,'A Ridgewood',509
 50901,0,'B Southwood',509
-51100,0,'-Owl Downtown',511
-51101,0,'-Owl Mill Woods',511
+51100,0,'Downtown',511
+51101,0,'Mill Woods',511
 51200,0,'S Edm Common',512
 51301,0,'Knottwood',513
 51401,0,'Millhurst',514
@@ -312,8 +312,6 @@
 99801,0,'Stadium Shuttle',998
 99901,0,'Jasper Pl',999
 99900,0,'Unity Sq',999
-907100,0,'Downtown',9071
-907101,0,'University',9071
 24011001,0,'Downtown Express',240110
 24011000,0,'Eaux Claires Express',240110
 24012000,0,'Eaux Claires Express',240120
