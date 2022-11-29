@@ -28,6 +28,8 @@
 5501,0,'W Edm Mall',55
 5600,0,'Mill Woods',56
 5601,0,'W Edm Mall',56
+7100,0,'Downtown',71
+7101,0,'University',71
 7300,0,'Downtown',73
 7301,0,'Mill Woods',73
 10100,0,'Abbottsfield',101
@@ -168,7 +170,7 @@
 63401,0,'Tamarack',634
 63500,0,'McNally',635
 63501,0,'Silver Berry',635
-63601,0,'Bonnie Doon',636
+63601,0,'Davies',636
 63600,0,'McNally',636
 63700,0,'Braemar',637
 63701,0,'University',637
