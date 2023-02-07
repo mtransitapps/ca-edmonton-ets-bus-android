@@ -1,11 +1,9 @@
-'DX-511-Weekday-1-22-12-1111100',51100,240900,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown'
-'DX-511-Weekday-1-23-02-1111100',51100,240900,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown'
-'DX-511-Weekday-2-23-02-1111100',51100,240900,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown'
-'DX-511-Weekday-3-22-12-1111100',51100,240900,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown'
-'DX-511-Weekday-3-23-02-1111100',51100,240900,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown'
-'DX-511-Weekday-4-23-02-1111100',51100,240900,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown'
-'DX-511-Weekday-5-23-02-1111100',51100,240900,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown'
-'SA-511-Saturday-1-22-12-0000010',51100,243900,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown'
-'SA-511-Saturday-1-23-02-0000010',51100,243900,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown'
-'SU-511-Sunday-1-22-12-0000001',51100,243900,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown'
-'SU-511-Sunday-1-23-02-0000001',51100,243900,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown',7000,0,'-Owl Downtown',3000,0,'-Owl Downtown'
+'DX-511-Weekday-1-22-12-1111100',51100,240900,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1
+'DX-511-Weekday-1-23-02-1111100',51100,240900,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1
+'DX-511-Weekday-2-23-02-1111100',51100,240900,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1
+'DX-511-Weekday-3-23-02-1111100',51100,240900,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1
+'DX-511-Weekday-4-23-02-1111100',51100,240900,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1
+'DX-511-Weekday-5-23-02-1111100',51100,240900,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1
+'SA-511-Saturday-1-22-12-0000010',51100,243900,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1
+'SA-511-Saturday-1-23-02-0000010',51100,243900,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1
+'SU-511-Sunday-1-23-02-0000001',51100,243900,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1,7000,0,'-Owl Downtown',1,3000,0,'-Owl Downtown',1

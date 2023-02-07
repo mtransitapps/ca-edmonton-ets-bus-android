@@ -1,12 +1,10 @@
-'DX-002-Weekday-1-22-12-1111100',201,251800,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
-'DX-002-Weekday-1-23-02-1111100',201,251800,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
-'DX-002-Weekday-3-23-02-1111100',201,251800,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
-'DX-002-Weekday-4-22-12-1111100',201,251800,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
-'DX-002-Weekday-4-23-02-1111100',201,251800,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
-'DX-002-Weekday-5-23-02-1111100',201,251800,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
-'DX-002-Weekday-6-23-02-1111100',201,251800,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
-'DX-002-Weekday-7-23-02-1111100',201,251800,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
-'SA-002-Saturday-1-22-12-0000010',201,251700,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
-'SA-002-Saturday-1-23-02-0000010',201,251700,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
-'SU-002-Sunday-1-22-12-0000001',201,241800,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
-'SU-002-Sunday-1-23-02-0000001',201,241800,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall',7000,0,'-OWL W Edm Mall',3000,0,'-OWL W Edm Mall'
+'DX-002-Weekday-1-22-12-1111100',201,251800,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1,7000,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1
+'DX-002-Weekday-1-23-02-1111100',201,251800,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1,7000,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1
+'DX-002-Weekday-3-23-02-1111100',201,251800,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1,7000,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1
+'DX-002-Weekday-4-23-02-1111100',201,251800,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1,7000,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1
+'DX-002-Weekday-5-23-02-1111100',201,251800,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1,7000,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1
+'DX-002-Weekday-6-23-02-1111100',201,251800,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1,7000,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1
+'DX-002-Weekday-7-23-02-1111100',201,251800,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1,7000,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1
+'SA-002-Saturday-1-22-12-0000010',201,251700,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1,7000,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1
+'SA-002-Saturday-1-23-02-0000010',201,251700,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1,7000,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1
+'SU-002-Sunday-1-23-02-0000001',201,241800,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1,7000,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1,7000,0,'-OWL W Edm Mall',1,3000,0,'-OWL W Edm Mall',1
