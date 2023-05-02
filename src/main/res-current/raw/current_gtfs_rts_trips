@@ -120,7 +120,7 @@
 52501,0,'Ritchie',525
 52600,0,'Mill Woods',526
 52601,0,'Millbourne Woodvale',526
-56000,0,'Edm',560
+56000,0,'Edm / Spruce Grv',560
 56001,0,'Spruce Grv',560
 58001,0,'Clareview',580
 58000,0,'Fort Sask',580
@@ -334,5 +334,3 @@
 24092000,0,'University Express',240920
 24093001,0,'Hamptons Express',240930
 24093000,0,'S Campus Express',240930
-24094000,0,'Downtown Express',240940
-24094001,0,'Jasper Pl Express',240940
