@@ -26,7 +26,7 @@
 5401,0,'W Edm Mall',54
 5500,0,'Mdws',55
 5501,0,'W Edm Mall',55
-5600,0,'Mdws',56
+5600,0,'Mill Woods',56
 5601,0,'W Edm Mall',56
 7300,0,'Downtown',73
 7301,0,'Mill Woods',73
@@ -122,6 +122,8 @@
 52601,0,'Millbourne Woodvale',526
 56000,0,'Edm / Spruce Grv',560
 56001,0,'Spruce Grv',560
+57901,0,'Gov''t Ctr',579
+57900,0,'Mill Woods',579
 58001,0,'Clareview',580
 58000,0,'Fort Sask',580
 58901,0,'Coliseum',589
