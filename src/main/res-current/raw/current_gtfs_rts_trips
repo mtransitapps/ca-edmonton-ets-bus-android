@@ -26,7 +26,7 @@
 5401,0,'W Edm Mall',54
 5500,0,'Mdws',55
 5501,0,'W Edm Mall',55
-5600,0,'Mill Woods',56
+5600,0,'Mdws',56
 5601,0,'W Edm Mall',56
 7300,0,'Downtown',73
 7301,0,'Mill Woods',73
@@ -128,8 +128,8 @@
 58000,0,'Fort Sask',580
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
-61001,0,'95 St & 132 Ave',610
-61000,0,'Eaux Claires TC B:Q',610
+61001,0,'AM',610
+61000,0,'PM',610
 61101,0,'Arch O''Leary',611
 61100,0,'Northgate',611
 61200,0,'Hollick Kenyon',612
@@ -262,6 +262,8 @@
 72500,0,'Lendrum',725
 72601,0,'Belgravia',726
 72600,0,'University',726
+72701,0,'Chappelle',727
+72700,0,'Heritage Vly',727
 74700,0,'Century Pk',747
 74701,0,'Edm Intl Airport',747
 90100,0,'Downtown',901
