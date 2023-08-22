@@ -546,7 +546,7 @@
 1890,'1890','109 St & Princess Elizabeth Ave',53.56502,-113.505996,1
 1893,'1893','89 St & 101A Ave',53.545001,-113.468769,1
 1895,'1895','95 St & 110A Ave',53.559234,-113.486437,1
-1896,'1896','Airport Rd W & Kingsway',53.56884,-113.526913,1
+1896,'1896','Airport Rd W & Kingsway',53.56881,-113.526951,1
 1899,'1899','109 St & 111 Ave',53.559336,-113.508268,1
 1900,'1900','Tower Rd & Kingsway',53.564752,-113.517292,1
 1901,'1901','132 St & 114 Ave',53.563298,-113.55062,1
@@ -1600,7 +1600,7 @@
 3586,'3586','49 St & 44 Ave',53.482008,-113.416122,1
 3587,'3587','37 St & 36 Ave',53.466532,-113.400903,1
 3589,'3589','Millbourne Rd E & 36A Ave',53.471312,-113.443917,0
-3591,'3591','37 St & 33 Ave',53.462315,-113.398827,1
+3591,'3591','37 St & 33 Ave',53.463217,-113.398988,1
 3592,'3592','79 St & 28 Ave',53.458631,-113.45313,1
 3594,'3594','48 St & 35 Ave',53.466024,-113.415107,1
 3596,'3596','31 St & 37A Ave',53.472626,-113.387078,1
@@ -3097,7 +3097,7 @@
 6259,'6259','104 St & Griesbach Rd',53.608168,-113.500346,1
 6260,'6260','102 St & 137 Ave',53.599645,-113.496342,1
 6261,'6261','131 St & 155 Ave',53.617887,-113.545672,1
-6263,'6263','103 St & 134A Ave',53.596683,-113.496874,1
+6263,'6263','103 St & 135 Ave',53.596683,-113.496874,1
 6264,'6264','122 St & 134B Ave',53.595221,-113.531156,1
 6265,'6265','129 St & Cumberland Rd',53.606931,-113.54706,1
 6267,'6267','119 St & 139 Ave',53.60117,-113.52479,1
@@ -4336,7 +4336,7 @@
 9038,'9038','115 St & Ellerslie Rd SW',53.424945,-113.524827,1
 9039,'9039','Easton Rd & Edwards Dr SW',53.42986,-113.467887,1
 9040,'9040','66 St & 2 Ave SW',53.431212,-113.442463,1
-9042,'9042','MacEwan Close & MacEwan Rd',53.429074,-113.523758,1
+9042,'9042','MacEwan Close & MacEwan Rd SW',53.429074,-113.523758,1
 9043,'9043','James Mowatt Trl & Rutherford Rd SW',53.421123,-113.517359,1
 9044,'9044','MacEwan Rd & Ellerslie Rd SW',53.424932,-113.535451,1
 9045,'9045','Stanton Dr & 12 Ave SW',53.422459,-113.455129,1
@@ -4345,8 +4345,8 @@
 9048,'9048','McMullen Way & MacEwan Rd SW',53.428967,-113.521498,1
 9049,'9049','66 St & 6 Ave SW',53.427071,-113.442769,1
 9050,'9050','Parsons Rd & Ellerslie Rd SW',53.425164,-113.480592,1
-9051,'9051','101 St & Ellerslie Rd',53.424697,-113.488511,1
-9052,'9052','100 St & Ellerslie Rd',53.424947,-113.489981,1
+9051,'9051','101 St & Ellerslie Rd SW',53.424697,-113.488511,1
+9052,'9052','100 St & Ellerslie Rd SW',53.424947,-113.489981,1
 9058,'9058','66 St & Ellerslie Rd SW',53.425473,-113.442487,1
 9061,'9061','Parsons Rd & Ellwood Dr SW',53.429309,-113.479071,1
 9063,'9063','70 St & Stanton Dr SW',53.420509,-113.449717,1
@@ -4356,7 +4356,7 @@
 9071,'9071','Glenridding Gt & Ellerslie Rd SW',53.42455,-113.596993,1
 9072,'9072','Glenridding Gt & 10 Ave SW',53.424612,-113.596669,1
 9073,'9073','Chapman Way & Chappelle Blvd SW',53.405599,-113.577693,1
-9076,'9076','Claxton Loop & Chappelle Rd',53.399716,-113.577565,1
+9076,'9076','Claxton Loop & Chappelle Rd SW',53.399716,-113.577565,1
 9077,'9077','177A St & 10 Ave SW',53.42419,-113.625892,1
 9078,'9078','178 St & 10 Ave SW',53.424623,-113.626687,1
 9079,'9079','175 St & 10 Ave SW',53.424128,-113.622865,1
@@ -4369,19 +4369,19 @@
 9103,'9103','175 St & 10 Ave SW',53.423701,-113.622445,1
 9104,'9104','90 St & 24 Ave SW',53.41122,-113.474239,1
 9106,'9106','90 St & Savaryn Dr SW',53.413055,-113.473159,1
-9108,'9108','91 St & Savaryn Dr',53.415294,-113.48042,1
+9108,'9108','91 St & Savaryn Dr SW',53.415294,-113.48042,1
 9109,'9109','Saly Pl & Savaryn Dr SW',53.413387,-113.462652,1
-9110,'9110','Winspear Cr & Winspear Common',53.414663,-113.438972,1
-9111,'9111','Watt Promenade & Watt Blvd',53.419774,-113.429837,1
+9110,'9110','Winspear Cr & Winspear Common SW',53.414663,-113.438972,1
+9111,'9111','Watt Promenade & Watt Blvd SW',53.419774,-113.429837,1
 9112,'9112','Parsons Rd & Ellerslie Rd SW',53.42422,-113.480014,1
 9113,'9113','Watt Promenade & 18 Ave SW',53.417435,-113.43056,1
 9114,'9114','MacEwan Rd & Miles Pl SW',53.42527,-113.534877,1
-9115,'9115','Summerside Link E & Savaryn Dr',53.414273,-113.476748,1
+9115,'9115','Summerside Link & Savaryn Dr SW',53.414273,-113.476748,1
 9118,'9118','88 St & Savaryn Dr SW',53.413296,-113.46719,1
 9119,'9119','88 St & 20 Ave SW',53.415208,-113.467193,1
 9121,'9121','Edwards Dr & Ellerslie Rd SW',53.425382,-113.455164,1
 9122,'9122','90 St & Savaryn Dr SW',53.413501,-113.473564,1
-9123,'9123','Summerside Link E & Savaryn Dr',53.414851,-113.478078,1
+9123,'9123','Summerside Link & Savaryn Dr SW',53.414851,-113.478078,1
 9124,'9124','91 St & Savaryn Dr SW',53.415933,-113.480721,1
 9125,'9125','70 St & Stanton Dr SW',53.420117,-113.448674,1
 9126,'9126','69 St & Stanton Dr SW',53.420161,-113.445956,1
@@ -4390,7 +4390,7 @@
 9130,'9130','Watt Promenade & 18 Ave SW',53.417795,-113.430248,1
 9131,'9131','91 St & Ellerslie Rd SW',53.425171,-113.475186,1
 9133,'9133','119 St & MacEwan Rd SW',53.428673,-113.528001,1
-9134,'9134','66 St & Stanton Dr',53.420626,-113.443443,1
+9134,'9134','66 St & Stanton Dr SW',53.420626,-113.443443,1
 9135,'9135','Ellwood Rd & Ellwood Dr SW',53.429432,-113.47683,1
 9139,'9139','62 St & 2 Ave SW',53.429715,-113.435187,1
 9141,'9141','95 St & Parsons Rd SW',53.420833,-113.478943,1
@@ -4400,12 +4400,12 @@
 9150,'9150','MacEwan Rd & Marion Pl SW',53.427328,-113.535223,1
 9152,'9152','111 St & Ellerslie Rd SW',53.425443,-113.516328,1
 9156,'9156','Ellwood Rd & Ellwood Dr SW',53.429294,-113.475047,1
-9160,'9160','Callaghan Dr & Callaghan Court',53.411097,-113.524025,1
-9162,'9162','Callaghan Dr & Callaghan Dr Cul De Sac',53.410686,-113.523894,1
-9163,'9163','Callaghan Dr & Callaghan Pt',53.412857,-113.521996,1
-9164,'9164','Callaghan Dr & Callaghan Close',53.413046,-113.522138,1
+9160,'9160','Callaghan Dr & Callaghan Court SW',53.411097,-113.524025,1
+9162,'9162','Callaghan Dr & Callaghan Dr Cul De Sac SW',53.410686,-113.523894,1
+9163,'9163','Callaghan Dr & Callaghan Pt SW',53.412857,-113.521996,1
+9164,'9164','Callaghan Dr & Callaghan Close SW',53.413046,-113.522138,1
 9166,'9166','62 St & 8 Ave SW',53.425982,-113.436162,1
-9171,'9171','115 St & Ellerslie Rd',53.424707,-113.523633,1
+9171,'9171','115 St & Ellerslie Rd SW',53.424707,-113.523633,1
 9172,'9172','Rutherford Rd E & 15 Ave SW',53.417136,-113.523288,1
 9173,'9173','Rutherford Rd E & 17 Ave SW',53.414682,-113.524659,1
 9174,'9174','Rutherford Rd E & 17 Ave SW',53.415252,-113.524773,1
@@ -4420,15 +4420,15 @@
 9197,'9197','James Mowatt Trl & 22 Ave SW',53.408958,-113.531684,1
 9198,'9198','119A St & 22 Ave SW',53.411101,-113.534761,1
 9200,'9200','Allan Dr & Andrews Gt SW',53.428581,-113.590479,1
-9201,'9201','Allan Dr & Andrews Way',53.428254,-113.591391,1
-9202,'9202','Allan Dr & Andrews Loop',53.431471,-113.589808,1
-9203,'9203','Allan Dr & Windermere Blvd',53.431707,-113.589942,1
+9201,'9201','Allan Dr & Andrews Way SW',53.428254,-113.591391,1
+9202,'9202','Allan Dr & Andrews Loop SW',53.431471,-113.589808,1
+9203,'9203','Allan Dr & Windermere Blvd SW',53.431707,-113.589942,1
 9210,'9210','121 St & 22 Ave SW',53.411486,-113.537417,1
 9212,'9212','122 St & 26 Ave SW',53.411037,-113.538996,1
 9215,'9215','121 St & 22 Ave SW',53.411364,-113.536519,1
 9216,'9216','119A St & 22 Ave SW',53.410519,-113.53397,1
 9217,'9217','Allard Blvd & Ashcraft Cr SW',53.400142,-113.521085,1
-9219,'9219','Cunningham Way & Cunningham Dr',53.407268,-113.529124,1
+9219,'9219','Cunningham Way & Cunningham Dr SW',53.407268,-113.529124,1
 9229,'9229','Rutherford Rd & 18 Ave SW',53.416814,-113.535396,1
 9230,'9230','Edwards Dr & 8 Ave SW',53.4263,-113.456041,1
 9233,'9233','59 St & 3 Ave SW',53.430113,-113.432445,1
@@ -4449,41 +4449,41 @@
 9257,'9257','88 St & 20 Ave SW',53.414907,-113.467394,1
 9258,'9258','Rutherford Rd & 20 Ave SW',53.414724,-113.535029,1
 9259,'9259','111 St & Blackburn Dr SW',53.429812,-113.516457,1
-9269,'9269','Chappelle Dr N & Chappelle Rd',53.399835,-113.575064,1
-9270,'9270','Chappelle Dr & Claxton Cr',53.401959,-113.573733,1
-9271,'9271','Charles Link & Chappelle Dr',53.403541,-113.56844,1
+9269,'9269','Chappelle Dr & Chappelle Rd SW',53.399835,-113.575064,1
+9270,'9270','Chappelle Dr & Claxton Cr SW',53.401959,-113.573733,1
+9271,'9271','Charles Link & Chappelle Dr SW',53.403541,-113.56844,1
 9272,'9272','141 St & Chappelle Dr SW',53.404433,-113.56527,1
 9273,'9273','141 St & 28 Ave SW',53.410531,-113.566049,1
 9274,'9274','Chappelle Blvd & 28 Ave SW',53.409969,-113.570621,1
-9275,'9275','Chappelle Blvd & Carey Way',53.408002,-113.571471,1
-9276,'9276','Chappelle Blvd & Chapman Rd',53.406775,-113.573491,1
+9275,'9275','Chappelle Blvd & Carey Way SW',53.408002,-113.571471,1
+9276,'9276','Chappelle Blvd & Chapman Rd SW',53.406775,-113.573491,1
 9282,'9282','141 St & 28 Ave SW',53.410865,-113.565193,1
 9283,'9283','141 St & Hays Rdg Blvd SW',53.413265,-113.565224,1
 9284,'9284','141 St & Parker Gt SW',53.417171,-113.565277,1
-9285,'9285','Chappelle Dr & Claxton Loop',53.40069,-113.575844,1
-9286,'9286','Chappelle Dr & Chappelle Rd',53.399721,-113.574689,1
+9285,'9285','Chappelle Dr & Claxton Loop SW',53.40069,-113.575844,1
+9286,'9286','Chappelle Dr & Chappelle Rd SW',53.399721,-113.574689,1
 9287,'9287','50 St & 4 Ave SW',53.428733,-113.418887,1
 9288,'9288','52 St & 4 Ave SW',53.428714,-113.422236,1
 9289,'9289','52 St & 4 Ave SW',53.428518,-113.423607,1
 9290,'9290','52 St & 4 Ave SW',53.428527,-113.421335,1
 9301,'9301','Allard Blvd & Alexander Way SW',53.400738,-113.534756,1
-9303,'9303','Watt Common & Ellerslie Rd',53.42335,-113.426002,1
-9304,'9304','Watt Common & Ellerslie Rd',53.423949,-113.425806,1
+9303,'9303','Watt Common & Ellerslie Rd SW',53.42335,-113.426002,1
+9304,'9304','Watt Common & Ellerslie Rd SW',53.423949,-113.425806,1
 9305,'9305','175 St & Hiller Rd SW',53.421595,-113.621368,1
-9311,'9311','Watt Dr & Weidle Cr',53.413903,-113.437549,1
-9320,'9320','Watt Common & Watt Blvd',53.421728,-113.424175,1
+9311,'9311','Watt Dr & Weidle Cr SW',53.413903,-113.437549,1
+9320,'9320','Watt Common & Watt Blvd SW',53.421728,-113.424175,1
 9321,'9321','Glenridding Way & Glenridding Blvd SW',53.421277,-113.597637,1
-9323,'9323','164 St & Glenridding Blvd',53.421114,-113.604556,1
-9325,'9325','Glenridding Gt & Ellerslie Rd',53.424828,-113.596175,1
+9323,'9323','164 St & Glenridding Blvd SW',53.421114,-113.604556,1
+9325,'9325','Glenridding Gt & Ellerslie Rd SW',53.424828,-113.596175,1
 9329,'9329','141 St & Chappelle Dr SW',53.40769,-113.565254,1
 9331,'9331','Casselman Link & Cunningham Way SW',53.405371,-113.529133,1
-9332,'9332','James Mowatt Trl & 17 Ave',53.414449,-113.523631,1
+9332,'9332','James Mowatt Trl & 17 Ave SW',53.414449,-113.523631,1
 9335,'9335','Wonnacott Way & Watt Dr SW',53.415532,-113.433938,1
 9336,'9336','Watt Promenade & Watt Dr SW',53.415612,-113.430991,1
 9337,'9337','61 St & Watt Dr SW',53.415364,-113.435941,1
 9338,'9338','Watt Dr & Weidle Bend SW',53.412487,-113.438316,1
-9342,'9342','Orchards Blvd & Orchards Dr',53.407166,-113.464125,1
-9343,'9343','Orchards Link & Orchards Blvd',53.407889,-113.461117,1
+9342,'9342','Orchards Blvd & Orchards Dr SW',53.407166,-113.464125,1
+9343,'9343','Orchards Link & Orchards Blvd SW',53.407889,-113.461117,1
 9350,'9350','Orchard Gt & Orchard Dr SW',53.407679,-113.473662,1
 9352,'9352','122 St And 26 Ave SW',53.410504,-113.539282,1
 9353,'9353','122 St & 26 Ave SW',53.411035,-113.539891,1
@@ -4497,7 +4497,7 @@
 9362,'9362','107 St & Ellerslie Rd SW',53.424983,-113.504881,1
 9363,'9363','109 St & Ellerslie Rd SW',53.42495,-113.509671,1
 9364,'9364','103A St & Ellerslie Rd SW',53.42467,-113.495506,1
-9365,'9365','Callaghan Dr & Caine Blvd',53.408006,-113.525836,1
+9365,'9365','Callaghan Dr & Caine Blvd SW',53.408006,-113.525836,1
 9370,'9370','Winspear Common & Winspear Cr SW',53.414415,-113.438031,1
 9372,'9372','66 St & Winspear Common SW',53.414455,-113.441948,1
 9373,'9373','53 St & Watt Blvd SW',53.420361,-113.424787,1
@@ -4510,9 +4510,9 @@
 9391,'9391','87A St & Summerside Dr SW',53.421217,-113.465297,1
 9405,'9405','156 St & Windermere Blvd SW',53.434152,-113.594213,1
 9406,'9406','Desrochers Blvd & Desrochers Gt SW',53.399223,-113.545123,1
-9407,'9407','Washburn Dr & Windermere Blvd',53.438503,-113.624588,1
+9407,'9407','Washburn Dr & Windermere Blvd SW',53.438503,-113.624588,1
 9408,'9408','Desrochers Blvd & Desrochers Gt SW',53.39876,-113.546235,1
-9409,'9409','Washburn Dr & Warry Link',53.437377,-113.624116,1
+9409,'9409','Washburn Dr & Warry Link SW',53.437377,-113.624116,1
 9410,'9410','McAllister Loop & MacEwan Rd SW',53.428952,-113.525416,1
 9411,'9411','Parsons Rd & Ellwood Rd SW',53.428868,-113.480023,1
 9413,'9413','Parsons Rd & 10 Ave SW',53.423848,-113.479805,1
@@ -4536,8 +4536,8 @@
 9448,'9448','Windermere Rd & Whitelaw Ln',53.442418,-113.614385,1
 9449,'9449','Ambleside Dr & Windermere Blvd',53.435505,-113.608484,1
 9452,'9452','141 St & Ellerslie Rd SW',53.423653,-113.564309,1
-9455,'9455','Watt Blvd & Ellerslie Rd',53.424277,-113.436432,1
-9456,'9456','Watt Blvd & Ellerslie Rd',53.424196,-113.436182,1
+9455,'9455','Watt Blvd & Ellerslie Rd SW',53.424277,-113.436432,1
+9456,'9456','Watt Blvd & Ellerslie Rd SW',53.424196,-113.436182,1
 9460,'9460','175A St & Wright Dr SW',53.429702,-113.62363,1
 9461,'9461','178 St & Wright Dr SW',53.428164,-113.626544,1
 9462,'9462','178 St & Wright Dr SW',53.428588,-113.62582,1
@@ -4553,8 +4553,8 @@
 9482,'9482','MacEwan Rd & Melrose Cr SW',53.429774,-113.536377,1
 9486,'9486','Windermere Rd & Windermere Court',53.446271,-113.614375,1
 9487,'9487','Edwards Dr & 7 Ave SW',53.42764,-113.458031,1
-9521,'9521','Orchards Link & Orchards Blvd',53.407773,-113.459903,1
-9522,'9522','Orchards Blvd & Orchards Dr',53.40718,-113.465143,1
+9521,'9521','Orchards Link & Orchards Blvd SW',53.407773,-113.459903,1
+9522,'9522','Orchards Blvd & Orchards Dr SW',53.40718,-113.465143,1
 9526,'9526','Windermere Rd & Windermere Wynd',53.446189,-113.614525,1
 9527,'9527','McMillian Way & MacEwan Rd SW',53.429321,-113.531474,1
 9528,'9528','James Mowatt Trl & Allard Blvd SW',53.399622,-113.540702,1
@@ -4573,18 +4573,18 @@
 9557,'9557','Windermere Wynd & Ware Cr',53.44596,-113.617505,1
 9558,'9558','Windermere Wynd & Wheaton Dr',53.445114,-113.618665,1
 9559,'9559','Windermere Wynd & Wahl Pl',53.442089,-113.622487,1
-9560,'9560','Armour Bend & Ellerslie Rd',53.422013,-113.608065,1
-9566,'9566','Windermere Way & Windermere Blvd',53.43816,-113.61911,1
-9567,'9567','Windermere Way & Windermere Blvd',53.436536,-113.617839,1
-9568,'9568','Windermere Way & Wates Link',53.435444,-113.617458,1
-9569,'9569','Windermere Way & Windermere Blvd',53.437435,-113.619306,1
+9560,'9560','Armour Bend & Ellerslie Rd SW',53.422013,-113.608065,1
+9566,'9566','Windermere Way & Windermere Blvd SW',53.43816,-113.61911,1
+9567,'9567','Windermere Way & Windermere Blvd SW',53.436536,-113.617839,1
+9568,'9568','Windermere Way & Wates Link SW',53.435444,-113.617458,1
+9569,'9569','Windermere Way & Windermere Blvd SW',53.437435,-113.619306,1
 9570,'9570','Blackmud Crk Dr & Ellerslie Rd SW',53.424679,-113.508394,1
 9571,'9571','Wright Dr & 8 Ave SW',53.427428,-113.626704,1
 9572,'9572','Wright Dr & 8 Ave SW',53.426432,-113.626922,1
 9574,'9574','Keswick Dr & Hiller Rd SW',53.421023,-113.620874,1
 9575,'9575','170 St & Hiller Rd SW',53.421311,-113.616425,1
-9577,'9577','164 St & Glenridding Blvd',53.421239,-113.604579,1
-9585,'9585','Glenridding Way & Glenridding Blvd',53.420978,-113.59832,1
+9577,'9577','164 St & Glenridding Blvd SW',53.421239,-113.604579,1
+9585,'9585','Glenridding Way & Glenridding Blvd SW',53.420978,-113.59832,1
 9589,'9589','Graydon Hl Blvd & Ellerslie Rd SW',53.424941,-113.556542,1
 9603,'9603','Chappelle Way & Chappelle Rd SW',53.399861,-113.579921,1
 9604,'9604','Carson Way & Chappelle Way SW',53.401448,-113.583489,1
@@ -4593,22 +4593,22 @@
 9607,'9607','162 St & Glenridding Blvd SW',53.420857,-113.601198,1
 9608,'9608','162 St & Glenridding Blvd SW',53.421071,-113.602215,1
 9609,'9609','Chappelle Grn & Chappelle Way SW',53.402035,-113.587272,1
-9620,'9620','Windermere Way & Windermere Blvd',53.43899,-113.618111,1
+9620,'9620','Windermere Way & Windermere Blvd SW',53.43899,-113.618111,1
 9621,'9621','56 St & 3 Ave SW',53.430138,-113.427569,1
 9622,'9622','62 St & Ellerslie Rd SW',53.424977,-113.437121,1
 9623,'9623','63 St & Welsh Dr SW',53.420333,-113.437482,1
-9624,'9624','Watt Blvd & Welsh Dr',53.421282,-113.435754,1
+9624,'9624','Watt Blvd & Welsh Dr SW',53.421282,-113.435754,1
 9625,'9625','Watt Blvd & 12 Ave SW',53.422966,-113.436173,1
 9626,'9626','Watt Blvd & 12 Ave SW',53.422436,-113.436425,1
-9627,'9627','Watt Blvd & Welsh Dr',53.420796,-113.436134,1
+9627,'9627','Watt Blvd & Welsh Dr SW',53.420796,-113.436134,1
 9628,'9628','63 St & Welsh Dr SW',53.42049,-113.438555,1
-9630,'9630','Rabbit Hl Rd & Ellerslie Rd',53.425204,-113.586306,1
-9631,'9631','Rabbit Hl Rd & Ellerslie Rd',53.427112,-113.587998,1
-9632,'9632','172 St & Washburn Dr',53.428743,-113.618073,1
+9630,'9630','Rabbit Hl Rd & Ellerslie Rd SW',53.425204,-113.586306,1
+9631,'9631','Rabbit Hl Rd & Ellerslie Rd SW',53.427112,-113.587998,1
+9632,'9632','172 St & Washburn Dr SW',53.428743,-113.618073,1
 9633,'9633','156 St & Windermere Blvd SW',53.433338,-113.592033,1
 9634,'9634','156 St & Windermere Blvd SW',53.433943,-113.592785,1
 9635,'9635','Allan Dr & Windermere Blvd SW',53.43244,-113.589664,1
-9645,'9645','Blackmud Crk Dr & Byrne Cr N SW',53.423661,-113.508838,1
+9645,'9645','Blackmud Crk Dr & Byrne Cr SW',53.423661,-113.508838,1
 9662,'9662','91 St & Edwards Dr SW',53.430042,-113.469634,1
 9664,'9664','Rutherford Rd & 15 Ave SW',53.419398,-113.536435,1
 9665,'9665','95 St & Parsons Rd SW',53.421469,-113.479286,1
@@ -4632,22 +4632,22 @@
 9697,'9697','Rutherford Rd & 13 Ave SW',53.419428,-113.521664,1
 9698,'9698','Rutherford Rd & 15 Ave SW',53.416979,-113.523227,1
 9701,'9701','Rutherford Rd & 13 Ave SW',53.420039,-113.521276,1
-9702,'9702','Washburn Dr & Wates Link',53.432571,-113.6239,1
-9703,'9703','Washburn Dr & Wates Link',53.433415,-113.623978,1
+9702,'9702','Washburn Dr & Wates Link SW',53.432571,-113.6239,1
+9703,'9703','Washburn Dr & Wates Link SW',53.433415,-113.623978,1
 9704,'9704','Allard Link & Adamson Dr SW',53.404062,-113.520696,1
-9705,'9705','Washburn Dr & Wates Link',53.433042,-113.623337,1
-9706,'9706','Watchers Way & Wates Link',53.432969,-113.620194,1
-9708,'9708','Windermere Way & Wates Link',53.433091,-113.618376,1
-9709,'9709','Windermere Way & Wates Link',53.433494,-113.617534,1
+9705,'9705','Washburn Dr & Wates Link SW',53.433042,-113.623337,1
+9706,'9706','Watchers Way & Wates Link SW',53.432969,-113.620194,1
+9708,'9708','Windermere Way & Wates Link SW',53.433091,-113.618376,1
+9709,'9709','Windermere Way & Wates Link SW',53.433494,-113.617534,1
 9710,'9710','Windermere Way & Windermere Blvd',53.438781,-113.619237,1
 9713,'9713','172 St & Washburn Dr SW',53.428573,-113.616784,1
-9714,'9714','Callaghan Dr & Cantor Lndg',53.408301,-113.525539,1
+9714,'9714','Callaghan Dr & Cantor Lndg SW',53.408301,-113.525539,1
 9715,'9715','James Mowatt Trl & 30 Ave SW',53.405074,-113.537768,1
-9719,'9719','James Mowatt Trl & Cunningham Dr',53.408418,-113.531772,1
-9722,'9722','Washburn Dr & Watcher Way',53.435515,-113.624175,1
+9719,'9719','James Mowatt Trl & Cunningham Dr SW',53.408418,-113.531772,1
+9722,'9722','Washburn Dr & Watcher Way SW',53.435515,-113.624175,1
 9723,'9723','Cunningham Dr & 30 Ave SW',53.404419,-113.522118,1
-9724,'9724','Casselman Link & Casselman Cr',53.404218,-113.528497,1
-9728,'9728','111 St & Ellerslie Rd',53.426272,-113.516855,1
+9724,'9724','Casselman Link & Casselman Cr SW',53.404218,-113.528497,1
+9728,'9728','111 St & Ellerslie Rd SW',53.426272,-113.516855,1
 9734,'9734','125 St & 20 Ave SW',53.414004,-113.53921,1
 9741,'9741','126 St & 20 Ave SW',53.413815,-113.539636,0
 9747,'9747','Edm Int Airport',53.307434,-113.583618,1
@@ -4660,14 +4660,14 @@
 9758,'9758','141 St & Paisley Rd SW',53.41384,-113.565537,1
 9759,'9759','141 St & Paisley Rd SW',53.41446,-113.56526,1
 9760,'9760','Alwood Bend & Allard Blvd SW',53.399088,-113.536788,1
-9761,'9761','Watt Promenade & Watt Blvd',53.41943,-113.430576,1
+9761,'9761','Watt Promenade & Watt Blvd SW',53.41943,-113.430576,1
 9762,'9762','111 St & MacEwan Rd SW',53.428813,-113.516851,1
 9765,'9765','57 St & Watt Dr SW',53.419908,-113.429458,1
-9766,'9766','66 St & Shaw Way',53.41464,-113.443464,1
-9767,'9767','69 St & Shaw Way',53.414454,-113.446718,1
-9770,'9770','Austin Link & Anderson Way',53.428066,-113.60964,1
+9766,'9766','66 St & Shaw Way SW',53.41464,-113.443464,1
+9767,'9767','69 St & Shaw Way SW',53.414454,-113.446718,1
+9770,'9770','Austin Link & Anderson Way SW',53.428066,-113.60964,1
 9772,'9772','Casselman Link & 30 Ave SW',53.403184,-113.52921,1
-9775,'9775','Casselman Link & Casselman Cr',53.404232,-113.528702,1
+9775,'9775','Casselman Link & Casselman Cr SW',53.404232,-113.528702,1
 9777,'9777','James Mowatt Trl & 26 Ave SW',53.407482,-113.532707,1
 9778,'9778','James Mowatt Trl & 26 Ave SW',53.407112,-113.53387,1
 9780,'9780','James Mowatt Trl & 30 Ave SW',53.404965,-113.536626,1
@@ -4688,28 +4688,28 @@
 9812,'9812','57 St & Watt Dr SW',53.41466,-113.426429,1
 9813,'9813','Watt Dr & 22 Ave SW',53.414337,-113.425987,1
 9815,'9815','Allan Dr & Windermere Blvd SW',53.431765,-113.58891,1
-9821,'9821','69A St & Shaw Way',53.414271,-113.448722,1
-9822,'9822','68 St & Shaw Way',53.414447,-113.444498,1
+9821,'9821','69A St & Shaw Way SW',53.414271,-113.448722,1
+9822,'9822','68 St & Shaw Way SW',53.414447,-113.444498,1
 9823,'9823','78 St & 22 Ave SW',53.412707,-113.456855,1
 9824,'9824','Savaryn Dr & 22 Ave SW',53.4127,-113.460507,1
 9827,'9827','85 St & Savaryn Dr SW',53.413309,-113.464387,1
 9829,'9829','Callaghan Dr & Cunningham Dr SW',53.407225,-113.528723,1
 9830,'9830','Stanton Dr & 12 Ave SW',53.422883,-113.455164,1
-9832,'9832','Cunningham Way W & Cunningham Dr SW',53.40732,-113.529911,1
+9832,'9832','Cunningham Way & Cunningham Dr SW',53.40732,-113.529911,1
 9833,'9833','88 St & 14 Ave SW',53.420433,-113.467176,1
 9835,'9835','114 St & Rutherford Rd SW',53.420983,-113.520634,1
-9836,'9836','Cunningham Way W & Cunningham Way S SW',53.405609,-113.531681,1
+9836,'9836','Cunningham Way & Cunningham Way SW',53.405609,-113.531681,1
 9837,'9837','Rutherford Rd & 15 Ave SW',53.418802,-113.536244,1
 9838,'9838','119 St & Rutherford Rd SW',53.423002,-113.528541,1
 9841,'9841','119 St & Ellerslie Rd SW',53.424113,-113.528796,1
-9842,'9842','Cunningham Way W & Cunningham Way S SW',53.405957,-113.531408,1
+9842,'9842','Cunningham Way & Cunningham Way SW',53.405957,-113.531408,1
 9843,'9843','Rutherford Pt & Rutherford Rd SW',53.42228,-113.534225,1
-9846,'9846','Alexander Cr & Allard Blvd',53.401768,-113.530269,1
+9846,'9846','Alexander Cr & Allard Blvd SW',53.401768,-113.530269,1
 9848,'9848','119 St & Ellerslie Rd SW',53.424216,-113.528476,1
 9850,'9850','Orchard Gt & 25 Ave SW',53.409516,-113.47445,1
 9851,'9851','Orchards Gt & Orchards Dr SW',53.408075,-113.474146,1
 9856,'9856','Roberston Way & Rutherford Rd SW',53.422522,-113.530007,1
-9860,'9860','Currents Dr E & Windermer Blvd',53.434626,-113.595644,1
+9860,'9860','Currents Dr & Windermer Blvd',53.434626,-113.595644,1
 9861,'9861','Rutherford Close & Rutherford Rd SW',53.422703,-113.531449,1
 9862,'9862','98 St & Parsons Rd SW',53.422209,-113.479778,1
 11094,'11094','109 St & 103 Ave',53.544182,-113.508667,1
@@ -5113,14 +5113,14 @@
 99017,'99017','Heritage Vly Trl & Chappelle Rd SW',53.399445,-113.564681,1
 99024,'99024','Heritage Vly Trl & 41 Ave SW',53.396321,-113.565335,1
 99025,'99025','Charles Link & Chappelle Rd SW',53.399708,-113.568321,1
-99032,'99032','Calhoun Link & Chappelle Blvd',53.405754,-113.579973,1
-99033,'99033','Chappelle Grn & Chappelle Blvd',53.406751,-113.582742,1
+99032,'99032','Calhoun Link & Chappelle Blvd SW',53.405754,-113.579973,1
+99033,'99033','Chappelle Grn & Chappelle Blvd SW',53.406751,-113.582742,1
 99034,'99034','Chappelle Grn & Cooke Ln SW',53.404401,-113.586385,1
 99035,'99035','50 St & 22 Ave SW',53.414034,-113.418911,1
 99036,'99036','52 St & 22 Ave SW',53.413909,-113.420898,1
 99038,'99038','25 St & 46 Ave East Nisku',53.306363,-113.558163,1
 99040,'99040','66 St & 25 Ave SW',53.410526,-113.443259,1
-99041,'99041','Chappelle Grn & Chappelle Way',53.401837,-113.586034,1
+99041,'99041','Chappelle Grn & Chappelle Way SW',53.401837,-113.586034,1
 99044,'99044','Orchards Way & 25 Ave SW',53.410298,-113.451804,1
 99045,'99045','Orchards Way & 25 Ave SW',53.40994,-113.452509,1
 99046,'99046','Orchards Way & Chokecherry Ln SW',53.408761,-113.452317,1
@@ -5131,9 +5131,9 @@
 99052,'99052','Desrochers Blvd & 35 Ave SW',53.401016,-113.544724,1
 99053,'99053','Desrochers Blvd & 35 Ave SW',53.401171,-113.545948,1
 99054,'99054','Desrochers Blvd & 35 Ave SW',53.400688,-113.545389,1
-99056,'99056','Desrochers Dr & 35 Ave',53.401465,-113.548725,1
+99056,'99056','Desrochers Dr & 35 Ave SW',53.401465,-113.548725,1
 99057,'99057','Desrochers Dr & 35 Ave SW',53.40135,-113.549998,1
-99064,'99064','Desrochers Dr & Darby Bay',53.400303,-113.551419,1
+99064,'99064','Desrochers Dr & Darby Bay SW',53.400303,-113.551419,1
 99067,'99067','Desrochers Dr & Davidson Wynd SW',53.399784,-113.552255,1
 99101,'99101','52 St & 22 Ave SW',53.414047,-113.421844,1
 99102,'99102','Watt Dr & 22 Ave SW',53.413928,-113.425412,1
@@ -5144,12 +5144,12 @@
 99129,'99129','119A St & 28 Ave SW',53.40771,-113.539284,1
 99177,'99177','50 St & Watt Common SW',53.420818,-113.418252,1
 99179,'99179','66 St & 25 Ave SW',53.410387,-113.441949,1
-99205,'99205','Davidson Grn & Desrochers Blvd',53.397414,-113.550902,1
-99207,'99207','Desrochers Dr & Desrochers Blvd',53.397835,-113.553041,1
-99208,'99208','Allard Rd & Allard Blvd',53.397267,-113.527505,1
+99205,'99205','Davidson Grn & Desrochers Blvd SW',53.397414,-113.550902,1
+99207,'99207','Desrochers Dr & Desrochers Blvd SW',53.397835,-113.553041,1
+99208,'99208','Allard Rd & Allard Blvd SW',53.397267,-113.527505,1
 99230,'99230','Chivers Loop & Crawford Dr SW',53.399424,-113.59889,1
 99232,'99232','Chappelle Way & Cautley Cr SW',53.400156,-113.590944,1
 99233,'99233','Chappelle Way & Colak Ln SW',53.399233,-113.592684,1
 99236,'99236','Chappelle Way & Chivers Loop SW',53.397616,-113.595348,1
 99243,'99243','Chappelle Way & Chegwin Wynd SW',53.40112,-113.589896,1
-99355,'99355','Desrochers Dr & Desrochers Blvd',53.396926,-113.553423,1
+99355,'99355','Desrochers Dr & Desrochers Blvd SW',53.396926,-113.553423,1
