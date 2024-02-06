@@ -30,8 +30,6 @@
 5501,0,'W Edm Mall',55
 5600,0,'Mdws',56
 5601,0,'W Edm Mall',56
-7300,0,'Downtown',73
-7301,0,'Mill Woods',73
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -122,10 +120,6 @@
 52501,0,'Ritchie',525
 52600,0,'Mill Woods',526
 52601,0,'Millbourne Woodvale',526
-56000,0,'Edm / Spruce Grv',560
-56001,0,'Spruce Grv',560
-58001,0,'Clareview',580
-58000,0,'Fort Sask',580
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
 61001,0,'95 St & 132 Ave',610
@@ -319,6 +313,8 @@
 92401,0,'Rio Ter',924
 92500,0,'Jasper Pl',925
 92501,0,'W Edm Mall',925
+92600,0,'Lewis Farms',926
+92601,0,'Stillwater',926
 99901,0,'Jasper Pl',999
 99900,0,'Unity Sq',999
 24011001,0,'Downtown Express',240110
