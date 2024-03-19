@@ -37,11 +37,13 @@
 'DX-671-Weekday-1-24-02-1111000',67101,152800,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1
 'DX-671-Weekday-1-24-02-1111100',67101,152700,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,700,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1
 'DX-671-Weekday-4-24-02-0000100',67101,123800,0,'''671 W Edm Mall''',1,100,0,'''671 Lewis Farms''',1
-'DX-671-Weekday-4-24-02-1111000',67101,152800,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1
 'DX-671-Weekday-4-24-02-1111100',67101,152700,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,700,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1
 'DX-671-Weekday-5-24-02-0000100',67101,123800,0,'''671 W Edm Mall''',1,100,0,'''671 Lewis Farms''',1
 'DX-671-Weekday-5-24-02-1111000',67101,152800,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1
 'DX-671-Weekday-5-24-02-1111100',67101,152700,0,'''671 Lewis Farms''',1
+'DX-671-Weekday-7-24-02-0001000',67101,123400,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1
+'DX-671-Weekday-7-24-02-1111000',67101,152800,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1
+'DX-671-Weekday-7-24-02-1111100',67101,152700,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,700,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1,100,0,'''671 Lewis Farms''',1
 'DX-673-Weekday-1-24-02-0001000',67301,142800,0,'''673 W Edm Mall''',1,100,0,'''673 W Edm Mall''',1
 'DX-673-Weekday-1-24-02-1110100',67301,152500,0,'''673 W Edm Mall''',1,100,0,'''673 W Edm Mall''',1
 'DX-673-Weekday-4-24-02-0001000',67301,142800,0,'''673 W Edm Mall''',1,100,0,'''673 W Edm Mall''',1
