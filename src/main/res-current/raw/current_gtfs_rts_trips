@@ -30,7 +30,7 @@
 5501,0,'W Edm Mall',55
 5600,0,'Mdws',56
 5601,0,'W Edm Mall',56
-7201,0,'Downtown',72
+7201,0,'Kingsway RAH',72
 7200,0,'NAIT',72
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
@@ -78,7 +78,6 @@
 12800,0,'Londonderry',128
 12801,0,'Northgate',128
 13101,0,'Downtown',131
-13100,0,'Riverdale',131
 50100,0,'Capilano',501
 50101,0,'Davies',501
 50200,0,'Davies',502
@@ -144,8 +143,6 @@
 62001,0,'JJ Bowlen',620
 62100,0,'Crystallina Nera',621
 62101,0,'JJ Bowlen',621
-62200,0,'Coliseum',622
-62201,0,'Concordia Univ',622
 62301,0,'Coliseum',623
 62300,0,'ME LaZerte',623
 62401,0,'Arch O''Leary',624
