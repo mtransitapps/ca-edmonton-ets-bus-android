@@ -30,8 +30,6 @@
 5501,0,'W Edm Mall',55
 5600,0,'Mdws',56
 5601,0,'W Edm Mall',56
-7100,0,'Downtown',71
-7101,0,'University',71
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -125,8 +123,8 @@
 56001,0,'Spruce Grv',560
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
-61001,0,'95 St & 132 Ave',610
-61000,0,'Eaux Claires TC B:Q',610
+61001,0,'AM',610
+61000,0,'PM',610
 61101,0,'Arch O''Leary',611
 61100,0,'Northgate',611
 61200,0,'Hollick Kenyon',612
