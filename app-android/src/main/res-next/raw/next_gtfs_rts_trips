@@ -125,78 +125,6 @@
 56001,0,'Spruce Grv',560
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
-61001,0,'AM',610
-61000,0,'PM',610
-61200,0,'Hollick Kenyon',612
-61201,0,'Queen E',612
-61300,0,'Arch O''Leary',613
-61301,0,'Dunluce',613
-61600,0,'Lago Lindo',616
-61601,0,'M Butterworth',616
-61700,0,'Eaux Claires',617
-61701,0,'M Butterworth',617
-62000,0,'Clareview',620
-62001,0,'JJ Bowlen',620
-62100,0,'Crystallina Nera',621
-62101,0,'JJ Bowlen',621
-62301,0,'Coliseum',623
-62300,0,'ME LaZerte',623
-63000,0,'Ottewell',630
-63001,0,'Silver Berry',630
-63101,0,'Maple',631
-63100,0,'Ottewell',631
-63200,0,'Austin O''Brien',632
-63201,0,'Davies',632
-63400,0,'McNally',634
-63401,0,'Tamarack',634
-63500,0,'McNally',635
-63501,0,'Silver Berry',635
-63601,0,'Davies',636
-63600,0,'McNally',636
-63700,0,'Braemar',637
-63701,0,'University',637
-64201,0,'Lakewood',642
-64200,0,'Mill Woods',642
-65101,0,'Southgate',651
-65201,0,'Southgate',652
-65200,0,'Strathcona HS',652
-65301,0,'Davies',653
-65300,0,'Strathcona HS',653
-65401,0,'Strathcona HS',654
-65400,0,'Windsor Pk',654
-65501,0,'S Campus',655
-65500,0,'Strathcona HS',655
-65600,0,'Davies',656
-65601,0,'Strathcona HS',656
-65701,0,'Leger',657
-65700,0,'Strathcona HS',657
-66000,0,'Harry Ainlay',660
-66101,0,'Harry Ainlay',661
-66100,0,'Mill Woods',661
-66201,0,'Century Pk',662
-66200,0,'Harry Ainlay',662
-66401,0,'Anderson HS',664
-66400,0,'Walker',664
-66501,0,'Anderson HS',665
-66500,0,'Charlesworth',665
-66701,0,'Anderson HS',667
-66700,0,'Century Pk',667
-66800,0,'Anderson HS',668
-66801,0,'Chappelle',668
-67100,0,'Jasper Pl HS',671
-67101,0,'Lewis Farms',671
-67300,0,'Hillcrest',673
-67301,0,'W Edm Mall',673
-67601,0,'Belmead',676
-67800,0,'Jasper Pl HS',678
-67801,0,'Lewis Farms',678
-68100,0,'Ross Sheppard',681
-68101,0,'W Edm Mall',681
-68301,0,'Arch MacDonald',683
-68300,0,'Castle Downs',683
-68401,0,'Arch MacDonald',684
-68400,0,'Lago Lindo',684
-69100,0,'Kingsway',691
 70100,0,'Kingsway RAH',701
 70101,0,'Southgate',701
 70200,0,'S Campus',702
@@ -235,7 +163,7 @@
 72301,0,'Parkallen',723
 72300,0,'University',723
 72401,0,'Leger',724
-72400,0,'Riverbend',724
+72400,0,'S Campus',724
 72500,0,'Lendrum',725
 72601,0,'Belgravia',726
 72600,0,'University',726
