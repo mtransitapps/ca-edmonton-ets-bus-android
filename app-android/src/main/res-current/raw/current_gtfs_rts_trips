@@ -123,8 +123,8 @@
 56001,0,'Spruce Grv',560
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
-61001,0,'95 St & 132 Ave',610
-61000,0,'Eaux Claires TC B:Q',610
+61001,0,'AM',610
+61000,0,'PM',610
 61101,0,'Arch O''Leary',611
 61100,0,'Northgate',611
 61200,0,'Hollick Kenyon',612
