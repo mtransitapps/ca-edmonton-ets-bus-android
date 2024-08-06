@@ -30,8 +30,6 @@
 5501,0,'W Edm Mall',55
 5600,0,'Mdws',56
 5601,0,'W Edm Mall',56
-7201,0,'Kingsway RAH',72
-7200,0,'NAIT',72
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -121,7 +119,7 @@
 52501,0,'Ritchie',525
 52600,0,'Mill Woods',526
 52601,0,'Millbourne Woodvale',526
-56000,0,'Edm / Spruce Grv',560
+56000,0,'Edm',560
 56001,0,'Spruce Grv',560
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
