@@ -149,8 +149,8 @@
 63401,0,'Tamarack',634
 63500,0,'McNally',635
 63501,0,'Silver Berry',635
-63601,0,'Davies',636
-63600,0,'McNally',636
+63600,0,'AM',636
+63601,0,'PM',636
 63700,0,'Braemar',637
 63701,0,'University',637
 64201,0,'Lakewood',642
@@ -179,8 +179,8 @@
 66500,0,'Charlesworth',665
 66701,0,'Anderson HS',667
 66700,0,'Century Pk',667
-66800,0,'Anderson HS',668
-66801,0,'Chappelle',668
+66800,0,'AM',668
+66801,0,'PM',668
 67100,0,'Jasper Pl HS',671
 67101,0,'Lewis Farms',671
 67300,0,'Hillcrest',673
