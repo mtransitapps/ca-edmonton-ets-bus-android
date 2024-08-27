@@ -89,8 +89,8 @@
 50700,0,'Tamarack',507
 50800,0,'Mdws',508
 50801,0,'Millbourne',508
-50900,0,'Mill Woods TC B:O',509
-50901,0,'Mill Woods TC B:P',509
+50900,0,'A Ridgewood',509
+50901,0,'B Southwood',509
 51100,0,'Downtown',511
 51101,0,'Mill Woods',511
 51200,0,'S Edm Common',512
@@ -117,7 +117,7 @@
 52501,0,'Ritchie',525
 52600,0,'Mill Woods',526
 52601,0,'Millbourne Woodvale',526
-56000,0,'Edm / Spruce Grv',560
+56000,0,'Edm',560
 56001,0,'Spruce Grv',560
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
@@ -164,7 +164,7 @@
 63500,0,'McNally',635
 63501,0,'Silver Berry',635
 63601,0,'Davies',636
-63600,0,'Davies / McNally',636
+63600,0,'McNally',636
 63700,0,'Braemar',637
 63701,0,'University',637
 64201,0,'Lakewood',642
@@ -211,8 +211,8 @@
 66500,0,'Charlesworth',665
 66701,0,'Anderson HS',667
 66700,0,'Century Pk',667
-66800,0,'AM',668
-66801,0,'PM',668
+66800,0,'Anderson HS',668
+66801,0,'Chappelle',668
 67100,0,'Jasper Pl HS',671
 67101,0,'W Edm Mall',671
 67300,0,'Hillcrest',673
