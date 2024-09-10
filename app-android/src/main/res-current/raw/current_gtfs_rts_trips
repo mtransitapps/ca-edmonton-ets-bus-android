@@ -69,8 +69,6 @@
 12300,0,'Northgate',123
 12400,0,'Eaux Claires',124
 12401,0,'Westmount',124
-12600,0,'Castle Downs',126
-12601,0,'Northgate',126
 12700,0,'Castle Downs',127
 12701,0,'Northgate',127
 12800,0,'Londonderry',128
@@ -216,7 +214,7 @@
 66800,0,'Anderson HS',668
 66801,0,'Chappelle',668
 67100,0,'Jasper Pl HS',671
-67101,0,'Lewis Farms',671
+67101,0,'W Edm Mall',671
 67300,0,'Hillcrest',673
 67301,0,'W Edm Mall',673
 67400,0,'HE Beriault',674
@@ -277,7 +275,7 @@
 72301,0,'Parkallen',723
 72300,0,'University',723
 72401,0,'Leger',724
-72400,0,'Riverbend',724
+72400,0,'S Campus',724
 72500,0,'Lendrum',725
 72601,0,'Belgravia',726
 72600,0,'University',726
