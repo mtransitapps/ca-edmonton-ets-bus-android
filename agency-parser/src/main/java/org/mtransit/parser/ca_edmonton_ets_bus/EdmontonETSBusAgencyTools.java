@@ -104,10 +104,12 @@ public class EdmontonETSBusAgencyTools extends DefaultAgencyTools {
 		switch (routeShortName) {
 		case "ValRep":
 			return 9_073L;
-		case "Shuttle":
-			return 999L;
+		case "SHUT":
+			return 998L;
 		case "CapRep":
 			return 9_071L;
+		case "Shuttle":
+			return 9_072L;
 		}
 		return super.convertRouteIdFromShortNameNotSupported(routeShortName);
 	}
@@ -129,6 +131,11 @@ public class EdmontonETSBusAgencyTools extends DefaultAgencyTools {
 			return super.mergeRouteLongName(mRoute, mRouteToMerge);
 		}
 		throw new MTLog.Fatal("Unexpected routes to merge: %s & %s!", mRoute, mRouteToMerge);
+	}
+
+	@Override
+	public @NotNull String getAgencyColor() {
+		return "005087"; // BLUE
 	}
 
 	@Override
