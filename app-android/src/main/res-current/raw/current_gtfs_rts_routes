@@ -14,7 +14,6 @@
 54,'054','West Edmonton Mall - West Clareview','',47823,3
 55,'055','Mdws - Southgate - West Edmonton Mall','',47824,3
 56,'056','Mill Woods - Leger - West Edmonton Mall','',47825,3
-72,'072','Metro Line Replacement Service','FF80FF',47883,3
 101,'101','Stadium - Abbottsfield','',48626,3
 102,'102','Kingsway - Coliseum - Abbottsfield','',48627,3
 103,'103','Eaux Claires - Castle Downs - Kingsway','',48628,3
@@ -61,8 +60,7 @@
 523,'523','Mill Woods - Downtown','',52534,3
 524,'524','Bonnie Doon - Holyrood','',52535,3
 525,'525','Bonnie Doon - Ritchie','',52536,3
-526,'526','Mill Woods - Millbourne Woodvale','',52537,3
-560,'560','Spruce Grv - Downtown Edmonton','',52655,3
+560,'560','Spruce Grv - Downtown Edmonton','139FE6',52655,3
 589,'589','Edmonton Waste Management Ctr - Coliseum','B3B300',52726,3
 610,'610','Archbishop O''Leary - Dickinsfield - Lago Lindo','',53461,3
 612,'612','Queen E - O''Leary - Hollick-Kenyon','',53463,3
@@ -73,7 +71,6 @@
 618,'618','Sir John Thompson - Rapperswill','',53469,3
 620,'620','JJ Bowlen - LaZerte - Londonderry - Clareview','',53492,3
 621,'621','ME LaZerte - Londonderry - Crystallina Nera','',53493,3
-622,'622','Stadium - Concordia U','',53494,3
 623,'623','Coliseum - LaZerte - Londonderry','',53495,3
 624,'624','O''Leary - Rapperswill','',53496,3
 625,'625','O''Leary - Palisades','',53497,3
@@ -107,7 +104,7 @@
 661,'661','Harry Ainlay - Mill Woods','',53617,3
 662,'662','Harry Ainlay - Louis St Laurent - Century Pk','',53618,3
 663,'663','Fr M McCaffery - Chappelle','',53619,3
-664,'664','Walker - Dr Anne Anderson - Fr M McCaffery','',53620,3
+664,'664','Walker - A Anderson - M McCaffery','',53620,3
 665,'665','Charlesworth - Dr Anne Anderson','',53621,3
 667,'667','Century Pk - Dr Anne Anderson','',53623,3
 668,'668','Chappelle - Dr Anne Anderson','',53624,3
