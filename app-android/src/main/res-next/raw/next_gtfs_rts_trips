@@ -30,10 +30,6 @@
 5501,0,'W Edm Mall',55
 5600,0,'Mdws',56
 5601,0,'W Edm Mall',56
-7100,0,'Capital LRT - Clareview',71
-7101,0,'Stadium',71
-7201,0,'Downtown',72
-7200,0,'NAIT',72
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -89,8 +85,8 @@
 50501,0,'Pylypow',505
 50601,0,'Davies',506
 50600,0,'Mdws',506
+50700,0,'Mdws',507
 50701,0,'Southgate',507
-50700,0,'Tamarack',507
 50800,0,'Mdws',508
 50801,0,'Millbourne',508
 50900,0,'A Ridgewood',509
@@ -121,8 +117,8 @@
 52501,0,'Ritchie',525
 52600,0,'Mill Woods',526
 52601,0,'Millbourne Woodvale',526
-56000,0,'Edm',560
-56001,0,'Spruce Grv',560
+56001,0,'Edm',560
+56000,0,'Edm / Spruce Grv',560
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
 61001,0,'95 St & 132 Ave',610
@@ -167,8 +163,8 @@
 63401,0,'Tamarack',634
 63500,0,'McNally',635
 63501,0,'Silver Berry',635
-63600,0,'AM',636
-63601,0,'PM',636
+63601,0,'Davies',636
+63600,0,'McNally',636
 63700,0,'Braemar',637
 63701,0,'University',637
 64201,0,'Lakewood',642
@@ -332,8 +328,9 @@
 92401,0,'Rio Ter',924
 92500,0,'Jasper Pl',925
 92501,0,'W Edm Mall',925
-92600,0,'Lewis Farms',926
-92601,0,'Stillwater',926
+92600,0,'Stillwater',926
+99801,0,'Millgrove Dr & Miller Ave',998
+99800,0,'Spruce Grv TC',998
 99901,0,'Jasper Pl',999
 99900,0,'Unity Sq',999
 24011001,0,'Downtown Express',240110
