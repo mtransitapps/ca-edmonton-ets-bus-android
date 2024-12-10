@@ -117,8 +117,8 @@
 52501,0,'Ritchie',525
 52600,0,'Mill Woods',526
 52601,0,'Millbourne Woodvale',526
-56001,0,'Edm',560
-56000,0,'Edm / Spruce Grv',560
+56000,0,'Kingsway RAH TC B:J',560
+56001,0,'Spruce Grv TC',560
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
 61001,0,'95 St & 132 Ave',610
@@ -328,8 +328,7 @@
 92401,0,'Rio Ter',924
 92500,0,'Jasper Pl',925
 92501,0,'W Edm Mall',925
-92601,0,'199 St & Maskekosihk Trl',926
-92600,0,'Lewis Farms TC B:J',926
+92600,0,'Stillwater',926
 99801,0,'Millgrove Dr & Miller Ave',998
 99800,0,'Spruce Grv TC',998
 99901,0,'Jasper Pl',999
