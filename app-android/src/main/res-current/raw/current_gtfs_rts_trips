@@ -117,8 +117,8 @@
 52501,0,'Ritchie',525
 52600,0,'Mill Woods',526
 52601,0,'Millbourne Woodvale',526
-56000,0,'Kingsway RAH TC B:J',560
-56001,0,'Spruce Grv TC',560
+56001,0,'Edm',560
+56000,0,'Spruce Grv',560
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
 61001,0,'95 St & 132 Ave',610
@@ -272,7 +272,7 @@
 71901,0,'Chappelle',719
 72100,0,'Century Pk',721
 72101,0,'Desrochers',721
-72201,0,'Callaghan',722
+72201,0,'Allard',722
 72200,0,'Century Pk',722
 72301,0,'Parkallen',723
 72300,0,'University',723
@@ -287,8 +287,8 @@
 74701,0,'Edm Intl Airport',747
 90100,0,'Downtown',901
 90101,0,'Jasper Pl',901
-90200,0,'NAIT',902
-90201,0,'University',902
+90200,0,'106 St & 118 Ave Loop',902
+90201,0,'University TC B:B',902
 90301,0,'Jasper Pl',903
 90300,0,'Kingsway RAH',903
 90401,0,'W Edm Mall',904
