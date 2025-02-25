@@ -115,6 +115,8 @@
 52400,0,'Holyrood',524
 52500,0,'Bonnie Doon',525
 52501,0,'Ritchie',525
+52600,0,'Mill Woods',526
+52601,0,'Millbourne Woodvale',526
 56001,0,'Edm',560
 56000,0,'Spruce Grv',560
 58901,0,'Coliseum',589
@@ -137,6 +139,8 @@
 62001,0,'JJ Bowlen',620
 62100,0,'Crystallina Nera',621
 62101,0,'JJ Bowlen',621
+62200,0,'Concordia Univ',622
+62201,0,'Stadium',622
 62301,0,'Coliseum',623
 62300,0,'ME LaZerte',623
 62401,0,'Arch O''Leary',624
