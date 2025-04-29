@@ -139,8 +139,6 @@
 62001,0,'JJ Bowlen',620
 62100,0,'Crystallina Nera',621
 62101,0,'JJ Bowlen',621
-62200,0,'Concordia Univ',622
-62201,0,'Stadium',622
 62301,0,'Coliseum',623
 62300,0,'ME LaZerte',623
 62401,0,'Arch O''Leary',624
@@ -211,8 +209,8 @@
 66500,0,'Charlesworth',665
 66701,0,'Anderson HS',667
 66700,0,'Century Pk',667
-66800,0,'Anderson HS',668
-66801,0,'Chappelle',668
+66800,0,'AM',668
+66801,0,'PM',668
 66901,0,'Keswick',669
 66900,0,'McCaffery HS',669
 67100,0,'Jasper Pl HS',671
@@ -283,6 +281,8 @@
 72600,0,'University',726
 72701,0,'Chappelle',727
 72700,0,'Heritage Vly',727
+72900,0,'Century Pk',729
+72901,0,'Leger',729
 74700,0,'Century Pk',747
 74701,0,'Edm Intl Airport',747
 90100,0,'Downtown',901
@@ -329,8 +329,6 @@
 92500,0,'Jasper Pl',925
 92501,0,'W Edm Mall',925
 92600,0,'Stillwater',926
-99901,0,'Jasper Pl',999
-99900,0,'Unity Sq',999
 24011001,0,'Downtown Express',240110
 24011000,0,'Eaux Claires Express',240110
 24012000,0,'Eaux Claires Express',240120

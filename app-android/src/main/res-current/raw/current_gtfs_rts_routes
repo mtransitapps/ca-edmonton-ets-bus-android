@@ -72,7 +72,6 @@
 618,'618','Sir John Thompson - Rapperswill','005087',53469,3
 620,'620','JJ Bowlen - LaZerte - Londonderry - Clareview','005087',53492,3
 621,'621','ME LaZerte - Londonderry - Crystallina Nera','005087',53493,3
-622,'622','Stadium - Concordia U','005087',53494,3
 623,'623','Coliseum - LaZerte - Londonderry','005087',53495,3
 624,'624','O''Leary - Rapperswill','005087',53496,3
 625,'625','O''Leary - Palisades','005087',53497,3
@@ -147,6 +146,7 @@
 725,'725','Southgate - Lendrum','005087',54458,3
 726,'726','University - Windsor Pk - Belgravia','005087',54459,3
 727,'727','Heritage Vly - Chappelle','005087',54460,3
+729,'729','Leger - Century Pk','005087',54462,3
 747,'747','Century Pk - Edmonton International Airport','005087',54522,3
 901,'901','Jasper Pl - Downtown','005087',56314,3
 902,'902','NAIT - University','005087',56315,3
@@ -171,7 +171,6 @@
 924,'924','Jasper Pl - Rio Ter','005087',56379,3
 925,'925','West Edmonton Mall - Jasper Pl','005087',56380,3
 926,'926','Lewis Farms - Stillwater','005087',56381,3
-999,'999','Jasper Pl - Unity Sq Shuttle','5700AE',56601,3
 240110,'110X','Eaux Claires - Downtown','F37727',1508424,3
 240120,'120X','Eaux Claires - Gov Ctr','F37727',1509385,3
 240130,'130X','Baturyn - Eaux Claires - Gov Ctr','F37727',1510346,3
