@@ -1,0 +1,122 @@
+1,'001','Downtown - Capilano','005087',47665,3
+2,'002','West Edmonton Mall - Stadium - Clareview','005087',47666,3
+3,'003','Westmount - Stadium','005087',47667,3
+4,'004','Lewis Farms - University - Capilano','005087',47668,3
+5,'005','Westmount - Downtown - Coliseum','005087',47669,3
+6,'006','Davies - Southgate','005087',47670,3
+7,'007','West Edmonton Mall - Downtown','005087',47671,3
+8,'008','Abbottsfield - Downtown - University','005087',47672,3
+9,'009','Southgate - Eaux Claires','005087',47673,3
+31,'031','Leger - University','FF8000',47758,3
+51,'051','Castle Downs - University','005087',47820,3
+52,'052','Northgate - West Edmonton Mall','005087',47821,3
+53,'053','West Clareview - Mill Woods','005087',47822,3
+54,'054','West Edmonton Mall - West Clareview','005087',47823,3
+55,'055','Mdws - Southgate - West Edmonton Mall','005087',47824,3
+56,'056','Mill Woods - Leger - West Edmonton Mall','005087',47825,3
+101,'101','Stadium - Abbottsfield','005087',48626,3
+102,'102','Kingsway - Coliseum - Abbottsfield','005087',48627,3
+103,'103','Eaux Claires - Castle Downs - Kingsway','005087',48628,3
+104,'104','Coliseum - East Clareview','005087',48629,3
+106,'106','Dunvegan - Northgate - Belvedere','005087',48631,3
+107,'107','Belvedere - West Clareview','005087',48632,3
+108,'108','Belvedere - East Clareview','005087',48633,3
+109,'109','Northgate - Castle Downs - Hudson','005087',48634,3
+111,'111','Riverdale - McQueen','005087',48657,3
+112,'112','Castle Downs - Eaux Claires','005087',48658,3
+113,'113','West Clareview - Northgate','005087',48659,3
+114,'114','West Clareview - Northgate','005087',48660,3
+116,'116','Abbottsfield - East Clareview','005087',48662,3
+117,'117','Eaux Claires - West Clareview','005087',48663,3
+118,'118','Eaux Claires - West Clareview','005087',48664,3
+119,'119','Eaux Claires - West Clareview','005087',48665,3
+121,'121','Clareview - Fraser - Evergreen','005087',48688,3
+122,'122','Eaux Claires - Lago Lindo - Klarvatten','005087',48689,3
+123,'123','Coliseum - Northgate','005087',48690,3
+124,'124','Westmount - Eaux Claires','005087',48691,3
+127,'127','Northgate - White Oaks Sq - Castle Downs','005087',48694,3
+128,'128','Northgate - Londonderry','005087',48695,3
+501,'501','Davies - Capilano','005087',52470,3
+502,'502','Davies - South Campus','005087',52471,3
+503,'503','Davies - Millbourne - Woodvale','005087',52472,3
+504,'504','Mdws - Davies','005087',52473,3
+505,'505','Davies - Pylypow Ind','005087',52474,3
+506,'506','Davies - Mdws - Maple','005087',52475,3
+507,'507','Tamarack - Southgate','005087',52476,3
+508,'508','Mdws - Millbourne','005087',52477,3
+509,'509','Mill Woods - Millbourne','005087',52478,3
+511,'511','Mill Woods - Downtown','005087',52501,3
+512,'512','Mill Woods - South Edmonton Common','005087',52502,3
+513,'513','Mill Woods - Knottwood','005087',52503,3
+514,'514','Mill Woods - Millhurst','005087',52504,3
+515,'515','Mill Woods - Mdws','005087',52505,3
+516,'516','Mill Woods - Laurel - Mdws','005087',52506,3
+517,'517','Mill Woods - Southwood','005087',52507,3
+518,'518','Mill Woods - Century Pk','005087',52508,3
+519,'519','Mill Woods - Century Pk','005087',52509,3
+521,'521','Mill Woods - Century Pk','005087',52532,3
+522,'522','Capilano - Bonnie Doon','005087',52533,3
+523,'523','Mill Woods - Downtown','005087',52534,3
+524,'524','Bonnie Doon - Holyrood','005087',52535,3
+525,'525','Bonnie Doon - Ritchie','005087',52536,3
+526,'526','Mill Woods - Millbourne Woodvale','005087',52537,3
+527,'527','Mill Woods - Millbourne','005087',52538,3
+560,'560','Spruce Grv - Downtown Edmonton','139FE6',52655,3
+589,'589','Edmonton Waste Management Ctr - Coliseum','B3B300',52726,3
+701,'701','Southgate - Kingsway','005087',54392,3
+702,'702','Southgate - South Campus','005087',54393,3
+703,'703','Leger - South Campus','005087',54394,3
+704,'704','Southgate - Southpark','005087',54395,3
+705,'705','Century Pk - Southgate','005087',54396,3
+706,'706','Leger - Southgate','005087',54397,3
+707,'707','Century Pk - Southgate','005087',54398,3
+708,'708','Century Pk - Southgate','005087',54399,3
+709,'709','Century Pk - Southgate','005087',54400,3
+712,'712','Century Pk - Yellowbird','005087',54424,3
+713,'713','Century Pk - Twin Brooks','005087',54425,3
+715,'715','Leger - Century Pk','005087',54427,3
+716,'716','Leger - Century Pk','005087',54428,3
+717,'717','Leger - Century Pk','005087',54429,3
+718,'718','Leger - Century Pk','005087',54430,3
+719,'719','Century Pk - Chappelle','005087',54431,3
+721,'721','Century Pk - Rutherford - Desrochers','005087',54454,3
+722,'722','Century Pk - Rutherford - Allard','005087',54455,3
+723,'723','University - Parkallen','005087',54456,3
+724,'724','Leger - Brander Gdns - South Campus','005087',54457,3
+727,'727','Heritage Vly - Chappelle','005087',54460,3
+729,'729','Leger - Century Pk','005087',54462,3
+747,'747','Century Pk - Edmonton International Airport','005087',54522,3
+901,'901','Jasper Pl - Downtown','005087',56314,3
+902,'902','NAIT - University','005087',56315,3
+903,'903','Jasper Pl - Kingsway','005087',56316,3
+904,'904','West Edmonton Mall - Westmount','005087',56317,3
+905,'905','Northgate - Westmount','005087',56318,3
+906,'906','West Edmonton Mall - Westmount','005087',56319,3
+907,'907','West Edmonton Mall - Westmount','005087',56320,3
+908,'908','Jasper Pl - Westmount','005087',56321,3
+909,'909','Jasper Pl - Westmount','005087',56322,3
+912,'912','Lewis Farms - Jasper Pl','005087',56346,3
+913,'913','West Edmonton Mall - Jamieson Pl','005087',56347,3
+914,'914','West Edmonton Mall - Jasper Pl','005087',56348,3
+915,'915','West Edmonton Mall - Jasper Pl','005087',56349,3
+916,'916','West Edmonton Mall - Lewis Farms','005087',56350,3
+917,'917','West Edmonton Mall - Lewis Farms','005087',56351,3
+918,'918','West Edmonton Mall - Lessard','005087',56352,3
+919,'919','Lewis Farms - Secord','005087',56353,3
+921,'921','Jasper Pl - Westview Vlg','005087',56376,3
+922,'922','Lewis Farms - Rosenthal','005087',56377,3
+923,'923','West Edmonton Mall - Oleskiw','005087',56378,3
+924,'924','Jasper Pl - Rio Ter','005087',56379,3
+925,'925','West Edmonton Mall - Jasper Pl','005087',56380,3
+926,'926','Lewis Farms - Stillwater','005087',56381,3
+240110,'110X','Eaux Claires - Downtown','F37727',1508424,3
+240120,'120X','Eaux Claires - Gov Ctr','F37727',1509385,3
+240130,'130X','Baturyn - Eaux Claires - Gov Ctr','F37727',1510346,3
+240140,'140X','Palisades - Kingsway Express','F37727',1511307,3
+240150,'150X','Dunluce - Castle Downs - Gov Ctr','F37727',1512268,3
+240500,'500X','Mdws - MacEwan','F37727',1626627,3
+240700,'700X','Century Pk - Heritage Vly','F37727',1686209,3
+240900,'900X','Lewis Farms - Downtown','F37727',1745791,3
+240910,'910X','West Lymburn - Lessard - South Campus','F37727',1746752,3
+240920,'920X','Lewis Farms - University Express','F37727',1747713,3
+240930,'930X','The Grange - South Campus','F37727',1748674,3
