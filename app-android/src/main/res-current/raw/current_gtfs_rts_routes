@@ -14,6 +14,7 @@
 54,'054','West Edmonton Mall - West Clareview','005087',47823,3
 55,'055','Mdws - Southgate - West Edmonton Mall','005087',47824,3
 56,'056','Mill Woods - Leger - West Edmonton Mall','005087',47825,3
+71,'071','Capital Line Replacement Service','5AB3B3',47882,3
 101,'101','Stadium - Abbottsfield','005087',48626,3
 102,'102','Kingsway - Coliseum - Abbottsfield','005087',48627,3
 103,'103','Eaux Claires - Castle Downs - Kingsway','005087',48628,3
@@ -22,7 +23,7 @@
 107,'107','Belvedere - West Clareview','005087',48632,3
 108,'108','Belvedere - East Clareview','005087',48633,3
 109,'109','Northgate - Castle Downs - Hudson','005087',48634,3
-111,'111','Riverdale - McQueen','005087',48657,3
+111,'111','Stadium - McQueen','005087',48657,3
 112,'112','Castle Downs - Eaux Claires','005087',48658,3
 113,'113','West Clareview - Northgate','005087',48659,3
 114,'114','West Clareview - Northgate','005087',48660,3
@@ -44,7 +45,7 @@
 505,'505','Davies - Pylypow Ind','005087',52474,3
 506,'506','Davies - Mdws - Maple','005087',52475,3
 507,'507','Tamarack - Southgate','005087',52476,3
-508,'508','Mdws - Millbourne','005087',52477,3
+508,'508','Mdws - Mill Woods','005087',52477,3
 509,'509','Mill Woods - Millbourne','005087',52478,3
 511,'511','Mill Woods - Downtown','005087',52501,3
 512,'512','Mill Woods - South Edmonton Common','005087',52502,3

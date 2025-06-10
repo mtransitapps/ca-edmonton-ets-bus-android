@@ -30,6 +30,8 @@
 5501,0,'W Edm Mall',55
 5600,0,'Mdws',56
 5601,0,'W Edm Mall',56
+7101,0,'Century Pk',71
+7100,0,'University',71
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -85,8 +87,8 @@
 50501,0,'Pylypow',505
 50601,0,'Davies',506
 50600,0,'Mdws',506
-50700,0,'Mdws',507
 50701,0,'Southgate',507
+50700,0,'Tamarack',507
 50800,0,'Mdws',508
 50801,0,'Millbourne',508
 50900,0,'A Ridgewood',509
