@@ -37,7 +37,6 @@
 124,'124','Westmount - Eaux Claires','005087',48691,3
 127,'127','Northgate - White Oaks Sq - Castle Downs','005087',48694,3
 128,'128','Northgate - Londonderry','005087',48695,3
-131,'131','Riverdale - Downtown','004080',48719,3
 501,'501','Davies - Capilano','005087',52470,3
 502,'502','Davies - South Campus','005087',52471,3
 503,'503','Davies - Millbourne - Woodvale','005087',52472,3
@@ -62,68 +61,9 @@
 524,'524','Bonnie Doon - Holyrood','005087',52535,3
 525,'525','Bonnie Doon - Ritchie','005087',52536,3
 526,'526','Mill Woods - Millbourne Woodvale','005087',52537,3
+527,'527','Mill Woods - Millbourne','005087',52538,3
 560,'560','Spruce Grv - Downtown Edmonton','139FE6',52655,3
 589,'589','Edmonton Waste Management Ctr - Coliseum','B3B300',52726,3
-610,'610','Queen E - Dickinsfield - Lago Lindo','005087',53461,3
-612,'612','Queen E - O''Leary - Hollick-Kenyon','005087',53463,3
-613,'613','Archbishop O''Leary - Queen Elizabeth - Dunluce','005087',53464,3
-614,'614','Archbishop O''Leary - Queen E - Baturyn','005087',53465,3
-616,'616','Mary Butterworth - Lago Lindo - Klarvatten','005087',53467,3
-617,'617','Mary Butterworth - Eaux Claires','005087',53468,3
-618,'618','Sir John Thompson - Rapperswill','005087',53469,3
-620,'620','JJ Bowlen - LaZerte - Londonderry - Clareview','005087',53492,3
-621,'621','ME LaZerte - Londonderry - Crystallina Nera','005087',53493,3
-623,'623','Coliseum - LaZerte - Londonderry','005087',53495,3
-624,'624','O''Leary - Rapperswill','005087',53496,3
-625,'625','O''Leary - Palisades','005087',53497,3
-626,'626','O''Leary - Crystallina Nera','005087',53498,3
-627,'627','Eastglen - Bannerman','005087',53499,3
-630,'630','Ottewell - Austin O''Brien - Silver Berry','005087',53523,3
-631,'631','Ottewell - Austin O''Brien - Maple','005087',53524,3
-632,'632','O''Brien - Ottewell - Kenilworth - Mill Woods','005087',53525,3
-633,'633','Austin O''Brien - Coliseum - Clareview','005087',53526,3
-634,'634','McNally - Tamarack','005087',53527,3
-635,'635','McNally - Silver Berry','005087',53528,3
-636,'636','McNally - Davies','005087',53529,3
-637,'637','Braemar - University','005087',53530,3
-642,'642','Lakewood - Mill Woods','005087',53556,3
-643,'643','TD Baker - Mill Woods','005087',53557,3
-644,'644','Elder Dr Whiskeyjack - Silverberry - Wild Rose','005087',53558,3
-645,'645','Elder Dr Whiskeyjack - Mdws','005087',53559,3
-646,'646','Elder Dr Whiskeyjack - Mill Woods','005087',53560,3
-647,'647','Elder Dr Whiskeyjack - Laurel','005087',53561,3
-650,'650','Riverbend S - Leger','005087',53585,3
-651,'651','Avalon - Southgate','005087',53586,3
-652,'652','Strathcona - Southgate','005087',53587,3
-653,'653','Strathcona - Davies','005087',53588,3
-654,'654','Strathcona - Belgravia - Windsor Pk','005087',53589,3
-655,'655','Strathcona - South Campus','005087',53590,3
-656,'656','Allendale - Strathcona','005087',53591,3
-657,'657','Leger - Strathcona HS','005087',53592,3
-658,'658','Fr M McCaffery - Rutherford','005087',53593,3
-659,'659','Fr M McCaffery - MacEwan','005087',53594,3
-660,'660','Century Pk - Harry Ainlay','005087',53616,3
-661,'661','Harry Ainlay - Mill Woods','005087',53617,3
-662,'662','Harry Ainlay - Louis St Laurent - Century Pk','005087',53618,3
-663,'663','Fr M McCaffery - Chappelle','005087',53619,3
-664,'664','Walker - A Anderson - M McCaffery','005087',53620,3
-665,'665','Charlesworth - Dr Anne Anderson','005087',53621,3
-667,'667','Century Pk - Dr Anne Anderson','005087',53623,3
-668,'668','Chappelle - Dr Anne Anderson','005087',53624,3
-669,'669','Keswick - Fr M McCaffery','005087',53625,3
-671,'671','Alex Janvier - WEM - Lewis Farms','005087',53648,3
-673,'673','Hillcrest - WEM','005087',53650,3
-674,'674','HE Beriault - Lewis Farms','005087',53651,3
-675,'675','S Bruce Smith - Cameron Hts','005087',53652,3
-676,'676','Alex Janvier - St Thomas More - La Perle','005087',53653,3
-678,'678','Jasper Pl - Alex Janvier - Lewis Farms','005087',53655,3
-681,'681','Ross Sheppard - A MacDonald - Lewis Farms','005087',53679,3
-682,'682','Ross Sheppard - Archbishop MacDonald - Leger','005087',53680,3
-683,'683','Arch MacDonald - Ross Sheppard - Castle Downs','005087',53681,3
-684,'684','Archbishop MacDonald - Ross Sheppard - Lago Lindo','005087',53682,3
-685,'685','Ross Sheppard - A MacDonald - Lewis Farms','005087',53683,3
-691,'691','Amiskwaciy - Kingsway','005087',53710,3
-692,'692','Victoria S - WEM','005087',53711,3
 701,'701','Southgate - Kingsway','005087',54392,3
 702,'702','Southgate - South Campus','005087',54393,3
 703,'703','Leger - South Campus','005087',54394,3
@@ -144,8 +84,6 @@
 722,'722','Century Pk - Rutherford - Allard','005087',54455,3
 723,'723','University - Parkallen','005087',54456,3
 724,'724','Leger - Brander Gdns - South Campus','005087',54457,3
-725,'725','Southgate - Lendrum','005087',54458,3
-726,'726','University - Windsor Pk - Belgravia','005087',54459,3
 727,'727','Heritage Vly - Chappelle','005087',54460,3
 729,'729','Leger - Century Pk','005087',54462,3
 747,'747','Century Pk - Edmonton International Airport','005087',54522,3
