@@ -13,7 +13,7 @@
 53,'053','West Clareview - Mill Woods','005087',47822,3
 54,'054','West Edmonton Mall - West Clareview','005087',47823,3
 55,'055','Mdws - Southgate - West Edmonton Mall','005087',47824,3
-56,'056','Mill Woods - Leger - West Edmonton Mall','005087',47825,3
+56,'056','Mdws - Leger - West Edmonton Mall','005087',47825,3
 101,'101','Stadium - Abbottsfield','005087',48626,3
 102,'102','Kingsway - Coliseum - Abbottsfield','005087',48627,3
 103,'103','Eaux Claires - Castle Downs - Kingsway','005087',48628,3
@@ -22,10 +22,10 @@
 107,'107','Belvedere - West Clareview','005087',48632,3
 108,'108','Belvedere - East Clareview','005087',48633,3
 109,'109','Northgate - Castle Downs - Hudson','005087',48634,3
-111,'111','Stadium - McQueen','005087',48657,3
+111,'111','Concordia - McQueen','005087',48657,3
 112,'112','Castle Downs - Eaux Claires','005087',48658,3
 113,'113','West Clareview - Northgate','005087',48659,3
-114,'114','West Clareview - Northgate','005087',48660,3
+114,'114','West Clareview - Coliseum','005087',48660,3
 116,'116','Abbottsfield - East Clareview','005087',48662,3
 117,'117','Eaux Claires - West Clareview','005087',48663,3
 118,'118','Eaux Claires - West Clareview','005087',48664,3
