@@ -30,6 +30,8 @@
 5501,0,'W Edm Mall',55
 5600,0,'Mdws',56
 5601,0,'W Edm Mall',56
+7300,0,'Downtown',73
+7301,0,'Mill Woods',73
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -38,22 +40,22 @@
 10301,0,'Kingsway RAH',103
 10400,0,'Clareview',104
 10401,0,'Coliseum',104
-10600,0,'Belvedere',106
-10601,0,'Dunvegan',106
+10600,0,'Belvedere TC B:J',106
+10601,0,'Dunvegan Rd Loop',106
 10701,0,'Belvedere',107
 10700,0,'Clareview',107
 10801,0,'Belvedere',108
 10800,0,'Clareview',108
 10900,0,'A Castle Downs',109
 10901,0,'B Castle Downs',109
-11100,0,'Stadium',111
-11101,0,'Westmount',111
+11100,0,'Concordia U',111
+11101,0,'Westmount TC B:G',111
 11201,0,'Castle Downs',112
 11200,0,'Eaux Claires',112
 11300,0,'Clareview',113
 11301,0,'Northgate',113
 11400,0,'Clareview',114
-11401,0,'Northgate',114
+11401,0,'Coliseum',114
 11601,0,'Abbottsfield',116
 11600,0,'Clareview',116
 11700,0,'Clareview',117
@@ -65,8 +67,8 @@
 12101,0,'Clareview',121
 12100,0,'Evergreen',121
 12201,0,'Lago Lindo',122
-12301,0,'Coliseum',123
-12300,0,'Northgate',123
+12300,0,'N',123
+12301,0,'S',123
 12400,0,'Eaux Claires',124
 12401,0,'Westmount',124
 12700,0,'Castle Downs',127
@@ -122,6 +124,125 @@
 56000,0,'Spruce Grv',560
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
+61000,0,'Lago Lindo',610
+61001,0,'Queen E',610
+61101,0,'Cardinal Leger',611
+61100,0,'Lago Lindo',611
+61200,0,'Brintnell',612
+61201,0,'O''Leary',612
+61300,0,'Arch O''Leary',613
+61301,0,'Dunluce',613
+61401,0,'Arch O''Leary',614
+61400,0,'Baturyn',614
+61600,0,'Lago Lindo',616
+61601,0,'M Butterworth',616
+61700,0,'Eaux Claires',617
+61701,0,'M Butterworth',617
+61800,0,'Rapperswill',618
+61801,0,'SJT HS',618
+62000,0,'Brintnell',620
+62001,0,'JJ Bowlen',620
+62100,0,'Crystallina Nera',621
+62101,0,'JJ Bowlen',621
+62200,0,'Concordia Univ',622
+62201,0,'Stadium',622
+62401,0,'Arch O''Leary',624
+62400,0,'Rapperswill',624
+62501,0,'Arch O''Leary',625
+62500,0,'Palisades',625
+62601,0,'Arch O''Leary',626
+62600,0,'Crystallina Nera',626
+62700,0,'Bannerman',627
+62701,0,'Eastglen HS',627
+62800,0,'Cy Becker',628
+62801,0,'Steele Hts',628
+63000,0,'Austin O''Brien',630
+63001,0,'Silver Berry',630
+63100,0,'Austin O''Brien',631
+63101,0,'Maple',631
+63200,0,'Austin O''Brien',632
+63301,0,'Austin O''Brien',633
+63300,0,'Clareview',633
+63400,0,'McNally',634
+63401,0,'Tamarack',634
+63500,0,'McNally',635
+63501,0,'Silver Berry',635
+63601,0,'Davies',636
+63600,0,'McNally',636
+63700,0,'Braemar',637
+63701,0,'University',637
+63800,0,'Lakewood',638
+63801,0,'Orchards',638
+64201,0,'Lakewood',642
+64200,0,'Mill Woods',642
+64301,0,'Mill Woods',643
+64401,0,'Whiskeyjack HS',644
+64400,0,'Wildrose',644
+64500,0,'Mdws',645
+64501,0,'Whiskeyjack HS',645
+64601,0,'Mill Woods',646
+64600,0,'Whiskeyjack HS',646
+64701,0,'Laurel',647
+64700,0,'Whiskeyjack HS',647
+65001,0,'Leger',650
+65000,0,'Riverbend',650
+65100,0,'Avalon',651
+65101,0,'Southgate',651
+65201,0,'Southgate',652
+65200,0,'Strathcona HS',652
+65301,0,'Davies',653
+65300,0,'Strathcona HS',653
+65401,0,'Strathcona HS',654
+65400,0,'Windsor Pk',654
+65501,0,'S Campus',655
+65500,0,'Strathcona HS',655
+65600,0,'Davies',656
+65601,0,'Strathcona HS',656
+65701,0,'Leger',657
+65700,0,'Strathcona HS',657
+65801,0,'McCaffery HS',658
+65800,0,'Rutherford',658
+65900,0,'MacEwan',659
+65901,0,'McCaffery HS',659
+66000,0,'Harry Ainlay',660
+66101,0,'Harry Ainlay',661
+66100,0,'Mill Woods',661
+66201,0,'Century Pk',662
+66200,0,'Harry Ainlay',662
+66301,0,'Chappelle',663
+66300,0,'McCaffery HS',663
+66401,0,'McCaffery HS',664
+66400,0,'Walker',664
+66501,0,'Anderson HS',665
+66500,0,'Charlesworth',665
+66701,0,'Anderson HS',667
+66700,0,'Century Pk',667
+66800,0,'Anderson HS',668
+66801,0,'Chappelle',668
+66901,0,'Keswick',669
+66900,0,'McCaffery HS',669
+67100,0,'Jasper Pl HS',671
+67101,0,'W Edm Mall',671
+67300,0,'Hillcrest',673
+67301,0,'W Edm Mall',673
+67400,0,'HE Beriault',674
+67401,0,'Lewis Farms',674
+67600,0,'Alex Janvier',676
+67601,0,'Belmead',676
+67800,0,'Jasper Pl HS',678
+67801,0,'Lewis Farms',678
+68101,0,'Lewis Farms',681
+68100,0,'Ross Sheppard',681
+68200,0,'Arch MacDonald',682
+68201,0,'Leger',682
+68301,0,'Arch MacDonald',683
+68300,0,'Castle Downs',683
+68401,0,'Arch MacDonald',684
+68400,0,'Lago Lindo',684
+68500,0,'Ross Sheppard',685
+69100,0,'Kingsway',691
+69200,0,'Victoria',692
+69201,0,'W Edm Mall',692
 70100,0,'Kingsway RAH',701
 70101,0,'Southgate',701
 70200,0,'S Campus',702
