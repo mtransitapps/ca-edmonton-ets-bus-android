@@ -40,8 +40,8 @@
 10301,0,'Kingsway RAH',103
 10400,0,'Clareview',104
 10401,0,'Coliseum',104
-10600,0,'Belvedere TC B:J',106
-10601,0,'Dunvegan Rd Loop',106
+10600,0,'Belvedere',106
+10601,0,'Dunvegan',106
 10701,0,'Belvedere',107
 10700,0,'Clareview',107
 10801,0,'Belvedere',108
@@ -67,8 +67,6 @@
 12101,0,'Clareview',121
 12100,0,'Evergreen',121
 12201,0,'Lago Lindo',122
-12300,0,'N',123
-12301,0,'S',123
 12400,0,'Eaux Claires',124
 12401,0,'Westmount',124
 12700,0,'Castle Downs',127
