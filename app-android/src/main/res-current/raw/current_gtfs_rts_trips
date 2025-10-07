@@ -288,8 +288,8 @@
 74701,0,'Edm Intl Airport',747
 90100,0,'Downtown',901
 90101,0,'Jasper Pl',901
-90200,0,'106 St & 118 Ave Loop',902
-90201,0,'University TC B:B',902
+90200,0,'NAIT',902
+90201,0,'University',902
 90301,0,'Jasper Pl',903
 90300,0,'Kingsway RAH',903
 90401,0,'W Edm Mall',904
@@ -334,8 +334,8 @@
 24011000,0,'Eaux Claires Express',240110
 24012000,0,'Eaux Claires Express',240120
 24012001,0,'Gov''t Ctr Express',240120
-24013000,0,'Baturyn',240130
-24013001,0,'Gov''t Ctr Express',240130
+24013000,0,'Baturyn Express',240130
+24013001,0,'Gov''t Ctr Express / St (Vly Line)',240130
 24014001,0,'Kingsway RAH Express',240140
 24014000,0,'Palisades Express',240140
 24015000,0,'Dunluce Express',240150
