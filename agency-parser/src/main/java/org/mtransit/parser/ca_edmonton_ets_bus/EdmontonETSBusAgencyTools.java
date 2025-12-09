@@ -15,8 +15,8 @@ import org.mtransit.parser.gtfs.data.GRoute;
 import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.gtfs.data.GTrip;
 import org.mtransit.parser.mt.data.MAgency;
+import org.mtransit.parser.mt.data.MDirection;
 import org.mtransit.parser.mt.data.MRoute;
-import org.mtransit.parser.mt.data.MTrip;
 
 import java.util.Collections;
 import java.util.List;
@@ -147,8 +147,8 @@ public class EdmontonETSBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public List<Integer> getDirectionTypes() {
 		return Collections.singletonList(
-				// MTrip.HEADSIGN_TYPE_DIRECTION // <= mixed w/ string not supported (yet?)
-				MTrip.HEADSIGN_TYPE_STRING
+				// MDirection.HEADSIGN_TYPE_DIRECTION // <= mixed w/ string not supported (yet?)
+				MDirection.HEADSIGN_TYPE_STRING
 		);
 	}
 
