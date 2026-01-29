@@ -6,4 +6,5 @@
     <integer name="gtfs_rts_agency_type">3</integer>
     <string name="gtfs_rts_timezone">America/Edmonton</string>
     <string name="gtfs_rts_color">005087</string>
+    <string name="gtfs_rts_service_id_cleanup_regex">^(DX|SA|SU|Blocking)-</string>
 </resources>

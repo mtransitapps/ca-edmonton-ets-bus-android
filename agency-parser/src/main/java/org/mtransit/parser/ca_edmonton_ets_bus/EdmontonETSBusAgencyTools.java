@@ -30,11 +30,6 @@ public class EdmontonETSBusAgencyTools extends DefaultAgencyTools {
 		new EdmontonETSBusAgencyTools().start(args);
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	public String getAgencyName() {
 		return "ETS";
@@ -79,6 +74,17 @@ public class EdmontonETSBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_BUS;
+	}
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		// {620-Weekday-1-26-02=
+		// [
+		// DX-620-Weekday-1-26-02-1110100, 
+		// DX-620-Weekday-1-26-02-1111100, 
+		// DX-620-Weekday-1-26-02-0001000
+		// ], 
+		return "^(DX|SA|SU|Blocking)-"; // |-\\d{7}$"
 	}
 
 	@NotNull
