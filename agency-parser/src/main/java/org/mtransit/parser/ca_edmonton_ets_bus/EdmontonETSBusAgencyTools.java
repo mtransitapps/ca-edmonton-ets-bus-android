@@ -78,12 +78,6 @@ public class EdmontonETSBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public @Nullable String getServiceIdCleanupRegex() {
-		// {620-Weekday-1-26-02=
-		// [
-		// DX-620-Weekday-1-26-02-1110100, 
-		// DX-620-Weekday-1-26-02-1111100, 
-		// DX-620-Weekday-1-26-02-0001000
-		// ], 
 		return "^(DX|SA|SU|Blocking)-"; // |-\\d{7}$"
 	}
 
