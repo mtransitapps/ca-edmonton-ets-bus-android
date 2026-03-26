@@ -1,0 +1,16 @@
+{
+  "agency_id": "1",
+  "agency_id_comment": "Edmonton Transit Service ONLY",
+  "other_agency_ids": [
+    "5"
+  ],
+  "other_agency_ids_comment": [
+    "Spruce Grove Transit"
+  ],
+  "target_route_type_id": 3,
+  "default_color": "005087",
+  "default_color_comment": "BLUE",
+  "default_color_enabled": true,
+  "default_strings_cleaner_enabled": true,
+  "service_id_cleanup_regex": "^(DX|SA|SU|Blocking)-"
+}
