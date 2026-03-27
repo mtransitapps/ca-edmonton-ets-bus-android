@@ -1,0 +1,103 @@
+{
+  "exclude_routes": [
+    {
+      "route_id": "023R"
+    }
+  ],
+  "default_route_id_enabled": true,
+  "use_route_short_name_for_route_id": true,
+  "use_route_id_for_route_short_name": true,
+  "route_short_name_to_route_id_configs": [
+    {
+      "route_short_name": "ValRep",
+      "route_id": 9073
+    },
+    {
+      "route_short_name": "SHUT",
+      "route_id": 998
+    },
+    {
+      "route_short_name": "CapRep",
+      "route_id": 9071
+    },
+    {
+      "route_short_name": "Shuttle",
+      "route_id": 9072
+    }
+  ],
+  "direction_types_comment": "TODO? MDirection.HEADSIGN_TYPE_DIRECTION",
+  "direction_finder_enabled": true,
+  "direction_headsign_cleaners": [
+    {
+      "regex": "( bay [a-z0-9]+)",
+      "ignore_case": true
+    },
+    {
+      "regex": "(^\\d+-OWL )",
+      "ignore_case": true
+    }
+  ],
+  "trip_excludes": [
+    {
+      "trip_headsign_regex": "not in service",
+      "ignore_case": true
+    }
+  ],
+  "trip_headsign_remove_via": true,
+  "trip_headsign_cleaners": [
+    {
+      "regex": "(^\\d+( )?)"
+    },
+    {
+      "regex": "(^X )",
+      "ignore_case": true
+    },
+    {
+      "regex": "town (center|centre)",
+      "ignore_case": true,
+      "replacement": "TC"
+    },
+    {
+      "regex": "super express",
+      "ignore_case": true,
+      "is_word": true
+    },
+    {
+      "regex": "international",
+      "ignore_case": true,
+      "is_word": true,
+      "replacement": "Int"
+    },
+    {
+      "regex": "Edmonton",
+      "ignore_case": true,
+      "is_word": true,
+      "replacement": "Edm"
+    }
+  ],
+  "stop_name_cleaners": [
+    {
+      "regex": "town (center|centre)",
+      "ignore_case": true,
+      "replacement": "TC"
+    },
+    {
+      "regex": "international",
+      "ignore_case": true,
+      "is_word": true,
+      "replacement": "Int"
+    },
+    {
+      "regex": "Belvedere",
+      "ignore_case": true,
+      "is_word": true,
+      "replacement": "Bel"
+    },
+    {
+      "regex": "Edmonton",
+      "ignore_case": true,
+      "is_word": true,
+      "replacement": "Edm"
+    }
+  ]
+}
