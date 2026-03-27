@@ -69,12 +69,6 @@
       "replacement": "Int"
     },
     {
-      "regex": "Belvedere",
-      "ignore_case": true,
-      "is_word": true,
-      "replacement": "Bel"
-    },
-    {
       "regex": "Edmonton",
       "ignore_case": true,
       "is_word": true,
