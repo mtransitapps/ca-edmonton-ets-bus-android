@@ -28,6 +28,8 @@
 5501,0,'West Edm Mall',55
 5600,0,'Meadows',56
 5601,0,'West Edm Mall',56
+7100,0,'Clareview',71
+7101,0,'Downtown',71
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -138,8 +140,8 @@
 62001,0,'Jj Bowlen',620
 62100,0,'Crystallina Nera',621
 62101,0,'Jj Bowlen',621
-62401,0,'Arch O''Leary',624
-62400,0,'Rapperswill',624
+62401,0,'AM',624
+62400,0,'PM',624
 62501,0,'Arch O''Leary',625
 62500,0,'Palisades',625
 62601,0,'Arch O''Leary',626
