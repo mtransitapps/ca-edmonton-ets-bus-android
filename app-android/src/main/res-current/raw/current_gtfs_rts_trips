@@ -120,16 +120,16 @@
 56000,0,'Spruce Grove',560
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
-61000,0,'North',610
-61001,0,'South',610
+61000,0,'Lago Lindo',610
+61001,0,'Queen E',610
 61101,0,'Cardinal Leger',611
 61100,0,'Lago Lindo',611
-61200,0,'East',612
-61201,0,'West',612
-61300,0,'East',613
-61301,0,'West',613
-61400,0,'North',614
-61401,0,'South',614
+61200,0,'Brintnell',612
+61201,0,'O''Leary',612
+61300,0,'Arch O''Leary',613
+61301,0,'Dunluce',613
+61401,0,'Arch O''Leary',614
+61400,0,'Baturyn',614
 61600,0,'Lago Lindo',616
 61601,0,'M Butterworth',616
 61700,0,'Eaux Claires',617
@@ -142,12 +142,12 @@
 62101,0,'Jj Bowlen',621
 62200,0,'Concordia Univ',622
 62201,0,'Stadium',622
-62400,0,'North',624
-62401,0,'South',624
-62500,0,'North',625
-62501,0,'South',625
-62600,0,'North',626
-62601,0,'South',626
+62401,0,'Arch O''Leary',624
+62400,0,'Rapperswill',624
+62501,0,'Arch O''Leary',625
+62500,0,'Palisades',625
+62601,0,'Arch O''Leary',626
+62600,0,'Crystallina Nera',626
 62700,0,'Bannerman',627
 62701,0,'Eastglen Hs',627
 62800,0,'Cy Becker',628
