@@ -1,4 +1,3 @@
-1,'001','Downtown - Capilano','',47665,3
 2,'002','W Edmonton Mall - Stadium - Clareview','',47666,3
 3,'003','Westmount - Stadium','',47667,3
 4,'004','Lewis Farms - University - Capilano','',47668,3
@@ -14,6 +13,7 @@
 54,'054','W Edmonton Mall - W Clareview','',47823,3
 55,'055','Mdws - Southgate - W Edmonton Mall','',47824,3
 56,'056','Mdws - Leger - West Edmonton Mall','',47825,3
+71,'071','Capital Replacement Service','FF8000',47882,3
 101,'101','Stadium - Abbottsfield','',48626,3
 102,'102','Kingsway - Coliseum - Abbottsfield','',48627,3
 103,'103','Eaux Claires - Castle Downs - Kingsway','',48628,3
@@ -72,7 +72,6 @@
 618,'618','Sir John Thompson - Rapperswill','',53469,3
 620,'620','JJ Bowlen - Lazerte - Brintnell','',53492,3
 621,'621','ME Lazerte - Londonderry - Crystallina Nera','',53493,3
-622,'622','Stadium - Concordia University','',53494,3
 624,'624','O''Leary - Rapperswill','',53496,3
 625,'625','O''Leary - Palisades','',53497,3
 626,'626','O''Leary - Crystallina Nera','',53498,3
@@ -170,6 +169,8 @@
 924,'924','Jasper Place - Rio Terrace','',56379,3
 925,'925','West Edmonton Mall - Jasper Place','',56380,3
 926,'926','Lewis Farms - Stillwater','',56381,3
+10001,'001A','Downtown - Capilano','',1477680,3
+20001,'001B','Downtown - Capilano','',1477681,3
 240110,'110X','Eaux Claires - Downtown','F37727',1508424,3
 240120,'120X','Eaux Claires - Government Centre','F37727',1509385,3
 240130,'130X','Baturyn - Eaux Claires - Gov Ctr','F37727',1510346,3

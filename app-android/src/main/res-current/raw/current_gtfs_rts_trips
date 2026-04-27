@@ -1,5 +1,3 @@
-100,0,'Capilano',1
-101,0,'Downtown',1
 200,0,'Clareview',2
 201,0,'West Edm Mall',2
 300,0,'Stadium',3
@@ -30,6 +28,8 @@
 5501,0,'West Edm Mall',55
 5600,0,'Meadows',56
 5601,0,'West Edm Mall',56
+7100,0,'Clareview',71
+7101,0,'Downtown',71
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -140,8 +140,6 @@
 62001,0,'Jj Bowlen',620
 62100,0,'Crystallina Nera',621
 62101,0,'Jj Bowlen',621
-62200,0,'Concordia Univ',622
-62201,0,'Stadium',622
 62401,0,'Arch O''Leary',624
 62400,0,'Rapperswill',624
 62501,0,'Arch O''Leary',625
@@ -328,6 +326,10 @@
 92500,0,'Jasper Place',925
 92501,0,'West Edm Mall',925
 92600,0,'Stillwater',926
+1000100,0,'A Capilano',10001
+1000101,0,'A Downtown',10001
+2000100,0,'B Capilano',20001
+2000101,0,'B Downtown',20001
 24011001,0,'Downtown Express',240110
 24011000,0,'Eaux Claires Express',240110
 24012000,0,'Eaux Claires Express',240120
