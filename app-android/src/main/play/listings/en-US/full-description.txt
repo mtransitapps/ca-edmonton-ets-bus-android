@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-edmonton-ets-bus-android
 This app is not related with ETS (Edmonton Transit System) and the City of Edmonton.
 
 Permissions:
-- Other: required to read real-time estimated next departures from etslive.edmonton.ca and to read news from Twitter
+- Other: required to read news from Twitter
