@@ -27,9 +27,7 @@
 5500,0,'Meadows',55
 5501,0,'West Edm Mall',55
 5600,0,'Meadows',56
-5601,0,'West',56
-7101,0,'Belvedere',71
-7100,0,'Clareview',71
+5601,0,'West Edm Mall',56
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -96,7 +94,7 @@
 51500,0,'Meadows',515
 51501,0,'Mill Woods',515
 51600,0,'Meadows',516
-51601,0,'West',516
+51601,0,'Mill Woods',516
 51701,0,'Southwood',517
 51801,0,'Century Park',518
 51800,0,'Mill Woods',518
@@ -121,7 +119,7 @@
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
 61000,0,'Lago Lindo',610
-61001,0,'Queen E',610
+61001,0,'O''Leary',610
 61101,0,'Cardinal Leger',611
 61100,0,'Lago Lindo',611
 61200,0,'Brintnell',612
@@ -136,8 +134,8 @@
 61701,0,'M Butterworth',617
 61800,0,'Rapperswill',618
 61801,0,'Sjt Hs',618
-62000,0,'Brintnell',620
-62001,0,'Jj Bowlen',620
+62001,0,'AM',620
+62000,0,'PM',620
 62100,0,'Crystallina Nera',621
 62101,0,'Jj Bowlen',621
 62401,0,'Arch O''Leary',624
@@ -208,7 +206,7 @@
 66401,0,'McCaffery Hs',664
 66400,0,'Walker',664
 66501,0,'Anderson Hs',665
-66500,0,'Charlesworth',665
+66500,0,'Walker',665
 66701,0,'Anderson Hs',667
 66700,0,'Century Park',667
 66800,0,'Anderson Hs',668
