@@ -13,6 +13,7 @@
 54,'054','W Edmonton Mall - W Clareview','',47823,3
 55,'055','Mdws - Southgate - W Edmonton Mall','',47824,3
 56,'056','Mdws - Leger - West Edmonton Mall','',47825,3
+71,'071','Capital Replacement Service','0080C0',47882,3
 101,'101','Stadium - Abbottsfield','',48626,3
 102,'102','Kingsway - Coliseum - Abbottsfield','',48627,3
 103,'103','Eaux Claires - Castle Downs - Kingsway','',48628,3
@@ -53,7 +54,6 @@
 518,'518','Mill Woods - Century Park','',52508,3
 519,'519','Mill Woods - Century Park','',52509,3
 521,'521','Mill Woods - Century Park','',52532,3
-522,'522','Capilano - Bonnie Doon','',52533,3
 523,'523','Mill Woods - Downtown','',52534,3
 524,'524','Bonnie Doon - Holyrood','',52535,3
 525,'525','Bonnie Doon - Ritchie','',52536,3
@@ -78,19 +78,13 @@
 628,'628','Steele Heights - Cy Becker','',53500,3
 630,'630','Austin O''Brien - Silver Berry','',53523,3
 631,'631','Austin O''Brien - Maple','',53524,3
-632,'632','O''Brien - Ottewell - Kenilworth - Davies','',53525,3
 633,'633','Austin O''Brien - Coliseum - Clareview','',53526,3
 634,'634','McNally - Tamarack','',53527,3
 635,'635','McNally - Silver Berry','',53528,3
 636,'636','McNally - Davies','',53529,3
-637,'637','Braemar - University','',53530,3
 638,'638','Lakewood - Orchards','',53531,3
 642,'642','Lakewood - Mill Woods','',53556,3
-643,'643','Td Baker - Mill Woods','',53557,3
-644,'644','Elder Dr Whiskeyjack - Silverberry - Wild Rose','',53558,3
-645,'645','Elder Dr Whiskeyjack - Meadows','',53559,3
 646,'646','Elder Dr Whiskeyjack - Mill Woods','',53560,3
-647,'647','Elder Dr Whiskeyjack - Laurel','',53561,3
 650,'650','Riverbend School - Leger','',53585,3
 651,'651','Avalon - Southgate','',53586,3
 652,'652','Strathcona - Southgate','',53587,3

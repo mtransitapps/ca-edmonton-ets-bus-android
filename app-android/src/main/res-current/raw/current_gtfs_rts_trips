@@ -28,6 +28,8 @@
 5501,0,'West Edm Mall',55
 5600,0,'Meadows',56
 5601,0,'West Edm Mall',56
+7101,0,'Century Park',71
+7100,0,'Gov''T Centre',71
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -102,8 +104,6 @@
 51900,0,'Mill Woods',519
 52101,0,'Century Park',521
 52100,0,'Mill Woods',521
-52201,0,'Bonnie Doon',522
-52200,0,'Capilano',522
 52300,0,'Downtown',523
 52301,0,'Mill Woods',523
 52401,0,'Bonnie Doon',524
@@ -138,8 +138,8 @@
 62000,0,'PM',620
 62100,0,'Crystallina Nera',621
 62101,0,'Jj Bowlen',621
-62401,0,'Arch O''Leary',624
-62400,0,'Rapperswill',624
+62401,0,'AM',624
+62400,0,'PM',624
 62501,0,'Arch O''Leary',625
 62500,0,'Palisades',625
 62601,0,'Arch O''Leary',626
@@ -152,7 +152,6 @@
 63001,0,'Silver Berry',630
 63100,0,'Austin O''Brien',631
 63101,0,'Maple',631
-63200,0,'Austin O''Brien',632
 63301,0,'Austin O''Brien',633
 63300,0,'Clareview',633
 63400,0,'McNally',634
@@ -161,21 +160,11 @@
 63501,0,'Silver Berry',635
 63601,0,'Davies',636
 63600,0,'McNally',636
-63700,0,'Braemar',637
-63701,0,'University',637
 63800,0,'Lakewood',638
 63801,0,'Orchards',638
-64201,0,'Lakewood',642
 64200,0,'Mill Woods',642
-64301,0,'Mill Woods',643
-64401,0,'Whiskeyjack Hs',644
-64400,0,'Wildrose',644
-64500,0,'Meadows',645
-64501,0,'Whiskeyjack Hs',645
 64601,0,'Mill Woods',646
 64600,0,'Whiskeyjack Hs',646
-64701,0,'Laurel',647
-64700,0,'Whiskeyjack Hs',647
 65001,0,'Leger',650
 65000,0,'Riverbend',650
 65100,0,'Avalon',651
@@ -218,19 +207,19 @@
 67300,0,'Hillcrest',673
 67301,0,'West Edm Mall',673
 67400,0,'He Beriault',674
-67401,0,'Lewis Farms',674
+67401,0,'West Edm Mall',674
 67600,0,'Alex Janvier',676
 67601,0,'Belmead',676
 67800,0,'Jasper Pl Hs',678
 67801,0,'Lewis Farms',678
-68101,0,'Lewis Farms',681
 68100,0,'Ross Sheppard',681
+68101,0,'West Edm Mall',681
 68200,0,'Arch MacDonald',682
 68201,0,'Leger',682
 68301,0,'Arch MacDonald',683
 68300,0,'Castle Downs',683
 68401,0,'Arch MacDonald',684
-68400,0,'Lago Lindo',684
+68400,0,'Eaux Claires',684
 68500,0,'Ross Sheppard',685
 69100,0,'Kingsway',691
 69200,0,'Victoria',692
