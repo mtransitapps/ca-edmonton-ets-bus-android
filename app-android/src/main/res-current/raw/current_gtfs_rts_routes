@@ -13,7 +13,6 @@
 54,'054','W Edmonton Mall - W Clareview','',47823,3
 55,'055','Mdws - Southgate - W Edmonton Mall','',47824,3
 56,'056','Mdws - Leger - West Edmonton Mall','',47825,3
-71,'071','Capital Replacement Service','0080C0',47882,3
 101,'101','Stadium - Abbottsfield','',48626,3
 102,'102','Kingsway - Coliseum - Abbottsfield','',48627,3
 103,'103','Eaux Claires - Castle Downs - Kingsway','',48628,3
@@ -113,7 +112,7 @@
 240120,'120X','Eaux Claires - Government Centre','F37727',1509385,3
 240130,'130X','Baturyn - Eaux Claires - Gov Ctr','F37727',1510346,3
 240140,'140X','Palisades - Kingsway Express','F37727',1511307,3
-240150,'150X','Dunluce - Castle Downs - Gov Ctr','F37727',1512268,3
+240150,'150X','Rapperswill - Gov''T Centre','F37727',1512268,3
 240500,'500X','Meadows - MacEwan','F37727',1626627,3
 240700,'700X','Century Park - Heritage Valley','F37727',1686209,3
 240900,'900X','Lewis Farms - Downtown','F37727',1745791,3
