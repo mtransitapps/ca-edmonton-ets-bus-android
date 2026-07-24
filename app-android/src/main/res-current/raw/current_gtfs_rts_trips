@@ -211,25 +211,25 @@
 1000101,0,'A Downtown',10001
 2000100,0,'B Capilano',20001
 2000101,0,'B Downtown',20001
-24011001,0,'Downtown Express',240110
-24011000,0,'Eaux Claires Express',240110
-24012000,0,'Eaux Claires Express',240120
-24012001,0,'Gov''T Ctr Express',240120
-24013000,0,'Baturyn Express',240130
-24013001,0,'Gov''T Ctr Express',240130
-24014001,0,'Kingsway Rah Express',240140
-24014000,0,'Palisades Express',240140
-24015000,0,'Dunluce Express',240150
-24015001,0,'Gov''T Ctr Express',240150
-24050001,0,'Downtown Express',240500
-24050000,0,'Mdws Express',240500
-24070000,0,'Century Pk Express',240700
-24070001,0,'Heritage Vly Express',240700
+24011001,0,'Downtown',240110
+24011000,0,'Eaux Claires',240110
+24012000,0,'Eaux Claires',240120
+24012001,0,'Gov''T Centre',240120
+24013000,0,'Baturyn',240130
+24013001,0,'Gov''T Centre',240130
+24014001,0,'Kingsway Rah',240140
+24014000,0,'Palisades',240140
+24015000,0,'Dunluce',240150
+24015001,0,'Gov''T Centre',240150
+24050001,0,'Downtown',240500
+24050000,0,'Meadows',240500
+24070000,0,'Century Park',240700
+24070001,0,'Heritage Vly',240700
 24090000,0,'Downtown',240900
 24090001,0,'Lewis Farms',240900
-24091001,0,'Callingwood Express',240910
-24091000,0,'S Campus Express',240910
-24092001,0,'Lewis Farms Express',240920
-24092000,0,'University Express',240920
-24093001,0,'Hamptons Express',240930
-24093000,0,'S Campus Express',240930
+24091001,0,'Callingwood',240910
+24091000,0,'South Campus',240910
+24092001,0,'Lewis Farms',240920
+24092000,0,'University',240920
+24093001,0,'Hamptons',240930
+24093000,0,'South Campus',240930

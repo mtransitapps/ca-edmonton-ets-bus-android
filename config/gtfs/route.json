@@ -73,6 +73,11 @@
       "ignore_case": true,
       "is_word": true,
       "replacement": "Edm"
+    },
+    {
+      "regex": "\\s+express$",
+      "ignore_case": true,
+      "comment": "Remove ends with ' express'"
     }
   ],
   "stop_name_cleaners": [
