@@ -13,6 +13,7 @@
 54,'054','W Edmonton Mall - W Clareview','',47823,3
 55,'055','Mdws - Southgate - W Edmonton Mall','',47824,3
 56,'056','Mdws - Leger - West Edmonton Mall','',47825,3
+71,'071','Capital Replacement Service','0080C0',47882,3
 101,'101','Stadium - Abbottsfield','',48626,3
 102,'102','Kingsway - Coliseum - Abbottsfield','',48627,3
 103,'103','Eaux Claires - Castle Downs - Kingsway','',48628,3
@@ -78,6 +79,7 @@
 628,'628','Steele Heights - Cy Becker','',53500,3
 630,'630','Austin O''Brien - Silver Berry','',53523,3
 631,'631','Austin O''Brien - Maple','',53524,3
+632,'632','Capilano-Vimy Ridge','',53525,3
 633,'633','Austin O''Brien - Coliseum - Clareview','',53526,3
 634,'634','McNally - Tamarack','',53527,3
 635,'635','McNally - Silver Berry','',53528,3

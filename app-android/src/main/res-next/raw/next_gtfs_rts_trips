@@ -28,6 +28,8 @@
 5501,0,'West Edm Mall',55
 5600,0,'Meadows',56
 5601,0,'West Edm Mall',56
+7100,0,'Clareview',71
+7101,0,'Downtown',71
 10100,0,'Abbottsfield',101
 10101,0,'Stadium',101
 10200,0,'Abbottsfield',102
@@ -115,7 +117,7 @@
 58901,0,'Coliseum',589
 58900,0,'Edm Waste Mgmt',589
 61000,0,'Lago Lindo',610
-61001,0,'O''Leary',610
+61001,0,'Queen E',610
 61101,0,'Cardinal Leger',611
 61100,0,'Lago Lindo',611
 61200,0,'Brintnell',612
@@ -152,6 +154,8 @@
 63001,0,'Silver Berry',630
 63100,0,'Austin O''Brien',631
 63101,0,'Maple',631
+63200,0,'Capilano',632
+63201,0,'Vimy Ridge',632
 63301,0,'Austin O''Brien',633
 63300,0,'Clareview',633
 63400,0,'McNally',634
